@@ -95,7 +95,6 @@ $(window).on("ready", function() {
         var $modal = $("body").find($model.find(".card").attr("data-target"));
         var $modalCopy = $modal.clone();
         $modalCopy.find(".img-fluid").attr("src", card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?auto=compress,format");
-        console.log(card.attachments[1].url);
         $modalCopy.find(".settore").attr("src", card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?w=25");
         $modalCopy.attr("id", card.id);
         $modalCopy.find(".nome_contatti").text(card.name);
@@ -409,7 +408,6 @@ $('a[href*="#"]')
   	window.addEventListener("scroll", function() {
 
   		var scroll = $(window).scrollTop();
-  		console.log("scroll", scroll)
 
 
   		if (scroll > 15)
