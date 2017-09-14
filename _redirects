@@ -1,0 +1,33 @@
+#Redirect di tutte le vecchie pagine che danno conflitto in SearchConsole
+
+/it/home.html		 											/ita/index.html
+/it/contatti.html	 											/ita/index.html
+/it/certificazioni.html											/ita/index.html
+
+/it/05-pavimenti/index.html 									/ita/parquet.html
+
+/it/pavimenti/index.html 										/ita/parquet.html
+/it/pavimenti/massiccio.html 									/ita/parquet.html
+/it/pavimenti/monoplancia-3-strati.html							/ita/parquet.html
+/it/pavimenti/posa.html		 									/ita/parquet.html
+/it/pavimenti/produzione.html 									/ita/parquet.html
+
+/it/costruzioni/introduzione.html								/ita/case_in_legno.html
+/it/costruzioni/interrati-ed-esterni.html						/ita/case_in_legno.html
+/it/costruzioni/case-in-legno.html								/ita/case_in_legno.html
+/it/costruzioni/case-in-legno-e-cemento-armato.html				/ita/case_in_legno.html
+
+/it/legno-per-esterni/index.html								/ita/facciate_in_legno.html
+/it/legno-per-esterni/frangisole.html							/ita/facciate_in_legno.html
+/it/legno-per-esterni/pavimenti-g50.html						/ita/facciate_in_legno.html
+/it/legno-per-esterni/rivestimenti-facciate.html				/ita/facciate_in_legno.html
+/it/legno-per-esterni/veneziane.html							/ita/facciate_in_legno.html
+
+/it/tetti-e-solai/legno.html									/ita/tetti_in_legno.html
+/it/tetti-e-solai/acciaio.html									/ita/tetti_in_legno.html
+/it/tetti-e-solai/introduzione.html								/ita/tetti_in_legno.html
+/it/tetti-e-solai/linea-vita.html								/ita/tetti_in_legno.html
+/it/tetti-e-solai/lucernari.html								/ita/tetti_in_legno.html
+/it/tetti-e-solai/pacchetto-isolante.html						/ita/tetti_in_legno.html
+/it/tetti-e-solai/solai.html									/ita/tetti_in_legno.html
+/it/tetti-e-solai/x-lam.html									/ita/tetti_in_legno.html
