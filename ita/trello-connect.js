@@ -150,21 +150,13 @@ $(window).on("ready", function() {
 
     $btnLoadMore.on("click", function() {
       $btnLoadMore.hide();
-      $(".trello").show();
+      $(cardsToLoad).each(function() {
+        appendCard(this);
+      })
     });
 
 
-    var cardNumber = 0;
-    // cards
-    $.each(data.cards, function( key, card ) {
-      if (card.idList != idList)
-        return;
-
-      cardNumber++;
-
-      // we have a card
-      // check video
-
+    var appendCard = function(card) {
       if (card.desc.indexOf("player.vimeo.com") > 0 || card.desc.indexOf("www.youtube.com") > 0) {
         var $clone = $model.clone();
         var $embed = $('<div class="mt-1 embed-responsive embed-responsive-16by9"></div>');
@@ -173,8 +165,8 @@ $(window).on("ready", function() {
         $embed.append($iframe);
         $clone.find("img").replaceWith($embed);
 
-        if (cardNumber > imagesLimit)
-          $clone.hide();
+        // if (cardNumber > imagesLimit)
+        //   $clone.hide();
 
         $clone.insertBefore($btnLoadMore);
         $clone.find("span").text("");
@@ -201,8 +193,8 @@ $(window).on("ready", function() {
         });
       }
 
-      if (cardNumber > imagesLimit)
-          $clone.hide();
+      // if (cardNumber > imagesLimit)
+      //     $clone.hide();
 
       $clone.insertBefore($btnLoadMore);
       var index = $clone.parent().find("img").index($clone.find("img")[0]);
@@ -241,6 +233,26 @@ $(window).on("ready", function() {
         $secondCol.find("span").text(index);
         // var index = $clone.parent().find("img").index($secondCol.find("img"));
         // $secondCol.append("<span class='photo-number'>" + index + "</span>");
+      }
+    }
+
+    var cardNumber = 0;
+    // cards
+    var cardsToLoad = [];
+
+    $.each(data.cards, function( key, card ) {
+      if (card.idList != idList)
+        return;
+
+      cardNumber++;
+
+      // we have a card
+      // check video
+
+      if (cardNumber <= imagesLimit) {
+        appendCard(card);
+      } else {
+        cardsToLoad.push(card);
       }
       // zoom
     });
@@ -317,7 +329,7 @@ $(window).on("ready", function() {
     } catch(e) {
     }
 
-   $model.hide();
+   //$model.hide();
 
   });
 
