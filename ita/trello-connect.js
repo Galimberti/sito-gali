@@ -185,9 +185,9 @@ $(window).on("ready", function() {
       var $clone = $model.clone();
       var url = card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net");
       url = url + "?w=" + resolution;
+      url = url + "&q=40"
       url = url + "&mark=" + markurl;
       url = url + "&markscale=" + markscale + "&markpad=" + markpad;
-      url = url + "&q=40"
       $clone.find("img").attr("src", url);
       $clone.find("img").attr("alt", card.name);
 
