@@ -187,6 +187,7 @@ $(window).on("ready", function() {
       url = url + "?w=" + resolution;
       url = url + "&mark=" + markurl;
       url = url + "&markscale=" + markscale + "&markpad=" + markpad;
+      url = url + "&q=40"
       $clone.find("img").attr("src", url);
       $clone.find("img").attr("alt", card.name);
 
