@@ -76,7 +76,6 @@ $(window).on("ready", function() {
         if (card.idList != idList)
         return;
 
-        console.log(card);
         var $copy = $model.clone();
         var parts = card.desc.split("\n");
         $copy.find("img").attr("src", card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?auto=compress,format");
@@ -96,7 +95,6 @@ $(window).on("ready", function() {
         var $modal = $("body").find($model.find(".card").attr("data-target"));
         var $modalCopy = $modal.clone();
         $modalCopy.find(".img-fluid").attr("src", card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?auto=compress,format");
-        console.log(card.attachments[1].url);
         $modalCopy.find(".settore").attr("src", card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?w=25");
         $modalCopy.attr("id", card.id);
         $modalCopy.find(".nome_contatti").text(card.name);
@@ -146,6 +144,7 @@ $(window).on("ready", function() {
       resolution = 940;
 
     var $model = $(".trello");
+    $model.hide();
     var $btnLoadMore = $("#trello-load-more");
 
     $btnLoadMore.on("click", function() {
@@ -159,6 +158,8 @@ $(window).on("ready", function() {
     var appendCard = function(card) {
       if (card.desc.indexOf("player.vimeo.com") > 0 || card.desc.indexOf("www.youtube.com") > 0) {
         var $clone = $model.clone();
+        $clone.css("display","flex");
+        
         var $embed = $('<div class="mt-1 embed-responsive embed-responsive-16by9"></div>');
         var $iframe = $('<iframe ></iframe>');
         $iframe.attr("src", card.desc);
@@ -175,6 +176,9 @@ $(window).on("ready", function() {
 
       // check img
       var $clone = $model.clone();
+      $clone.removeClass("trello");
+      $clone.css("display","flex");
+
       var url = card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net");
       url = url + "?w=" + resolution;
       url = url + "&mark=" + markurl;
@@ -321,7 +325,6 @@ $(window).on("ready", function() {
 
     }
 
-
     try {
       var index = Number(document.location.hash.replace("#", ""));
       if (index != 0)
@@ -329,9 +332,11 @@ $(window).on("ready", function() {
     } catch(e) {
     }
 
-   //$model.hide();
+   
+    // $(document).find(".trello").hide();
 
   });
+
 
 });
 
@@ -403,7 +408,6 @@ $('a[href*="#"]')
   	window.addEventListener("scroll", function() {
 
   		var scroll = $(window).scrollTop();
-  		console.log("scroll", scroll)
 
 
   		if (scroll > 15)
