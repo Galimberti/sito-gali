@@ -1,40 +1,42 @@
-#Redirect di tutte le vecchie pagine che danno conflitto in SearchConsole
+#Redirect di tutte le vecchie pagine che danno conflitto in SearchConsole e tutte le pagine dopo la rimozione di /ita
 
-/it/home.html		 											/ita/index.html
-/it/contatti.html	 											/ita/index.html
-/it/certificazioni.html											/ita/index.html
+/it/home.html		 											         /index.html
+/it/contatti.html	 											       /index.html
+/it/certificazioni.html											   /index.html
 
-/it/05-pavimenti/index.html 									/ita/parquet.html
+/it/05-pavimenti/index.html 									 /parquet.html
 
-/it/pavimenti/index.html 										/ita/parquet.html
-/it/pavimenti/massiccio.html 									/ita/parquet.html
-/it/pavimenti/monoplancia-3-strati.html							/ita/parquet.html
-/it/pavimenti/posa.html		 									/ita/parquet.html
-/it/pavimenti/produzione.html 									/ita/parquet.html
+/it/pavimenti/index.html 										   /parquet.html
+/it/pavimenti/massiccio.html 									 /parquet.html
+/it/pavimenti/monoplancia-3-strati.html				 /parquet.html
+/it/pavimenti/posa.html		 									   /parquet.html
+/it/pavimenti/produzione.html 								 /parquet.html
 
-/it/costruzioni/introduzione.html								/ita/case_in_legno.html
-/it/costruzioni/interrati-ed-esterni.html						/ita/case_in_legno.html
-/it/costruzioni/case-in-legno.html								/ita/case_in_legno.html
-/it/costruzioni/case-in-legno-e-cemento-armato.html				/ita/case_in_legno.html
+/it/costruzioni/introduzione.html								     /case_in_legno.html
+/it/costruzioni/interrati-ed-esterni.html						 /case_in_legno.html
+/it/costruzioni/case-in-legno.html								   /case_in_legno.html
+/it/costruzioni/case-in-legno-e-cemento-armato.html	 /case_in_legno.html
 
-/it/legno-per-esterni/index.html								/ita/facciate_in_legno.html
-/it/legno-per-esterni/frangisole.html							/ita/facciate_in_legno.html
-/it/legno-per-esterni/pavimenti-g50.html						/ita/facciate_in_legno.html
-/it/legno-per-esterni/rivestimenti-facciate.html				/ita/facciate_in_legno.html
-/it/legno-per-esterni/veneziane.html							/ita/facciate_in_legno.html
+/it/legno-per-esterni/index.html								  /facciate_in_legno.html
+/it/legno-per-esterni/frangisole.html							/facciate_in_legno.html
+/it/legno-per-esterni/pavimenti-g50.html					/facciate_in_legno.html
+/it/legno-per-esterni/rivestimenti-facciate.html	/facciate_in_legno.html
+/it/legno-per-esterni/veneziane.html							/facciate_in_legno.html
 
-/it/tetti-e-solai/legno.html									/ita/tetti_in_legno.html
-/it/tetti-e-solai/acciaio.html									/ita/tetti_in_legno.html
-/it/tetti-e-solai/introduzione.html								/ita/tetti_in_legno.html
-/it/tetti-e-solai/linea-vita.html								/ita/tetti_in_legno.html
-/it/tetti-e-solai/lucernari.html								/ita/tetti_in_legno.html
-/it/tetti-e-solai/pacchetto-isolante.html						/ita/tetti_in_legno.html
-/it/tetti-e-solai/solai.html									/ita/tetti_in_legno.html
-/it/tetti-e-solai/x-lam.html									/ita/tetti_in_legno.html
+/it/tetti-e-solai/legno.html									/tetti_in_legno.html
+/it/tetti-e-solai/acciaio.html								/tetti_in_legno.html
+/it/tetti-e-solai/introduzione.html						/tetti_in_legno.html
+/it/tetti-e-solai/linea-vita.html							/tetti_in_legno.html
+/it/tetti-e-solai/lucernari.html							/tetti_in_legno.html
+/it/tetti-e-solai/pacchetto-isolante.html			/tetti_in_legno.html
+/it/tetti-e-solai/solai.html									/tetti_in_legno.html
+/it/tetti-e-solai/x-lam.html									/tetti_in_legno.html
 
-/tetti_e_solai_in_legno.html              /tetti_in_legno.html
+/tetti_e_solai_in_legno.html                  /tetti_in_legno.html
 
-/facciate_decking_legno.html                           /facciate_in_legno.html
-/facciate_decking_legno_per_esterni.html              /facciate_in_legno.html
+/facciate_decking_legno.html                  /facciate_in_legno.html
+/facciate_decking_legno_per_esterni.html      /facciate_in_legno.html
 
-/ita/storia_e_valori.html         /ita/chi_siamo.html
+/ita/storia_e_valori.html                     /chi_siamo.html
+
+/ita/*                                        /:splat
