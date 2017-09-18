@@ -78,7 +78,7 @@ $(window).on("ready", function() {
 
         var $copy = $model.clone();
         var parts = card.desc.split("\n");
-        $copy.find("img").attr("src", card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?auto=compress,format");
+        $copy.find("img").attr("src", card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net") + "?auto=compress,format");
         $copy.find(".nome_contatti").text(card.name);
         $copy.find(".ruolo_contatti").text(parts[0]);
         $copy.find(".card").attr("data-target" , "#" + card.id);
@@ -94,8 +94,8 @@ $(window).on("ready", function() {
         // make a new modal
         var $modal = $("body").find($model.find(".card").attr("data-target"));
         var $modalCopy = $modal.clone();
-        $modalCopy.find(".img-fluid").attr("src", card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?auto=compress,format");
-        $modalCopy.find(".settore").attr("src", card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net") + "?w=25");
+        $modalCopy.find(".img-fluid").attr("src", card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net") + "?auto=compress,format");
+        $modalCopy.find(".settore").attr("src", card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net") + "?w=25");
         $modalCopy.attr("id", card.id);
         $modalCopy.find(".nome_contatti").text(card.name);
         $modalCopy.find(".ruolo_contatti span").text(parts[0]);
@@ -179,7 +179,7 @@ $(window).on("ready", function() {
       $clone.removeClass("trello");
       $clone.css("display","flex");
 
-      var url = card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net");
+      var url = card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net");
       url = url + "?w=" + resolution;
       url = url + "&auto=compress,format";
       url = url + "&mark=" + markurl;
@@ -213,7 +213,7 @@ $(window).on("ready", function() {
         var $col = $clone.find(".col-lg-12");
         $col.removeClass("col-lg-12").addClass("col-lg-6");
         var $secondCol = $col.clone();
-        var url = card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "http://galimberti.imgix.net");
+        var url = card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net");
         url = url + "?w=" + resolution;
         url = url + "&auto=compress,format";
         url = url + "&mark=" + markurl;
