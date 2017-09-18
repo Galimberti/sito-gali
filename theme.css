@@ -5667,10 +5667,10 @@ html {
   background-color: rgba(0, 0, 0, 0.065); }
 
 .primoarancio {
-  background-image: url("../assets/primolegno/Pattern_primoarancio.png"); }
+  background-image: url("/assets/primolegno/Pattern_primoarancio.png"); }
 
 .primochiaro {
-  background-image: url("../assets/primolegno/Pattern_primochiaro.png"); }
+  background-image: url("/assets/primolegno/Pattern_primochiaro.png"); }
 
 .cover-image {
   background-position: center;
