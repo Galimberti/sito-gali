@@ -236,3 +236,7 @@ li:hover {
 .noscroll {
 	overflow:hidden;
 }
+
+#photos img:hover {
+  cursor: zoom-in;
+}
