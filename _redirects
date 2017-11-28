@@ -1,6 +1,6 @@
 #Redirect di tutte le vecchie pagine che danno conflitto in SearchConsole e tutte le pagine dopo la rimozione di /ita
 
-/404.html														404
+/404.html														/404.html	404
 
 
 /it/home.html		 											/index.html
