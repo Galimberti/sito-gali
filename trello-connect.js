@@ -5,13 +5,6 @@ var markpad = 10;     // padding watermark
 var markurl = "https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png";
 var imagesLimit = 15;     // numero di immagini prima del bottone "Guarda altre immagini"
 
-// init scrolldepth
-jQuery.scrollDepth({
-  pixelDepth: false,
-  nonInteraction: false
-});
-
-
 
 /*! modernizr 3.3.1 (Custom Build) | MIT *
  * http://modernizr.com/download/?-video-setclasses !*/
