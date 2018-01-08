@@ -5576,7 +5576,8 @@ body {
   max-width: 1700px;
   margin: auto;
   position: relative;
-  height: 100%; }
+  height: 100%;
+  min-height: 100%; }
   @media (max-width: 767px) {
     body .section-fill-height {
       min-height: 600px;
@@ -5596,7 +5597,8 @@ body {
 
 html {
   height: 100%;
-  background-color: #b8c1c3;
+  min-height: 100%;
+  background-color: white;
   font-weight: normal !important; }
 
 .bg-dark {
