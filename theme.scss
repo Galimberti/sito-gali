@@ -184,6 +184,7 @@ html     {
 .cover-image {
  background-position: center;
     position:relative;
+  	min-height: 75%;
     > *:first-child:before {
       content:'';
       width:100%;
@@ -191,9 +192,7 @@ html     {
       display:block;
       position:absolute;
       left:0px;
-      top:0px;
-      background: linear-gradient(170deg, rgba(35, 21, 87, 0.6) 0%, rgba(68, 16, 122, 0.6) 29%, rgba(255, 19, 27, 0.6) 67%, rgba(255, 248, 0, 0.6) 100%);
-      
+      top:0px;      
       background: linear-gradient(-25deg, rgba(244, 126, 67, 0.8) 0%, rgba(24, 12, 6, 0.8) 100%);
     }
 }
