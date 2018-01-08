@@ -5575,7 +5575,8 @@ a.text-dark:focus, a.text-dark:hover {
 body {
   max-width: 1700px;
   margin: auto;
-  position: relative; }
+  position: relative;
+  height: 100%; }
   @media (max-width: 767px) {
     body .section-fill-height {
       min-height: 600px;
