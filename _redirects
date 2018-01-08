@@ -1,5 +1,7 @@
 #Redirect di tutte le vecchie pagine che danno conflitto in SearchConsole e tutte le pagine dopo la rimozione di /ita
 
+/ita/*                                        					/:splat
+
 /it/home.html		 											/index.html
 /it/contatti.html	 											/index.html
 /it/certificazioni.html											/index.html
@@ -10,14 +12,14 @@
 
 /it/privacy.html                               					/privacy.html
 
-/05-pavinenti/01-pavimenti-introduzione/allegati/12_posa_parquet.pdf   							/parquet.html
-/05-pavimenti/01-pavimenti-introduzione/allegati/11_parquet__flottante_o%20incollato.pdf  		/parquet.html
-/05-pavimenti/01-pavimenti-introduzione/allegati/03_posa_parquet_slc_eco_l34_flex_kerakol.pdf  	/parquet.html
-/05-pavimenti/01-pavimenti-introduzione/allegati/09_vernici_all'acqua_meta_carver.pdf			/parquet.html
+/05-pavinenti/01-pavimenti-introduzione/allegati/12_posa_parquet.pdf   										/parquet.html
+/05-pavimenti/01-pavimenti-introduzione/allegati/11_parquet__flottante_o%20incollato.pdf  					/parquet.html
+/05-pavimenti/01-pavimenti-introduzione/allegati/03_posa_parquet_slc_eco_l34_flex_kerakol.pdf  				/parquet.html
+/05-pavimenti/01-pavimenti-introduzione/allegati/09_vernici_all'acqua_meta_carver.pdf						/parquet.html
+/05-pavimenti/01-pavimenti-introduzione/allegati/07_olio_parquet_polix_oil_osmo.pdf							/parquet.html
+/05-pavimenti/01-pavimenti-introduzione/allegati/13_Ciclo_riscaldamento_massetto_riscaldante.pdf			/parquet.html
 
-04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/fac_rivestimento_facciate.pdf						/facciate_in_legno.html
-04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/pavimento_in_legno_per_esterni_capitolato.pdf		/facciate_in_legno.html
-04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/rivestimento_in_legno_per_esterni_capitolato.pdf	/facciate_in_legno.html
+/editinn-data/images/it/pavimenti/in-legno-parquet-prefinito-milano-lecco-como-bergamo/3_vernice_OMEGA.pdf	/parquet.html
 
 /it/05-pavimenti/index.html 									/parquet.html
 
@@ -31,9 +33,10 @@
 /it/costruzioni/interrati-ed-esterni.html						/case_in_legno.html
 /it/costruzioni/case-in-legno.html								/case_in_legno.html
 /it/costruzioni/case-in-legno-e-cemento-armato.html	 			/case_in_legno.html
-it/costruzioni/terreni.html										/case_in_legno.html
+/it/costruzioni/terreni.html									/case_in_legno.html
 
-/02-costruzioni													/case_in_legno.html
+/02-costruzioni																		/case_in_legno.html
+/02-costruzioni/01-costruzioni-introduzione/allegati/brochure_bioedilizia.pdf		/case_in_legno.html
 
 /it/legno-per-esterni/index.html								/facciate_in_legno.html
 /it/legno-per-esterni/introduzione.html							/facciate_in_legno.html
@@ -41,6 +44,13 @@ it/costruzioni/terreni.html										/case_in_legno.html
 /it/legno-per-esterni/pavimenti-g50.html						/facciate_in_legno.html
 /it/legno-per-esterni/rivestimenti-facciate.html				/facciate_in_legno.html
 /it/legno-per-esterni/veneziane.html							/facciate_in_legno.html
+
+/facciate_decking_legno.html                  					/facciate_in_legno.html
+/facciate_decking_legno_per_esterni.html      					/facciate_in_legno.html
+
+/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/fac_rivestimento_facciate.pdf						/facciate_in_legno.html
+/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/pavimento_in_legno_per_esterni_capitolato.pdf		/facciate_in_legno.html
+/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/rivestimento_in_legno_per_esterni_capitolato.pdf	/facciate_in_legno.html
 
 /it/tetti-e-solai/legno.html									/tetti_in_legno.html
 /it/tetti-e-solai/acciaio.html									/tetti_in_legno.html
@@ -64,22 +74,22 @@ it/costruzioni/terreni.html										/case_in_legno.html
 /Pacchiani_legnami.html											/tetti_in_legno.html
 /Vigano_legnami.html											/tetti_in_legno.html
 
-editinn-data/images//it/tetti-e-solai/linea-vita.html/COMFORT%2014.pdf  							/tetti_in_legno.html
-editinn-data/images//it/tetti-e-solai/introduzione.html/Gutex%20-%20Thermosafe%20160kg-mc.pdf		/tetti_in_legno.html
-
-/facciate_decking_legno.html                  					/facciate_in_legno.html
-/facciate_decking_legno_per_esterni.html      					/facciate_in_legno.html
+/editinn-data/images//it/tetti-e-solai/linea-vita.html/COMFORT%2014.pdf  							/tetti_in_legno.html
+/editinn-data/images//it/tetti-e-solai/introduzione.html/Gutex%20-%20Thermosafe%20160kg-mc.pdf		/tetti_in_legno.html
+/editinn-data/images/it/tetti-e-solai/introduzione/Gutex%20-%20Thermosafe%20160kg-mc.pdf  			/tetti_in_legno.html
+/editinn-data/images/it/coperture-e-solai/tetti-in-legno/Coperture_e_Solai.pdf						/tetti_in_legno.html
 
 /ita/storia_e_valori.html                     					/chi_siamo.html
-
-/ita/*                                        					/:splat
 
 /commerciale_ticino.html                      					/lavora_con_noi.html
 /candidatura_magazzino_pavimenti.html         					/lavora_con_noi.html
 /candidatura_produzione_esperienza.html         				/lavora_con_noi.html
+/candidatura_geometri.html                     					/lavora_con_noi.html
+/candidatura_gestionale.html                   					/lavora_con_noi.html
+/candidatura_ingegneri.html                    					/lavora_con_noi.html
+/candidatura_produzione.html                   					/lavora_con_noi.html
+/candidatura_backoffice.html                     				/lavora_con_noi.html
 
-/editinn-data/images/it/tetti-e-solai/introduzione/Gutex%20-%20Thermosafe%20160kg-mc.pdf  /index.html
-
-
-/tavolette.html								  					/primolegno.html
+/tavolette.html								  						/primolegno.html
+/assets/primolegno/Foratura_ed_inserimento_elastici_tavolette.pdf	/primolegno.html
 
