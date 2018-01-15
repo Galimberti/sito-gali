@@ -259,7 +259,7 @@ $(window).on("ready", function() {
 
     var zoomImage = function(img) {
       // clone, fix width and append
-      var index = cardNumber - $model.parent().find("img").index(img) + 1;
+      var index = cardNumber - $model.parent().find("img, iframe").index(img) + 1;
       document.location.hash = "#" + index;
 
       // create the wrapper and the full width image
@@ -314,9 +314,13 @@ $(window).on("ready", function() {
     }
 
     try {
-      var index = Number(document.location.hash.replace("#", ""));
+      if (document.location.hash) {
+        $btnLoadMore.trigger("click")
+      var index = cardNumber -  Number(document.location.hash.replace("#", "")) + 1;
       if (index != 0)
-        zoomImage($model.parent().find("img")[index]);
+        zoomImage($model.parent().find("img,iframe")[index]);  
+      }
+      
     } catch(e) {
     }
 
