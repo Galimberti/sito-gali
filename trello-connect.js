@@ -259,7 +259,7 @@ $(window).on("ready", function() {
 
     var zoomImage = function(img) {
       // clone, fix width and append
-      var index = $model.parent().find("img").index(img);
+      var index = cardNumber - $model.parent().find("img").index(img) + 1;
       document.location.hash = "#" + index;
 
       // create the wrapper and the full width image
