@@ -132,10 +132,17 @@ $(window).on("ready", function() {
       $(cardsToLoad).each(function() {
         appendCard(this);
       })
+      updateNumbers()
     });
 
+    var updateNumbers = function() {
+      var $all = $("#photos .row span");
+      $("#photos  span").each(function() {
+        $(this).text(cardNumber - $all.index(this) + 1)
+      })
+    }
 
-    var appendCard = function(card) {
+    var appendCard = function(card, index) {
       if (card.desc.indexOf("player.vimeo.com") > 0 || card.desc.indexOf("www.youtube.com") > 0) {
         var $clone = $model.clone();
         $clone.css("display","flex");
@@ -145,9 +152,6 @@ $(window).on("ready", function() {
         $iframe.attr("src", card.desc);
         $embed.append($iframe);
         $clone.find("img").replaceWith($embed);
-
-        // if (cardNumber > imagesLimit)
-        //   $clone.hide();
 
         $clone.insertBefore($btnLoadMore);
         $clone.find("span").text("");
@@ -182,14 +186,15 @@ $(window).on("ready", function() {
       //     $clone.hide();
 
       $clone.insertBefore($btnLoadMore);
-      var index = $clone.parent().find("img").index($clone.find("img")[0]);
-      $clone.find("span").text(index);
+      // var index = $clone.parent().find("img").index($clone.find("img")[0]);
+      $clone.find("span").text("-");
 
       // $clone.find("div").append("<span class='mt-2' style='color:rgba(255,255,255,0.7);font-size:90%;position: absolute;top: 0px;right: 24px;'>" + index + "</span>");
 
       // if two col
       if (card.attachments.length > 1) {
 
+        cardNumber++;
         var $col = $clone.find(".col-lg-12");
         $col.removeClass("col-lg-12").addClass("col-lg-6");
         var $secondCol = $col.clone();
@@ -211,7 +216,6 @@ $(window).on("ready", function() {
             zoomImage(this);
           });
         }
-
 
         $col.after($secondCol);
 
@@ -236,12 +240,14 @@ $(window).on("ready", function() {
       // check video
 
       if (cardNumber <= imagesLimit) {
-        appendCard(card);
+        appendCard(card, cardNumber);
       } else {
         cardsToLoad.push(card);
       }
       // zoom
     });
+
+    updateNumbers();
 
     if (cardNumber <= imagesLimit)
       $btnLoadMore.hide();
