@@ -194,7 +194,7 @@ $(window).on("ready", function() {
       // if two col
       if (card.attachments.length > 1) {
 
-        cardNumber++;
+        // cardNumber++;
         var $col = $clone.find(".col-lg-12");
         $col.removeClass("col-lg-12").addClass("col-lg-6");
         var $secondCol = $col.clone();
@@ -235,7 +235,8 @@ $(window).on("ready", function() {
         return;
 
       cardNumber++;
-
+      if (card.attachments.length > 1) 
+        cardNumber++;
       // we have a card
       // check video
 
