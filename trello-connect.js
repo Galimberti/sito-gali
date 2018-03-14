@@ -315,13 +315,14 @@ $(window).on("ready", function() {
     }
 
     try {
-      if (document.location.hash) {
+      // open image only with numeric hashtag
+      var isNumber = /^\#[0-9]*$/.test(document.location.hash)
+      if (document.location.hash && isNumber) {
         $btnLoadMore.trigger("click")
-      var index = cardNumber -  Number(document.location.hash.replace("#", "")) + 1;
-      if (index != 0)
-        zoomImage($model.parent().find("img,iframe")[index]);  
+        var index = cardNumber -  Number(document.location.hash.replace("#", "")) + 1;
+        if (index != 0)
+          zoomImage($model.parent().find("img,iframe")[index]);  
       }
-      
     } catch(e) {
     }
 
