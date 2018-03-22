@@ -5719,3 +5719,12 @@ li:hover {
 
 #photos img:hover {
   cursor: zoom-in; }
+
+.project > .card-img-overlay {
+  visibility: hidden;
+  background: transparent;
+  transition: background .25s ease-out; }
+
+.project:hover > .card-img-overlay {
+  visibility: visible;
+  background: white; }
