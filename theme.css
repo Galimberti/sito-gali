@@ -5689,6 +5689,19 @@ html {
     top: 0px;
     background: linear-gradient(-25deg, rgba(244, 126, 67, 0.8) 0%, rgba(24, 12, 6, 0.8) 100%); }
 
+.filter-dark {
+  overflow: hidden;
+  position: relative;
+  color: color-yiq(#373a3c); }
+  .filter-dark:before {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    content: ' ';
+    background: rgba(55, 58, 60, 0.75); }
+
 .index-opacity {
   background: rgba(0, 0, 0, 0.5); }
 
@@ -5720,11 +5733,5 @@ li:hover {
 #photos img:hover {
   cursor: zoom-in; }
 
-.project > .card-img-overlay {
-  visibility: hidden;
-  background: transparent;
-  transition: background .25s ease-out; }
-
-.project:hover > .card-img-overlay {
-  visibility: visible;
-  background: white; }
+.btn-outline-light:hover {
+  color: #373a3c; }
