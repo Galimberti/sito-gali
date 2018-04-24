@@ -261,3 +261,13 @@ li:hover {
 .btn-outline-light:hover {
 	color: theme-color("dark");
 }
+
+.float-CTA {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  z-index:10;
+    a {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    }
+}
