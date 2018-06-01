@@ -5743,3 +5743,7 @@ li:hover {
   z-index: 10; }
   .float-CTA a {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); }
+
+@media (max-width: 767px) {
+  .btn-cover-concorso {
+    display: none; } }
