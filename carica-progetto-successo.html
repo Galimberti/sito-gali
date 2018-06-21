@@ -126,7 +126,7 @@
             <br>Il seguente codice identifica il tuo progetto.
             <b>Conservalo</b>: è l'unico modo che avrai per riscuotere il premio.
             <br>Se dovessi perdere il codice, o apportare delle modifiche al progetto, dovrai effettuare nuovamente la procedura di caricamento. </p>
-          <h1 class="mb-5">A1010-B4477</h1>
+          <h1 class="mb-5" id="codice"></h1>
           <p class="d-block d-sm-none">È possibile caricare i file solamente da computer</p>
           <a class="btn btn-outline-light my-3" href="concorso.html">Torna alla pagina Concorso</a>
         </div>
@@ -283,6 +283,10 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.8/umd/popper.js"></script>
   <script src="bootstrap.min.js"></script>
   <script src="trello-connect.js" type="text/javascript"></script>
+  <script>
+    var code = decodeURIComponent(window.location.search.substring(1))
+    $("#codice").html(code)
+  </script>
 </body>
 
 </html>

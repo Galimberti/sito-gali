@@ -138,6 +138,7 @@
               <input type="file" class="form-control-file" id="file-progetto" name="progetto">
               <small class="form-text text-white">Dimensione massima consentita: 20MB</small>
             </div>
+            <input type="hidden" id="codice" name="codice" value="">
             <button type="submit" class="btn btn-primary">
               <b>Invia</b>
             </button>
@@ -276,6 +277,12 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.8/umd/popper.js"></script>
   <script src="bootstrap.min.js"></script>
   <script src="trello-connect.js" type="text/javascript"></script>
+  <script>
+    var randomcode = "A" + (Math.floor(Math.random() * 10000) + 10000).toString().substring(1) + "-B" + (Math.floor(Math.random() * 10000) + 10000).toString().substring(1)
+  		var action = $("form").attr("action") + "?" + randomcode
+    	$("form").attr("action", action)
+      $("form #codice").attr("value", randomcode)
+  </script>
 </body>
 
 </html>
