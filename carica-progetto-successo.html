@@ -115,35 +115,20 @@
   <div class="section d-flex align-items-center cover-image" id="cover" style="background-image: url('assets/azienda/concorso_cover.jpg');background-position:center center;background-size:cover;">
     <div class="container">
       <div class="row">
-        <div class="text-white col-10 mx-auto py-5 my-5 text-left" style="">
+        <div class="text-white col-10 mx-auto py-5 my-5 text-left">
           <h1 class="display-3 mb-4 mt-5">
-            <b>Carica progetto</b>
+            <b>Progetto caricato</b>
           </h1>
-          <p class="lead mb-5">Esegui l'upload del progetto qui. Tutti gli elaborati devono essere inclusi in un unico archivio .zip o .rar. Dimensioni massime consentite: 20MB. Non è consentito l'upload di più file. La procedura è anonima e i file non devono contenere riferimenti
-            all'autore/i. Al termine della procedura ti verrà subito fornito un
-            <b>codice alfanumerico</b>: conservalo, è l'unico modo che avrai per ritirare il premio.
-            <br> </p>
-          <form class="mb-1 d-none d-md-block" method="POST" name="upload-concorso" netlify="" action="/carica-progetto-successo.html">
-            <div class="form-group">
-              <label>
-                <b>1. Titolo del progetto</b>
-              </label>
-              <input type="text" class="form-control w-50" name="titolo" id="titolo-progetto" placeholder="Scrivi qui il titolo del progetto">
-              <small class="form-text text-white">Il titolo non deve contenere riferimenti all'autore/i</small>
-            </div>
-            <div class="form-group mb-4">
-              <label>
-                <b>2. Carica il file .zip</b>
-              </label>
-              <input type="file" class="form-control-file" id="file-progetto" name="progetto">
-              <small class="form-text text-white">Dimensione massima consentita: 20MB</small>
-            </div>
-            <button type="submit" class="btn btn-primary">
-              <b>Invia</b>
-            </button>
-          </form>
+          <p class="lead mb-4">Il tuo file è stato correttamente caricato ed inviato al database del concorso.
+            <br>Grazie per aver partecipato. Il concorso si chiude ufficialmente il 16 Settembre 2018.
+            <br>Entro 10 giorni da questa data verranno annunciati i vincitori sul sito internet e sulla pagina Facebook.
+            <br>
+            <br>Il seguente codice identifica il tuo progetto.
+            <b>Conservalo</b>: è l'unico modo che avrai per riscuotere il premio.
+            <br>Se dovessi perdere il codice, o apportare delle modifiche al progetto, dovrai effettuare nuovamente la procedura di caricamento. </p>
+          <h1 class="mb-5">A1010-B4477</h1>
           <p class="d-block d-sm-none">È possibile caricare i file solamente da computer</p>
-          <a class="btn btn-outline-light mt-5" href="concorso.html">Torna alla pagina Concorso</a>
+          <a class="btn btn-outline-light my-3" href="concorso.html">Torna alla pagina Concorso</a>
         </div>
       </div>
     </div>
@@ -267,6 +252,28 @@
           <p class="my-3 text-center">
             <a href="privacy.html" class="text-secondary" id="Footer Privacy" title="Vai alla pagina Privacy">Privacy&nbsp; | &nbsp; © 2000-2018 - Galimberti Legno e Bioedilizia SA - Galimberti SRL P.iva 01223700137</a>
           </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal text-light">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Caricamento avvenuto con successo!</h5>
+          <button type="button" class="close" data-dismiss="modal">
+            <span>×</span>
+          </button>
+        </div>
+        <div class="modal-body p-5">
+          <p style="line-height:125%">
+            <b>Il tuo progetto è stato caricato correttamente.</b>&nbsp;
+            <br>
+            <br>Il seguente codice alfanumerico identifica il tuo progetto. Conservalo perchè è l'unico modo per riscattare il premio. </p>
+          <h1 class="">A1010-B4477</h1>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
