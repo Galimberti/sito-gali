@@ -46,10 +46,9 @@ $link-color: #f47e43;
 $font-family-base: "Proxima";
 $headings-font-weight: 100;
 $lead-font-weight: 300;
+$headings-font-family: ;
 
-
-
-@import 'bootstrap-4.0.0-beta.1';
+@import 'bootstrap-4.0.0';
 
 body {
   max-width: 1700px;
@@ -75,7 +74,7 @@ body {
   }
 }
 
-html     {
+html {
   height : 100%;
   min-height : 100%;
   background-color: $body-bg;
@@ -87,7 +86,7 @@ html     {
   color: theme-color("secondary");
 }
 
-#photos .container     {
+#photos .container {
   max-width : 940px;
 }
 
@@ -101,7 +100,7 @@ html     {
   cursor : zoom-in;
 }
 
-#persone .card     {
+#persone .card {
   overflow: hidden;
   cursor:pointer;
   padding-top:18px;
@@ -117,7 +116,7 @@ html     {
    }
 }
 
-.full-screen       {
+.full-screen {
 	background-color: white;
   z-index : 10000;
   position : fixed;
