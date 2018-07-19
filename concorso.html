@@ -237,15 +237,23 @@
             <br>Compatibilità con il mercato -&nbsp;</p>
         </div>
         <div class="bg-primary text-light text-left p-5 col-lg-6" id="richiedi">
-          <h3 class="mb-4">Procedura di invito</h3>
-          <p class="mb-4">Compila il seguente form per richiedere l'invito all'iniziativa.
-            <br>Riceverai la documentazione tecnica, tra cui:
+          <h3 class="mb-4">Richiedi la documentazione</h3>
+          <p class="mb-4">Contatta la segreteria del concorso per ricevere:
             <br>
             <br>• Brochure illustrativa
             <br>• Planimetria e sezione ambientale del lotto di progetto
             <br>• Dettagli costruttivi delle nostre Case in Legno
-            <br> </p>
-          <a class="btn btn-secondary" data-target=".richiediinvito" data-toggle="modal" title="Partecipa all'iniziativa" id="Modale invito concorso">Richiedi invito</a>
+            <br>
+            <br>Per ricevere il materiale lascia il tuo indirizzo e-mail qui sotto.
+            <br>Verrà recapitato alla tua casella di posta elettronica.</p>
+          <form class="form-inline" action="https://formspree.io/giacomo.crivellari@galimberti.eu" method="POST">
+            <div class="input-group">
+              <input type="email" class="form-control" placeholder="mario.bianchi@mail.it" name="email">
+              <div class="input-group-append">
+                <button class="btn btn-secondary px-3" type="submit">Invia</button>
+              </div>
+            </div>
+          </form>
         </div>
       </div>
     </div>
@@ -468,47 +476,6 @@
           <p class="my-3 text-center">
             <a href="privacy.html" class="text-secondary" id="Footer Privacy" title="Vai alla pagina Privacy">Privacy&nbsp; | &nbsp; © 2000-2018 - Galimberti Legno e Bioedilizia SA - Galimberti SRL P.iva 01223700137</a>
           </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="modal richiediinvito fade text-left" style="">
-    <div class="modal-dialog modal-lg" role="document">
-      <div class="modal-content p-3 bg-light">
-        <div class="modal-header">
-          <h2>Richiedi l'invito per il Concorso</h2>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <p class="mb-3" style="line-height:1.5">L'iniziativa è diretta a professionisti e studenti&nbsp;che svolgono la propria attività nelle province di Lecco, Milano, Como, Varese, Bergamo, Monza Brianza e nel Canton Ticino e dei Grigioni. Per dubbi, consulta la sezione Domande e Risposte,
-            o scrivici all'indirizzo
-            <a href="mailto:concorso@galimberti.eu">concorso@galimberti.eu</a>
-          </p>
-          <form netlify="" name="invito-concorso">
-            <div class="form-row">
-              <div class="form-group col-md-6">
-                <label for="inputNome">Nome</label>
-                <input type="text" class="form-control" id="inputNome" placeholder="Mario" name="nome"> </div>
-              <div class="form-group col-md-6">
-                <label for="inputCognome">Cognome</label>
-                <input type="text" class="form-control" id="inputCognome" placeholder="Rossi" name="cognome"> </div>
-            </div>
-            <div class="form-row">
-              <div class="form-group col-12">
-                <label for="inputMail">Email
-                  <small>(dove riceverai la risposta)</small>
-                </label>
-                <input type="email" class="form-control" id="inputMail" placeholder="mario.rossi@esempio.it" name="email"> </div>
-            </div>
-            <div class="form-group">
-              <label for="inputCosa">Descrivi brevemente il tuo inquadramento professionale </label>
-              <input type="text" class="form-control mb-2" id="inputCosa" placeholder="Architetto, attivo a Milano dal 1992, ..." name="cosa">
-              <small>(aggiungere anche link a sito web o altri riferimenti)</small>
-            </div>
-            <button type="submit" class="btn btn-primary my-2">Invia richiesta</button>
-          </form>
         </div>
       </div>
     </div>
