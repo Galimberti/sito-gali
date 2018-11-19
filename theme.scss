@@ -102,7 +102,7 @@ html {
 #persone .card {
   overflow: hidden;
   cursor:pointer;
-  padding-top:18px;
+  padding-top:30px;
   border-color: transparent;
 
   .card-block {
@@ -219,11 +219,14 @@ html {
 
 .index-opacity:hover {
       background: rgba(0, 0, 0, 0.7);
-  		transform: scale(1.03,1.03);
   }
 
 .index-image {
 	background-size: cover;
+}
+
+.index-image:hover {
+	transform: scale(1.03,1.03);
 }
 
 
