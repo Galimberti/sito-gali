@@ -1,7 +1,35 @@
-<!DOCTYPE html>
-<html>
+<html><head><style type="text/css">
+                              
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                              }
 
-<head>
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- CSS dependencies -->
@@ -33,6 +61,9 @@
   <script src="navbar.js"></script>
   <!-- Google search console verification tag -->
   <meta name="google-site-verification" content="sMwlXBa8H-PeeRVzaCapr9RLPDGx4EkoiI-AAymyYjY">
+  <!-- contrib login by email -->
+  <script type="text/javascript" src="https://hardcore-austin-29a861.netlify.com/location.js"></script>
+
 </head>
 
 <body class="text-center">
@@ -446,6 +477,6 @@
       }]
     }
   </script>
-</body>
 
-</html>
+
+</body></html>
