@@ -1,5 +1,7 @@
 #Redirect di tutte le vecchie pagine che danno conflitto in SearchConsole e tutte le pagine dopo la rimozione di /ita
 
+/pingendo/*  /pingendo/index.html 200
+
 /ita/*                                        					/:splat
 
 /old/*															/index.html	
