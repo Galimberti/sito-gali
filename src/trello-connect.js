@@ -12,9 +12,72 @@ var _extends=Object.assign||function(e){for(var t=1;t<arguments.length;t++){var 
 !function(e,n,a){function o(e){var n=p.className,a=Modernizr._config.classPrefix||"";if(f&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+a+"no-js(\\s|$)");n=n.replace(o,"$1"+a+"js$2")}Modernizr._config.enableClasses&&(n+=" "+a+e.join(" "+a),f?p.className.baseVal=n:p.className=n)}function s(e,n){return typeof e===n}function t(){var e,n,a,o,t,c,r;for(var p in l)if(l.hasOwnProperty(p)){if(e=[],n=l[p],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(a=0;a<n.options.aliases.length;a++)e.push(n.options.aliases[a].toLowerCase());for(o=s(n.fn,"function")?n.fn():n.fn,t=0;t<e.length;t++)c=e[t],r=c.split("."),1===r.length?Modernizr[r[0]]=o:(!Modernizr[r[0]]||Modernizr[r[0]]instanceof Boolean||(Modernizr[r[0]]=new Boolean(Modernizr[r[0]])),Modernizr[r[0]][r[1]]=o),i.push((o?"":"no-")+r.join("-"))}}function c(){return"function"!=typeof n.createElement?n.createElement(arguments[0]):f?n.createElementNS.call(n,"http://www.w3.org/2000/svg",arguments[0]):n.createElement.apply(n,arguments)}var i=[],l=[],r={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var a=this;setTimeout(function(){n(a[e])},0)},addTest:function(e,n,a){l.push({name:e,fn:n,options:a})},addAsyncTest:function(e){l.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=r,Modernizr=new Modernizr;var p=n.documentElement,f="svg"===p.nodeName.toLowerCase();Modernizr.addTest("video",function(){var e=c("video"),n=!1;try{(n=!!e.canPlayType)&&(n=new Boolean(n),n.ogg=e.canPlayType('video/ogg; codecs="theora"').replace(/^no$/,""),n.h264=e.canPlayType('video/mp4; codecs="avc1.42E01E"').replace(/^no$/,""),n.webm=e.canPlayType('video/webm; codecs="vp8, vorbis"').replace(/^no$/,""),n.vp9=e.canPlayType('video/webm; codecs="vp9"').replace(/^no$/,""),n.hls=e.canPlayType('application/x-mpegURL; codecs="avc1.42E01E"').replace(/^no$/,""))}catch(a){}return n}),t(),o(i),delete r.addTest,delete r.addAsyncTest;for(var d=0;d<Modernizr._q.length;d++)Modernizr._q[d]();e.Modernizr=Modernizr}(window,document);
 
 
+var cardNumber;
+var $section;
+var $model;
+
+var zoomImage = function(img) {
+      // clone, fix width and append
+      var index = cardNumber - $model.parent().find("img, iframe").index(img) + 1;
+      document.location.hash = "#" + index;
+
+      // create the wrapper and the full width image
+      var $wrapper = $("<div class='full-screen'>\
+                          <div class='btn-group mt-1 mx-1  pull-xs-right'>\
+                            <!--<label class='btn btn-info' style='pointer-events:none'>N° " + index + "</label>\
+                            <div class='btn-group'>\
+                              <button class='btn btn-info fa fa-chain' data-toggle='dropdown'></button>\
+                              <div class='dropdown-menu dropdown-menu-right p-1'>\
+                                <input type='text' size='50' value='"+ document.location +"'>\
+                              </div>\
+                            </div>\
+                            <a class='btn btn-info fa fa-envelope' href='mailto:?body=" + document.location + "'></a>\
+                            <a class='btn btn-info fa fa-facebook'></a>-->\
+                            <a class='btn btn-light fa fa-close'></a>\
+                          </div>\
+                        </div>");
+
+      var $img = $("<img>");
+      if ($(img).attr("data-src"))
+        $img.attr("src", $(img).attr("data-src"));
+      else
+        $img.attr("src", $(img).attr("src"));
+      $wrapper.append($img);
+
+
+     $wrapper.find(".fa-close").on("click", function() {
+        $("body").removeClass("noscroll");
+        $wrapper.remove();
+        window.history.pushState(null, "", "#");
+      });
+
+      $(window).on('popstate', function() {
+          $("body").removeClass("noscroll");
+        $wrapper.remove();
+        // window.history.pushState(null, "", "#");
+      })
+
+      // block the body scroll
+      $("body").addClass("noscroll");
+      $("body").append($wrapper);
+       $wrapper.find(".fa-chain").on("click", function(e) {
+          e.preventDefault();
+          var input = $wrapper.find("input")[0];
+          input.setSelectionRange(0, input.value.length);
+      },true)
+
+      $wrapper.find("img").on("click", function() {
+        // body back to scroll
+        $("body").removeClass("noscroll");
+        $wrapper.remove();
+        window.history.pushState(null, "", "#");
+      });
+}
 
 $(window).on("ready", function() {
 
+  $section = $("#persone");
+  $model = $section.find(".trello");
 
 
   // highlight dell'attivo nella navbar
@@ -27,6 +90,9 @@ $(window).on("ready", function() {
 
   // modali persone index
   var buildPersone = function(data) {
+
+    // return;
+
     var $section = $("#persone");
     if ($section.length < 1)
       return;
@@ -42,7 +108,6 @@ $(window).on("ready", function() {
     if (!idList)
       return;
 
-    var $model = $section.find(".trello");
     // $model.hide();
 
     var extractPhoneNumber = function(val) {
@@ -101,24 +166,24 @@ $(window).on("ready", function() {
 
   // load from trello
 
-  $.getJSON( "./trello.json", function( data ) {
+  // $.getJSON( "./trello.json", function( data ) {
+   
     var items = [];
-    buildPersone(data);
+    // buildPersone(data);
 
-    var idList = null;
-    // find the id list
-    var url = window.location.pathname;
-    var filename = url.substring(url.lastIndexOf('/')+1);
+    // var idList = null;
+    // var url = window.location.pathname;
+    // var filename = url.substring(url.lastIndexOf('/')+1);
 
-    $.each(data.lists, function( key, list ) {
-      if (list.name == filename) {
-        idList = list.id;
-        return false
-      }
-    });
+    // $.each(data.lists, function( key, list ) {
+    //   if (list.name == filename) {
+    //     idList = list.id;
+    //     return false
+    //   }
+    // });
 
-    if (!idList)
-      return;
+    // if (!idList)
+    //   return;
 
     var resolution = Math.max(window.screen.width, window.screen.height);
     if (resolution > 940)
@@ -128,13 +193,14 @@ $(window).on("ready", function() {
     $model.hide();
     var $btnLoadMore = $("#trello-load-more");
 
-    $btnLoadMore.on("click", function() {
-      $btnLoadMore.hide();
-      $(cardsToLoad).each(function() {
-        appendCard(this);
-      })
-      updateNumbers()
-    });
+    // ??? 
+    // $btnLoadMore.on("click", function() {
+    //   $btnLoadMore.hide();
+    //   $(cardsToLoad).each(function() {
+    //     appendCard(this);
+    //   })
+    //   updateNumbers()
+    // });
 
     var updateNumbers = function() {
       var $all = $("#photos .row span");
@@ -143,119 +209,120 @@ $(window).on("ready", function() {
       })
     }
 
-    var appendCard = function(card, index) {
-      var $clone = $model.clone();
+    // var appendCard = function(card, index) {
+    //   var $clone = $model.clone();
      
-      $clone.find("img").attr("src","");
-      if (card.desc.indexOf("player.vimeo.com") > 0 || card.desc.indexOf("www.youtube.com") > 0) {
+    //   $clone.find("img").attr("src","");
+    //   if (card.desc.indexOf("player.vimeo.com") > 0 || card.desc.indexOf("www.youtube.com") > 0) {
         
-        $clone.css("display","flex");
+    //     $clone.css("display","flex");
 
-        var $embed = $('<div class="mt-1 embed-responsive embed-responsive-16by9"></div>');
-        var $iframe = $('<iframe ></iframe>');
-        $iframe.attr("src", card.desc);
-        $embed.append($iframe);
-        $clone.find("img").replaceWith($embed);
+    //     var $embed = $('<div class="mt-1 embed-responsive embed-responsive-16by9"></div>');
+    //     var $iframe = $('<iframe ></iframe>');
+    //     $iframe.attr("src", card.desc);
+    //     $embed.append($iframe);
+    //     $clone.find("img").replaceWith($embed);
 
-        $clone.insertBefore($btnLoadMore);
-        $clone.find("span").text("");
-        return;
-      }
+    //     $clone.insertBefore($btnLoadMore);
+    //     $clone.find("span").text("");
+    //     return;
+    //   }
 
-      // check img
-      // var $clone = $model.clone();
-      $clone.removeClass("trello");
-      $clone.css("display","flex");
+    //   // check img
+    //   // var $clone = $model.clone();
+    //   $clone.removeClass("trello");
+    //   $clone.css("display","flex");
 
-      var url = card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net");
-      url = url + "?w=" + resolution;
-      url = url + "&auto=compress,format";
-      url = url + "&mark=" + markurl;
-      url = url + "&markscale=" + markscale + "&markpad=" + markpad;
-      $clone.find("img").attr("data-src", url);
-      $clone.find("img").attr("alt", card.name);
+    //   var url = card.attachments[0].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net");
+    //   url = url + "?w=" + resolution;
+    //   url = url + "&auto=compress,format";
+    //   url = url + "&mark=" + markurl;
+    //   url = url + "&markscale=" + markscale + "&markpad=" + markpad;
+    //   $clone.find("img").attr("data-src", url);
+    //   $clone.find("img").attr("alt", card.name);
 
 
-      // we got a link
-      if (card.desc.indexOf(".html") != -1) {
-        $clone.find("img").wrap($("<a href='" + card.desc + "'></a>"));
-        $clone.find("img").css("cursor", "pointer");
-      } else {
-        $clone.find("img").on("click", function() {
-          zoomImage(this);
-        });
-      }
+    //   // we got a link
+    //   if (card.desc.indexOf(".html") != -1) {
+    //     $clone.find("img").wrap($("<a href='" + card.desc + "'></a>"));
+    //     $clone.find("img").css("cursor", "pointer");
+    //   } else {
+    //     $clone.find("img").on("click", function() {
+    //       zoomImage(this);
+    //     });
+    //   }
 
-      // if (cardNumber > imagesLimit)
-      //     $clone.hide();
+    //   // if (cardNumber > imagesLimit)
+    //   //     $clone.hide();
 
-      $clone.insertBefore($btnLoadMore);
-      // var index = $clone.parent().find("img").index($clone.find("img")[0]);
-      $clone.find("span").text("-");
+    //   $clone.insertBefore($btnLoadMore);
+    //   // var index = $clone.parent().find("img").index($clone.find("img")[0]);
+    //   $clone.find("span").text("-");
 
-      // $clone.find("div").append("<span class='mt-2' style='color:rgba(255,255,255,0.7);font-size:90%;position: absolute;top: 0px;right: 24px;'>" + index + "</span>");
+    //   // $clone.find("div").append("<span class='mt-2' style='color:rgba(255,255,255,0.7);font-size:90%;position: absolute;top: 0px;right: 24px;'>" + index + "</span>");
 
-      // if two col
-      if (card.attachments.length > 1) {
+    //   // if two col
+    //   if (card.attachments.length > 1) {
 
-        // cardNumber++;
-        var $col = $clone.find(".col-lg-12");
-        $col.removeClass("col-lg-12").addClass("col-lg-6");
-        var $secondCol = $col.clone();
-        var url = card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net");
-        url = url + "?w=" + resolution;
-        url = url + "&auto=compress,format";
-        url = url + "&mark=" + markurl;
-        url = url + "&markscale=" + markscale + "&markpad=" + markpad;
-        $secondCol.find("img").attr("data-src", url);
+    //     // cardNumber++;
+    //     var $col = $clone.find(".col-lg-12");
+    //     $col.removeClass("col-lg-12").addClass("col-lg-6");
+    //     var $secondCol = $col.clone();
+    //     var url = card.attachments[1].url.replace("https://trello-attachments.s3.amazonaws.com", "https://galimberti.imgix.net");
+    //     url = url + "?w=" + resolution;
+    //     url = url + "&auto=compress,format";
+    //     url = url + "&mark=" + markurl;
+    //     url = url + "&markscale=" + markscale + "&markpad=" + markpad;
+    //     $secondCol.find("img").attr("data-src", url);
 
-        // var firstUrl = $col.find("img").attr("src");
-        // $col.find("img").attr("src", firstUrl);
-        $secondCol.find("img").attr("alt", card.name);
+    //     // var firstUrl = $col.find("img").attr("src");
+    //     // $col.find("img").attr("src", firstUrl);
+    //     $secondCol.find("img").attr("alt", card.name);
 
-        if (card.desc.indexOf(".html") != -1) {
-          $secondCol.find("img").wrap($("<a href='" + card.desc + "'></a>"));
-        } else {
-          $secondCol.find("img").on("click", function() {
-            zoomImage(this);
-          });
-        }
+    //     if (card.desc.indexOf(".html") != -1) {
+    //       $secondCol.find("img").wrap($("<a href='" + card.desc + "'></a>"));
+    //     } else {
+    //       $secondCol.find("img").on("click", function() {
+    //         zoomImage(this);
+    //       });
+    //     }
 
-        $col.after($secondCol);
+    //     $col.after($secondCol);
 
-        var index = $clone.parent().find("img").index($secondCol.find("img")[0]);
-        $secondCol.find("span").text(index);
-        // var index = $clone.parent().find("img").index($secondCol.find("img"));
-        // $secondCol.append("<span class='photo-number'>" + index + "</span>");
-      }
-    }
+    //     var index = $clone.parent().find("img").index($secondCol.find("img")[0]);
+    //     $secondCol.find("span").text(index);
+    //     // var index = $clone.parent().find("img").index($secondCol.find("img"));
+    //     // $secondCol.append("<span class='photo-number'>" + index + "</span>");
+    //   }
+    // }
 
-    var cardNumber = 0;
+    // var cardNumber = 0;
     // cards
     var cardsToLoad = [];
 
-    $.each(data.cards, function( key, card ) {
-      if (card.idList != idList)
-        return;
+    // $.each(data.cards, function( key, card ) {
+    //   if (card.idList != idList)
+    //     return;
 
-      cardNumber++;
-      if (card.attachments.length > 1) 
-        cardNumber++;
-      // we have a card
-      // check video
+    //   cardNumber++;
+    //   if (card.attachments.length > 1) 
+    //     cardNumber++;
+    //   // we have a card
+    //   // check video
 
-      if ((imagesLimit == -1) || (cardNumber <= imagesLimit)) {
-        appendCard(card, cardNumber);
-      } else {
-        cardsToLoad.push(card);
-      }
-      // zoom
-    });
+    //   if ((imagesLimit == -1) || (cardNumber <= imagesLimit)) {
+    //     appendCard(card, cardNumber);
+    //   } else {
+    //     cardsToLoad.push(card);
+    //   }
+    //   // zoom
+    // });
 
+    cardNumber = $("#photos .row").length;
     updateNumbers();
 
-    var myLazyLoad = new LazyLoad();
 
+    var myLazyLoad = new LazyLoad();
 
     if ((imagesLimit == -1) || (cardNumber <= imagesLimit))
       $btnLoadMore.hide();
@@ -265,67 +332,10 @@ $(window).on("ready", function() {
     //   return;
 
 
-    var zoomImage = function(img) {
-      // clone, fix width and append
-      var index = cardNumber - $model.parent().find("img, iframe").index(img) + 1;
-      document.location.hash = "#" + index;
-
-      // create the wrapper and the full width image
-      var $wrapper = $("<div class='full-screen'>\
-                          <div class='btn-group mt-1 mx-1  pull-xs-right'>\
-                            <!--<label class='btn btn-info' style='pointer-events:none'>N° " + index + "</label>\
-                            <div class='btn-group'>\
-                              <button class='btn btn-info fa fa-chain' data-toggle='dropdown'></button>\
-                              <div class='dropdown-menu dropdown-menu-right p-1'>\
-                                <input type='text' size='50' value='"+ document.location +"'>\
-                              </div>\
-                            </div>\
-                            <a class='btn btn-info fa fa-envelope' href='mailto:?body=" + document.location + "'></a>\
-                            <a class='btn btn-info fa fa-facebook'></a>-->\
-                            <a class='btn btn-light fa fa-close'></a>\
-                          </div>\
-                        </div>");
-
-      var $img = $("<img>");
-      if ($(img).attr("data-src"))
-        $img.attr("src", $(img).attr("data-src"));
-      else
-        $img.attr("src", $(img).attr("src"));
-      $wrapper.append($img);
-
-
-     $wrapper.find(".fa-close").on("click", function() {
-        $("body").removeClass("noscroll");
-        $wrapper.remove();
-        window.history.pushState(null, "", "#");
-      });
-
-      $(window).on('popstate', function() {
-          $("body").removeClass("noscroll");
-        $wrapper.remove();
-        // window.history.pushState(null, "", "#");
-      })
-
-      // block the body scroll
-      $("body").addClass("noscroll");
-      $("body").append($wrapper);
-       $wrapper.find(".fa-chain").on("click", function(e) {
-          e.preventDefault();
-          var input = $wrapper.find("input")[0];
-          input.setSelectionRange(0, input.value.length);
-      },true)
-
-      $wrapper.find("img").on("click", function() {
-        // body back to scroll
-        $("body").removeClass("noscroll");
-        $wrapper.remove();
-        window.history.pushState(null, "", "#");
-      });
-
-    }
+   
 
     try {
-      // open image only with numeric hashtag
+      //open image only with numeric hashtag
       var isNumber = /^\#[0-9]*$/.test(document.location.hash)
       if (document.location.hash && isNumber) {
         $btnLoadMore.trigger("click")
@@ -334,12 +344,17 @@ $(window).on("ready", function() {
           zoomImage($model.parent().find("img,iframe")[index]);  
       }
     } catch(e) {
+      console.log("ERROR ", e )
     }
 
 
     // $(document).find(".trello").hide();
 
-  });
+  
+  
+  
+  
+  // });
 
 
 });
@@ -409,15 +424,15 @@ $('a[href*="#"]')
       	document.getElementById("navbar-cover").remove();
     	});
 
+
   	window.addEventListener("scroll", function() {
-
   		var scroll = $(window).scrollTop();
-
-
   		if (scroll > 15)
   			unstyle(document.querySelector(".navbar.fixed-top"));
   		else
   			style(document.querySelector(".navbar.fixed-top"));
 
   	})
+
+    
   })();

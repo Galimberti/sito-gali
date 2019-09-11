@@ -282,14 +282,15 @@
           <p class="mt-3">Siamo un'azienda formata nella produzione, dediti alla pratica piuttosto che alle buone parole. <br>Tecnici e progettisti saranno il vostro interlocutore diretto, senza intermediari.</p>
         </div>
       </div>
+
       <div class="row text-lg-left">
-        <div class="col-6 col-md-4 col-lg-3 trello" style="display:none">
-          <div class="card" data-target="#modal" data-toggle="modal">
-            <img class="card-img-top img-fluid" src="" alt="Card image">
+         <div class="col-6 col-md-4 col-lg-3 trello2" ht-repeat="person in data.persone" >
+          <div class="card" data-target="#{{person.id}}" data-toggle="modal">
+            <img class="card-img-top img-fluid" src="{{ person.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') + '?auto=compress,format' }}" alt="Card image">
             <div class="card-block">
-              <h5 class="nome_contatti d-none d-md-block">NOME</h5>
-              <h6 class="nome_contatti d-md-none d-xs-block">NOME</h6>
-              <p class="ruolo_contatti d-none d-md-block">TITOLO</p>
+              <h5 class="nome_contatti d-none d-md-block">{{person.name}}</h5>
+              <h6 class="nome_contatti d-md-none d-xs-block">{{person.name}}</h6>
+              <p class="ruolo_contatti d-none d-md-block">{{ person.desc.split("\n")[0]}}</p>
             </div>
           </div>
         </div>
@@ -394,13 +395,13 @@
       </div>
     </div>
   </div>
-  <div class="fade modal in text-left" aria-hidden="false" id="modal">
+  <div class="fade modal in text-left" aria-hidden="false" id="{{person.id}}" ht-repeat="person in data.persone" >
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
         <div class="modal-body">
           <div class="row" draggable="true">
             <div class="col-10">
-              <h3 class="text-white nome_contatti"></h3>
+              <h3 class="text-white nome_contatti">{{person.name}}</h3>
             </div>
             <div class="col-2">
               <button type="button" class="close text-white" data-dismiss="modal" aria-hidden="true">x</button>
@@ -409,24 +410,22 @@
           <div class="row">
             <div class="col-md-7">
               <p class="lead my-3 text-secondary ruolo_contatti">
-                <img class="settore" src="">&nbsp;&nbsp; <span></span>
+                <img class="settore" src="{{person.attachments[1].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')}}?w=25">&nbsp;&nbsp; 
+                <span>{{person.desc.split('\n')[0]}}</span>
               </p>
               <p class="lead mt-4">
-                <a href="" class="tel-it text-secondary">
-                  <i class="fa fa-fw fa-phone"></i>&nbsp; <span class=" text-white"></span>
+                <a href="tel:{{person.desc.split('\n')[1]}}" class="tel-it text-secondary">
+                  <i class="fa fa-fw fa-phone"></i>&nbsp; 
+                  <span class=" text-white">{{person.desc.split('\n')[1]}}</span>
                 </a>
-                <br>
-                <a href="" class="tel-ch text-secondary">
-                  <i class="fa fa-fw fa-phone"></i>&nbsp; <span class="text-white"></span>
-                </a>
-                <br>
-                <a href="" class="email text-secondary">
-                  <i class="fa fa-fw fa-envelope"></i>&nbsp; <span class="text-white"></span>
+                <br/>
+                <a href="mailto:{{person.desc.split('\n')[ person.desc.split('\n').length -1]}}" class="email text-secondary">
+                  <i class="fa fa-fw fa-envelope"></i>&nbsp; <span class="text-white">{{person.desc.split('\n')[ person.desc.split('\n').length -1]}}</span>
                 </a>
               </p>
             </div>
             <div class="col-md-5">
-              <img class="d-block mx-auto img-fluid" src=""> </div>
+              <img class="d-block mx-auto img-fluid" src="{{person.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')}}?auto=compress,format"> </div>
           </div>
         </div>
       </div>
