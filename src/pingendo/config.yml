@@ -1,3 +1,4 @@
+sources_path : "/src/"
 index_path: "/index.html"
-netlify_site_name : "galimberti"
+netlify_site_name : "awesome-darwin-094fa6"
 defaultBranch : "4.0"
