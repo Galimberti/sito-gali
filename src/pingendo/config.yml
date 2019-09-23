@@ -1,2 +1,3 @@
-index_path: /index.html
-netlify_site_name : galimberti
+index_path: "/index.html"
+netlify_site_name : "galimberti"
+defaultBranch : "4.0"
