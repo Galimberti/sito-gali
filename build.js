@@ -5,6 +5,8 @@ const fs = require('fs');
 let rawdata = fs.readFileSync('./src/trello.json');
 let json = JSON.parse("["+rawdata+"]");
 var i = 0 ;
+
+console.log("build")
 json[0].lists.forEach(  ( element , key )  => {
     if  ( element.name.indexOf(".html") != -1 || element.name == "PERSONE"){
         var list = [];

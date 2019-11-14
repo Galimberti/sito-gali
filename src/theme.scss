@@ -185,7 +185,8 @@ html {
 .cover-image {
  		background-position: center;
     position:relative;
-  	min-height: 75%;
+  	min-height: 330px !important;
+    height: 60% !important;
     > *:first-child:before {
       content:'';
       width:100%;

@@ -8,5 +8,9 @@
   "dependencies": {
     "node-trello": "^1.3.0",
     "pi-gen": "^1.0.37"
+  },
+  "scripts": {
+    "start": "node build.js && ./node_modules/.bin/pi-gen serve",
+    "build": "node build.js && ./node_modules/.bin/pi-gen build"
   }
 }
