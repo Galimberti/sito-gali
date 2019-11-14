@@ -222,14 +222,7 @@
   <div class="bg-light section" id="photos">
     <div class="container pt-1" style="background-color:white">
       
-      <div class="row trello">
-        <div class="col-lg-12 my-2">
-          <div style="position:relative;">
-            <img class="d-block mx-auto img-fluid" src="assets/azienda/loading.gif" alt="loading animated gif">
-            <span style="position:absolute;top:6px;right: 10px;color:rgba(255,255,255,0.7)"></span>
-          </div>
-        </div>
-      </div>
+    
 
       <div  ht-repeat="(key, val) in data.case_in_legno" class="row" style="display: flex;" > 
         <div ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1" class="col-lg-12 my-2">
@@ -249,7 +242,7 @@
             </a>
           </div>
           <div style="position:relative;" ht-if="val.desc.indexOf('.html') == -1" >
-            <img onclick="zoomImage(this,{{key}})" class="d-block mx-auto img-fluid" alt="{{val.attachments[0].name}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') }}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10" name="" data-was-processed="true">
+            <img onclick="zoomImage(this,{{key}})" class="d-block mx-auto img-fluid" alt="{{val.attachments[0].name}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') }}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10&amp;txt={{val.attachments[0].name}}&amp;txt-align=left&amp;txt-color=ffffff&amp;txt-size=18" name="" data-was-processed="true">
             <span style="position:absolute;top:6px;right: 10px;color:rgba(255,255,255,0.7)"></span>
           </div>
         </div>

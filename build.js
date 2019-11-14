@@ -1,26 +1,61 @@
-
-
-const https = require('https');
 const fs = require('fs');
-let rawdata = fs.readFileSync('./src/trello.json');
-let json = JSON.parse("["+rawdata+"]");
-var i = 0 ;
+const http = require('https')
+var listsUrl = "https://api.trello.com/1/boards/YvJJ1eb0/lists?key=de2a945cc023e9645ffe2d0a04fb32be&token=8c815fba08256984333f3c1309cf31153819ee92ccf7ea3adaabb761c532d859"
+var cardsUrl = 'https://api.trello.com/1/boards/YvJJ1eb0/cards?attachments=true&key=de2a945cc023e9645ffe2d0a04fb32be&token=8c815fba08256984333f3c1309cf31153819ee92ccf7ea3adaabb761c532d859'
 
-console.log("build")
-json[0].lists.forEach(  ( element , key )  => {
-    if  ( element.name.indexOf(".html") != -1 || element.name == "PERSONE"){
-        var list = [];
-        for (let index = 0; index < json[0].cards.length; index++) {
-            const c = json[0].cards[index];
-            if(c.idList == element.id)
-                list.push( c );
-        }
+var lists
+loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
+    lists.forEach((l) => {
+        if (!l.name.endsWith(".html"))
+            return
 
-        if(element.name == "PERSONE") {
-            element.name = element.name.toLowerCase()+ ".json";
-            list.reverse();
-        }
-        
-        fs.writeFile("data/"+element.name.replace(".html",".json"),JSON.stringify(list ,null, 2), function(){});
-    }
-});
+        var lc = cards.filter((card) => {
+            return card.idList == l.id
+        }, {})
+        console.log(lc)
+
+        fs.writeFile("data/"+l.name.replace(".html",".json"),JSON.stringify(lc ,null, 2), function(){});
+
+    })
+})
+
+function loadLists() {
+    return new Promise((resolve,reject) => {
+        var res = ""
+        http.get(listsUrl, function(res){
+            var body = '';
+
+            res.on('data', function(chunk){
+                body += chunk;
+            });
+
+            res.on('end', function() {
+                resolve(JSON.parse(body))
+                // resolve(arrayToObject(JSON.parse(body)))
+            });
+        }).on('error', function(e){
+            reject(e)
+        });
+    })
+}
+
+
+function loadCards() {
+    return new Promise((resolve,reject) => {
+        var res = ""
+        http.get(cardsUrl, function(res){
+            var body = '';
+
+            res.on('data', function(chunk){
+                body += chunk;
+            });
+
+            res.on('end', function(){
+                resolve(JSON.parse(body))
+            });
+        }).on('error', function(e){
+            reject(e)
+        });
+    })
+}
+
