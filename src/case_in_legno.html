@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- CSS dependencies -->
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-zrnmn8R8KkWl12rAZFt4yKjxplaDaT7/EUkKm7AovijfrQItFWR7O/JJn4DAa/gx" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="theme.css" type="text/css">
   <!-- PAGE settings -->
   <link rel="icon" href="assets/azienda/galimberti_favicon.png">
@@ -34,7 +34,7 @@
 </head>
 <body class="text-center">
   <div ht-include="'src/navbar.html'"></div>
-  
+
   <div class="section d-flex align-items-center text-center h-75 cover-image" id="cover" style="background-image: url(assets/azienda/case_cover.jpg);">
     <div class="container">
       <div class="row">
@@ -139,12 +139,12 @@
 
   <div class="bg-light section" id="photos">
     <div class="container pt-1" style="background-color:white">
-      
 
-      <div  ht-repeat="(key, val) in data.case_in_legno" class="row" style="display: flex;" > 
+
+      <div  ht-repeat="(key, val) in data.case_in_legno" class="row" style="display: flex;" >
         <!-- video -->
         <div ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1" class="lazy col-lg-12 my-2">
-          <div style="position:relative;" > 
+          <div style="position:relative;" >
               <div class="mt-1 embed-responsive embed-responsive-16by9">
                 <iframe data-src="{{val.desc}}"></iframe>
               </div>

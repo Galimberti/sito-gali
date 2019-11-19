@@ -36,7 +36,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- CSS dependencies -->
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-zrnmn8R8KkWl12rAZFt4yKjxplaDaT7/EUkKm7AovijfrQItFWR7O/JJn4DAa/gx" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="theme.css" type="text/css">
   <!-- PAGE settings -->
   <link rel="icon" href="assets/azienda/galimberti_favicon.png">
@@ -72,7 +72,7 @@
 
 <body class="text-center">
   <div ht-include="'src/navbar.html'"></div>
-  
+
   <div class="section d-flex align-items-center cover-image h-75" id="cover" style="background-image: url(assets/azienda/index_cover.jpg);">
     <div class="container">
       <div class="row">
@@ -328,12 +328,12 @@
           <div class="row">
             <div class="col-md-7">
               <p class="lead my-3 text-secondary ruolo_contatti">
-                <img class="settore" src="{{person.attachments[1].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')}}?w=25">&nbsp;&nbsp; 
+                <img class="settore" src="{{person.attachments[1].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')}}?w=25">&nbsp;&nbsp;
                 <span>{{person.desc.split('\n')[0]}}</span>
               </p>
               <p class="lead mt-4">
                 <a href="tel:{{person.desc.split('\n')[1]}}" class="tel-it text-secondary">
-                  <i class="fa fa-fw fa-phone"></i>&nbsp; 
+                  <i class="fa fa-fw fa-phone"></i>&nbsp;
                   <span class=" text-white">{{person.desc.split('\n')[1]}}</span>
                 </a>
                 <br/>
