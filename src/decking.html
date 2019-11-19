@@ -160,26 +160,9 @@
       </div>
     </div>
   </div>
-  <div class="bg-light section" id="photos">
-    <div class="container pt-1" style="background-color:white">
-      <div class="row trello">
-        <div class="col-lg-12 my-2">
-          <div style="position:relative;">
-            <img class="d-block mx-auto img-fluid" src="assets/azienda/loading.gif" alt="loading animated gif">
-            <span style="position:absolute;top:6px;right: 10px;color:rgba(255,255,255,0.7)"></span>
-          </div>
-        </div>
-      </div>
-      <div class="row" id="trello-load-more">
-        <div class="col-md-12">
-          <a class="btn btn-block my-4 btn-secondary btn-lg p-3" id="Guarda altre immagini" onclick="gtag('event', 'click', {'event_category': 'Foto prodotti', 'event_label': 'Guarda foto Decking'});">
-            <i class="fa fa-fw fa-search-plus text-white"></i>
-            <b class="text-white"> Guarda altre immagini</b>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
+  
+  <div ht-include="'src/_trello-gallery.html'" ht-include-context="{lista:data.decking}"></div>
+
   <div class="section bg-primary text-left py-4 mt-3" id="CTA_2">
     <div class="container">
       <div class="row">
