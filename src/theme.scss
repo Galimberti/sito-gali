@@ -259,6 +259,11 @@ li:hover {
 #photos img:hover {
   cursor: zoom-in;
 }
+
+
+#photos .title {
+  color: white !important;
+}
   
 .btn-outline-light:hover {
 	color: theme-color("dark");
