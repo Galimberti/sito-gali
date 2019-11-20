@@ -34,69 +34,77 @@
 /it/pavimenti/posa.html		 									/parquet.html
 /it/pavimenti/produzione.html 								 	/parquet.html
 
-/it/costruzioni/introduzione.html								/case_in_legno.html
-/it/costruzioni/interrati-ed-esterni.html						/case_in_legno.html
-/it/costruzioni/case-in-legno.html								/case_in_legno.html
-/it/costruzioni/case-in-legno-e-cemento-armato.html	 			/case_in_legno.html
-/it/costruzioni/terreni.html									/case_in_legno.html
+/it/costruzioni/introduzione.html								/case-in-legno.html
+/it/costruzioni/interrati-ed-esterni.html						/case-in-legno.html
+/it/costruzioni/case-in-legno.html								/case-in-legno.html
+/it/costruzioni/case-in-legno-e-cemento-armato.html	 			/case-in-legno.html
+/it/costruzioni/terreni.html									/case-in-legno.html
 
-/02-costruzioni																		/case_in_legno.html
-/02-costruzioni/01-costruzioni-introduzione/allegati/brochure_bioedilizia.pdf		/case_in_legno.html
+/02-costruzioni																		/case-in-legno.html
+/02-costruzioni/01-costruzioni-introduzione/allegati/brochure_bioedilizia.pdf		/case-in-legno.html
 
-/it/legno-per-esterni/index.html								/facciate_in_legno.html
-/it/legno-per-esterni/introduzione.html							/facciate_in_legno.html
-/it/legno-per-esterni/frangisole.html							/facciate_in_legno.html
-/it/legno-per-esterni/pavimenti-g50.html						/facciate_in_legno.html
-/it/legno-per-esterni/rivestimenti-facciate.html				/facciate_in_legno.html
-/it/legno-per-esterni/veneziane.html							/facciate_in_legno.html
+/it/legno-per-esterni/index.html								/facciate-in-legno.html
+/it/legno-per-esterni/introduzione.html							/facciate-in-legno.html
+/it/legno-per-esterni/frangisole.html							/facciate-in-legno.html
+/it/legno-per-esterni/pavimenti-g50.html						/facciate-in-legno.html
+/it/legno-per-esterni/rivestimenti-facciate.html				/facciate-in-legno.html
+/it/legno-per-esterni/veneziane.html							/facciate-in-legno.html
 
-/facciate_decking_legno.html                  					/facciate_in_legno.html
-/facciate_decking_legno_per_esterni.html      					/facciate_in_legno.html
+/facciate_decking_legno.html                  					/facciate-in-legno.html
+/facciate_decking_legno_per_esterni.html      					/facciate-in-legno.html
 
-/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/fac_rivestimento_facciate.pdf						/facciate_in_legno.html
-/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/pavimento_in_legno_per_esterni_capitolato.pdf		/facciate_in_legno.html
-/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/rivestimento_in_legno_per_esterni_capitolato.pdf	/facciate_in_legno.html
+/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/fac_rivestimento_facciate.pdf						/facciate-in-legno.html
+/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/pavimento_in_legno_per_esterni_capitolato.pdf		/facciate-in-legno.html
+/04-legno_per_esterni/01-legno_per_esterni-introduzione/allegati/rivestimento_in_legno_per_esterni_capitolato.pdf	/facciate-in-legno.html
 
-/it/tetti-e-solai/legno.html									/tetti_in_legno.html
-/it/tetti-e-solai/acciaio.html									/tetti_in_legno.html
-/it/tetti-e-solai/introduzione.html								/tetti_in_legno.html
-/it/tetti-e-solai/linea-vita.html								/tetti_in_legno.html
-/it/tetti-e-solai/lucernari.html								/tetti_in_legno.html
-/it/tetti-e-solai/pacchetto-isolante.html						/tetti_in_legno.html
-/it/tetti-e-solai/solai.html									/tetti_in_legno.html
-/it/tetti-e-solai/tetti.html									/tetti_in_legno.html
-/it/tetti-e-solai/x-lam.html									/tetti_in_legno.html
+/it/tetti-e-solai/legno.html									/tetti-in-legno.html
+/it/tetti-e-solai/acciaio.html									/tetti-in-legno.html
+/it/tetti-e-solai/introduzione.html								/tetti-in-legno.html
+/it/tetti-e-solai/linea-vita.html								/tetti-in-legno.html
+/it/tetti-e-solai/lucernari.html								/tetti-in-legno.html
+/it/tetti-e-solai/pacchetto-isolante.html						/tetti-in-legno.html
+/it/tetti-e-solai/solai.html									/tetti-in-legno.html
+/it/tetti-e-solai/tetti.html									/tetti-in-legno.html
+/it/tetti-e-solai/x-lam.html									/tetti-in-legno.html
 
-/tetti_e_solai_in_legno.html                  					/tetti_in_legno.html
+/tetti_e_solai_in_legno.html                  					/tetti-in-legno.html
 
-/Bartesaghi_legnami.html										/tetti_in_legno.html
-/Brianza.html													/tetti_in_legno.html
-/Consonni_legnami.html											/tetti_in_legno.html
-/Galli-legnami.html												/tetti_in_legno.html
-/Malugani_legnami.html											/tetti_in_legno.html
-/Mariana_legnami.html											/tetti_in_legno.html
-/Milano.html													/tetti_in_legno.html
-/Pacchiani_legnami.html											/tetti_in_legno.html
-/Vigano_legnami.html											/tetti_in_legno.html
+/Bartesaghi_legnami.html										/tetti-in-legno.html
+/Brianza.html													/tetti-in-legno.html
+/Consonni_legnami.html											/tetti-in-legno.html
+/Galli-legnami.html												/tetti-in-legno.html
+/Malugani_legnami.html											/tetti-in-legno.html
+/Mariana_legnami.html											/tetti-in-legno.html
+/Milano.html													/tetti-in-legno.html
+/Pacchiani_legnami.html											/tetti-in-legno.html
+/Vigano_legnami.html											/tetti-in-legno.html
 
-/editinn-data/images//it/tetti-e-solai/linea-vita.html/COMFORT%2014.pdf  							/tetti_in_legno.html
-/editinn-data/images//it/tetti-e-solai/introduzione.html/Gutex%20-%20Thermosafe%20160kg-mc.pdf		/tetti_in_legno.html
-/editinn-data/images/it/tetti-e-solai/introduzione/Gutex%20-%20Thermosafe%20160kg-mc.pdf  			/tetti_in_legno.html
-/editinn-data/images/it/coperture-e-solai/tetti-in-legno/Coperture_e_Solai.pdf						/tetti_in_legno.html
+/editinn-data/images//it/tetti-e-solai/linea-vita.html/COMFORT%2014.pdf  							/tetti-in-legno.html
+/editinn-data/images//it/tetti-e-solai/introduzione.html/Gutex%20-%20Thermosafe%20160kg-mc.pdf		/tetti-in-legno.html
+/editinn-data/images/it/tetti-e-solai/introduzione/Gutex%20-%20Thermosafe%20160kg-mc.pdf  			/tetti-in-legno.html
+/editinn-data/images/it/coperture-e-solai/tetti-in-legno/Coperture_e_Solai.pdf						/tetti-in-legno.html
 
-03-tetti_e_solai/01-tetti_e_solai-introduzione/allegati/01_brochure_coperture_e_solai.pdf			/tetti_in_legno.html
+03-tetti_e_solai/01-tetti_e_solai-introduzione/allegati/01_brochure_coperture_e_solai.pdf			/tetti-in-legno.html
 
-/ita/storia_e_valori.html                     					/chi_siamo.html
+/ita/storia_e_valori.html                     					/chi-siamo.html
 
-/commerciale_ticino.html                      					/lavora_con_noi.html
-/candidatura_magazzino_pavimenti.html         					/lavora_con_noi.html
-/candidatura_produzione_esperienza.html         				/lavora_con_noi.html
-/candidatura_geometri.html                     					/lavora_con_noi.html
-/candidatura_gestionale.html                   					/lavora_con_noi.html
-/candidatura_produzione.html                   					/lavora_con_noi.html
-/candidatura_promozione.html                   					/lavora_con_noi.html
-/candidatura_backoffice.html                     				/lavora_con_noi.html
+/commerciale_ticino.html                      					/lavora-con-noi.html
+/candidatura_magazzino_pavimenti.html         					/lavora-con-noi.html
+/candidatura_produzione_esperienza.html         				/lavora-con-noi.html
+/candidatura_geometri.html                     					/lavora-con-noi.html
+/candidatura_gestionale.html                   					/lavora-con-noi.html
+/candidatura_produzione.html                   					/lavora-con-noi.html
+/candidatura_promozione.html                   					/lavora-con-noi.html
+/candidatura_backoffice.html                     				/lavora-con-noi.html
 
 /tavolette.html								  						/primolegno.html
 /assets/primolegno/Foratura_ed_inserimento_elastici_tavolette.pdf	/primolegno.html
 
+
+
+
+/case_in_legno.html												/case-in-legno.html
+/facciate_in_legno.html											/facciate-in-legno.html
+/tetti_in_legno.html											/tetti-in-legno.html
+/chi_siamo.html													/chi-siamo.html
+/lavora_con_noi.html											/lavora-con-noi.html
