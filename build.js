@@ -12,7 +12,6 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
         var lc = cards.filter((card) => {
             return card.idList == l.id
         }, {})
-        console.log(lc)
 
         fs.writeFile("data/"+l.name.replace(".html",".json"),JSON.stringify(lc ,null, 2), function(){});
 
