@@ -2,7 +2,7 @@
     <div class="container pt-1" style="background-color:white">
 
 
-      <div  ht-repeat="(key, val) in data.lista" class="row" style="display: flex;" >
+      <div ht-repeat="(key, val) in data.lista" class="item row" style="display: flex">
         <!-- video -->
         <div ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1" class="lazy col-lg-12 my-2">
           <div style="position:relative;" >
@@ -14,9 +14,8 @@
         </div>
 
         <!-- 1 img -->
-        <div ht-if="val.attachments.length == 1" class="col-lg-12 my-2">
-         
-          <div style="position:relative;" ht-if="val.desc.indexOf('.html') == -1" >
+        <div ht-if="val.attachments.length == 1" class="item col-lg-12 my-2">
+          <div style="position:relative;" ht-if="val.desc.indexOf('.html') == -1">
             <img onclick="zoomImage(this,{{key}})" class="lazy d-block mx-auto img-fluid" alt="{{val.attachments[0].name}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') }}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10" name="" data-was-processed="true">
             <span class="id" style="position:absolute;top:6px;right: 10px;color:rgba(255,255,255,0.7)"></span>
             <span class="title" style="position:absolute;bottom:6px;left: 10px;color:rgba(255,255,255,0.7)"><b>{{val.attachments[0].name}}</b></span>
@@ -24,9 +23,8 @@
         </div>
 
         <!-- 2 img -->
-        <div ht-if="val.attachments.length == 2"  class="my-2 col-lg-6" ht-repeat="(key2, a) in val.attachments">
-         
-          <div style="position:relative;" ht-if="val.desc.indexOf('.html') == -1" >
+        <div ht-if="val.attachments.length == 2"  class="item my-2 col-lg-6" ht-repeat="(key2, a) in val.attachments">
+          <div style="position:relative;" ht-if="val.desc.indexOf('.html') == -1">
               <img onclick="zoomImage(this,{{key}})" class="lazy d-block mx-auto img-fluid" alt="{{val.name}}" data-src="{{a.url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') }}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10" name="" data-was-processed="true">
               <span class="id" style="position:absolute;top:6px;right: 10px;color:rgba(255,255,255,0.7)"></span>
             <span class="title" style="position:absolute;bottom:6px;left: 10px;color:rgba(255,255,255,0.7)"><b>{{val.attachments[0].name}}</b></span>
@@ -37,7 +35,7 @@
 
       <div class="row" id="trello-load-more">
         <div class="col-md-12">
-          <a class="btn btn-block my-4 btn-secondary btn-lg p-3" id="Guarda altre immagini" onclick="gtag('event', 'click', {'event_category': 'Foto prodotti', 'event_label': 'Guarda foto Costruzioni'});">
+          <a class="btn btn-block my-4 btn-secondary btn-lg p-3" id="more" >
             <i class="fa fa-fw fa-search-plus text-white"></i>
             <b class="text-white"> Guarda altre immagini</b>
           </a>
@@ -45,3 +43,25 @@
       </div>
     </div>
   </div>
+
+  <script>
+
+
+  document.querySelectorAll("#photos .container .item").forEach((div,k)=> {
+    console.log("ss",k)
+    if (k > 30) {
+      div.style.display = "none";
+      console.log("K ", k)
+    }
+  })
+
+  document.querySelector("#more").addEventListner("click", e => {
+    document.querySelectorAll("#photos .container .item").forEach((div,k)=> {
+      console.log("ss",k)
+      if (k > 30) {
+        div.style.display = "block";
+        console.log("K ", k)
+      }
+    })
+  })
+  </script>
