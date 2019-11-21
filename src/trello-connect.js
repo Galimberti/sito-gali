@@ -49,12 +49,16 @@ $(".load-1 .lazy").lazy();
 updateNumbers()
 
 
+
+
 var zoomImage = function(img) {
-  console.log("htis", img)
+  // console.log("htis", img)
   // clone, fix width and append
-  // var index = cardNumber - $model.parent().find("img, iframe").index(img) + 1;
-  // document.location.hash = "#" + index;
-  var index  = 11;
+    // var index = cardNumber - $model.parent().find("img, iframe").index(img) + 1;
+
+  var index = cardNumber - $("#photos").find("img, iframe").index(img) + 1;
+  
+  document.location.hash = "#" + index;
   // create the wrapper and the full width image
   var $wrapper = $("<div class='full-screen'>\
                       <div class='btn-group mt-1 mx-1  pull-xs-right'>\
@@ -106,4 +110,18 @@ var zoomImage = function(img) {
     $wrapper.remove();
     window.history.pushState(null, "", "#");
   });
+}
+
+
+try {
+  //open image only with numeric hashtag
+  var isNumber = /^\#[0-9]*$/.test(document.location.hash)
+  if (document.location.hash && isNumber) {
+    // $btnLoadMore.trigger("click")
+    var index = cardNumber -  Number(document.location.hash.replace("#", "")) + 1;
+    if (index != 0)
+      zoomImage($("#photos").find("img,iframe")[index]);  
+  }
+} catch(e) {
+  console.log("ERROR ", e )
 }
