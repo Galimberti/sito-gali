@@ -6,18 +6,18 @@
 
 
 
-
+var cardNumber
 
  var updateNumbers = function() {
-    var n = $("#photos").find("img.lazy").length
+    cardNumber = $("#photos").find("img.lazy").length
       var $all = $("#photos .row .id");
       $("#photos  span.id").each(function() {
-        $(this).text(n - $all.index(this) + 1)
+        $(this).text(cardNumber - $all.index(this) + 1)
       })
     }
   
 
-    var showMoreImages = function() {
+    var showMoreImages = (e) => {
        document.querySelectorAll(".item").forEach((div,k)=> {
         console.log("ss",k)
         if (k > 30) {
@@ -27,6 +27,7 @@
       })
 
       setTimeout(function() {
+        e.target.parentNode.removeChild(e.target)
         $(".load-2 .lazy").lazy();
       },1)
     }
@@ -46,3 +47,63 @@ document.querySelectorAll("#photos .container .item").forEach((div,k)=> {
 $(".load-1 .lazy").lazy();
 
 updateNumbers()
+
+
+var zoomImage = function(img) {
+  console.log("htis", img)
+  // clone, fix width and append
+  // var index = cardNumber - $model.parent().find("img, iframe").index(img) + 1;
+  // document.location.hash = "#" + index;
+  var index  = 11;
+  // create the wrapper and the full width image
+  var $wrapper = $("<div class='full-screen'>\
+                      <div class='btn-group mt-1 mx-1  pull-xs-right'>\
+                        <!--<label class='btn btn-info' style='pointer-events:none'>N° " + index + "</label>\
+                        <div class='btn-group'>\
+                          <button class='btn btn-info fa fa-chain' data-toggle='dropdown'></button>\
+                          <div class='dropdown-menu dropdown-menu-right p-1'>\
+                            <input type='text' size='50' value='"+ document.location +"'>\
+                          </div>\
+                        </div>\
+                        <a class='btn btn-info fa fa-envelope' href='mailto:?body=" + document.location + "'></a>\
+                        <a class='btn btn-info fa fa-facebook'></a>-->\
+                        <a class='btn btn-light fa fa-close'></a>\
+                      </div>\
+                    </div>");
+
+  var $img = $("<img>");
+  if ($(img).attr("data-src"))
+    $img.attr("src", $(img).attr("data-src"));
+  else
+    $img.attr("src", $(img).attr("src"));
+  $wrapper.append($img);
+
+
+ $wrapper.find(".fa-close").on("click", function() {
+    $("body").removeClass("noscroll");
+    $wrapper.remove();
+    window.history.pushState(null, "", "#");
+  });
+
+  $(window).on('popstate', function() {
+      $("body").removeClass("noscroll");
+    $wrapper.remove();
+    // window.history.pushState(null, "", "#");
+  })
+
+  // block the body scroll
+  $("body").addClass("noscroll");
+  $("body").append($wrapper);
+   $wrapper.find(".fa-chain").on("click", function(e) {
+      e.preventDefault();
+      var input = $wrapper.find("input")[0];
+      input.setSelectionRange(0, input.value.length);
+  },true)
+
+  $wrapper.find("img").on("click", function() {
+    // body back to scroll
+    $("body").removeClass("noscroll");
+    $wrapper.remove();
+    window.history.pushState(null, "", "#");
+  });
+}
