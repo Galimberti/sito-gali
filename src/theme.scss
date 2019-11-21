@@ -55,6 +55,7 @@ body {
   position:relative;
   height:100%;
   min-height : 100%;
+  margin-top: 70px;
 
   @include media-breakpoint-down(sm) {
     .section-fill-height {
@@ -79,6 +80,7 @@ html {
   background-color: $body-bg;
   font-weight : normal !important;
 }
+
 
 
 .bg-dark {
@@ -251,6 +253,13 @@ li:hover {
   border-bottom: 3px solid transparent;
 }
 
+nav .separator {
+  width: 1px;
+  min-height: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: white;
+}
 
 .noscroll {
 	overflow:hidden;
