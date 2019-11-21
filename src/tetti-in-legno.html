@@ -33,7 +33,7 @@
   <script src="navbar.js"></script>
 </head>
 
-<body class="text-center">
+<body class="text-center" style="">
   <div ht-include="'src/_navbar.html'"></div>
   <div class="section d-flex align-items-center cover-image h-75" id="cover" style="background-image: url(&quot;assets/azienda/tetti_cover.jpg&quot;);">
     <div class="container">
@@ -59,9 +59,7 @@
       </div>
     </div>
   </div>
-  
   <div ht-include="'src/_trello-gallery.html'" ht-include-context="{lista:data.tettiinlegno}"></div>
-
   <div class="section bg-primary py-4 text-left mt-3" id="CTA_2">
     <div class="container">
       <div class="row">
@@ -83,8 +81,6 @@
       </div>
     </div>
   </div>
-
-
   <div class="float-CTA">
     <a class="btn btn-primary text-white btn" href="#CTA_2" title="Contatta un tecnico" onclick="gtag('event', 'click', {'event_category': 'Chiedi Info', 'event_label': 'Scroll button'});">Chiedi informazioni</a>
   </div>
@@ -277,7 +273,6 @@
       }, 30000);
     });
   </script>
-  <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 20px;right:20px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:220px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo Free&nbsp;&nbsp;<img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16"></pingendo>
 </body>
 
 </html>
