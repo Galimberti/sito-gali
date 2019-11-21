@@ -32,21 +32,17 @@
     }
 
       
-  document.querySelectorAll("#photos .container .item").forEach((div,k)=> {
-    console.log("ss",k)
-    if (k > 30) {
-      
-      div.style.display = "none";
-      div.classList.add("load-2")
-    } else {
-      div.classList.add("load-1")
-    }
-  })
-
-  $(".load-1 .lazy").lazy();
-  
+document.querySelectorAll("#photos .container .item").forEach((div,k)=> {
+  console.log("ss",k)
+  if (k > 30) {
     
+    div.style.display = "none";
+    div.classList.add("load-2")
+  } else {
+    div.classList.add("load-1")
+  }
+})
+
+$(".load-1 .lazy").lazy();
 
 updateNumbers()
-
-// de2a945cc023e9645ffe2d0a04fb32be
