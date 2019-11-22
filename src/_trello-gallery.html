@@ -5,10 +5,10 @@
 
       <div ht-repeat="(key, val) in data.lista" class="item row" style="display: flex">
         <!-- video -->
-        <div ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1" class="lazy col-lg-12 my-2">
+        <div ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1" class="col-lg-12 my-2">
           <div style="position:relative;" >
               <div class="mt-1 embed-responsive embed-responsive-16by9">
-                <iframe data-src="{{val.desc}}"></iframe>
+                <iframe class="lazy" data-src="{{val.desc}}"></iframe>
               </div>
               <span class="id" style="position:absolute;top:6px;right: 10px;color:rgba(255,255,255,0.7)"></span>
           </div>
