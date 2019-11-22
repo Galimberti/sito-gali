@@ -13,15 +13,7 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
             return card.idList == l.id
         }, {})
 
-        lc.forEach((item) => {
-            var p  = item.name.match(/\(\w+\)/g)
-            if (p && p.length) {
-                console.log(p)
-                item.where = p[0].replace("(", "").replace(")","")
-            }
-        })
-
-        fs.writeFile("data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});
+        fs.writeFile("data/"+l.name.replace(".html",".json"),JSON.stringify(lc ,null, 2), function(){});
 
     })
 })
@@ -51,20 +43,18 @@ function loadCards() {
     return new Promise((resolve,reject) => {
         var res = ""
         http.get(cardsUrl, function(res){
-            var body = ''
+            var body = '';
 
             res.on('data', function(chunk){
-                body += chunk
-            })
+                body += chunk;
+            });
 
-            res.on('end', function() {
-                var r = JSON.parse(body)
-                
-                resolve(r)
-            })
+            res.on('end', function(){
+                resolve(JSON.parse(body))
+            });
         }).on('error', function(e){
             reject(e)
-        })
+        });
     })
 }
 
