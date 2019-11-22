@@ -204,7 +204,8 @@
         "pos": 16384,
         "id": "59e48184ddf5b2a29fac1f5b"
       }
-    ]
+    ],
+    "alt": "Tavolo in legno di rovere"
   },
   {
     "id": "5b87fc03db26733ddcf97f2f",
@@ -411,7 +412,8 @@
         "pos": 16384,
         "id": "5b87fc2f27992c71d9fadcc4"
       }
-    ]
+    ],
+    "alt": "giunto crepa legno massello tavolo"
   },
   {
     "id": "5b87fbc4af5f0412127cc5ab",
@@ -695,7 +697,8 @@
         "pos": 49152,
         "id": "5bbccfe99e086412f2663d79"
       }
-    ]
+    ],
+    "alt": "tavolo legno massello"
   },
   {
     "id": "58a5b80857c9f2c3b8b800ad",
@@ -902,7 +905,8 @@
         "pos": 16384,
         "id": "5adefff40a5198f93c2f9933"
       }
-    ]
+    ],
+    "alt": "tavolo in legno grezzo con gambe di design"
   },
   {
     "id": "5a9e48ed5e43953fcc7a342c",
@@ -1109,7 +1113,8 @@
         "pos": 16384,
         "id": "5a9e48f5301918a1f65c3bb7"
       }
-    ]
+    ],
+    "alt": "Pouf legno grezzo"
   },
   {
     "id": "5a66f585b624f921687e230a",
@@ -1316,7 +1321,8 @@
         "pos": 16384,
         "id": "5a66f5940868ea581e3a3565"
       }
-    ]
+    ],
+    "alt": "rovere grezzo tavoli boiserie"
   },
   {
     "id": "5a339c73d942c5dda5e1e54d",
@@ -1600,7 +1606,8 @@
         "pos": 32768,
         "id": "5a339c850d812a5fd8df6d79"
       }
-    ]
+    ],
+    "alt": "legno grezzo e levigato tavolo"
   },
   {
     "id": "59eee3b4c45fd6dbaf4cc331",
@@ -1807,7 +1814,8 @@
         "pos": 16384,
         "id": "59eee3b902b45b9b23fb374b"
       }
-    ]
+    ],
+    "alt": "tavolo rovere giuntato"
   },
   {
     "id": "5bbb5a8b6dee68022facfdb7",
@@ -2014,7 +2022,8 @@
         "pos": 16384,
         "id": "5bbb5aa37ddd2a28555faef9"
       }
-    ]
+    ],
+    "alt": "tavolo in noce massello e struttura di metallo"
   },
   {
     "id": "59eee3ca08c49b8ae08f13b1",
@@ -2221,7 +2230,8 @@
         "pos": 16384,
         "id": "59eee3ce0e658e82d94c4b3b"
       }
-    ]
+    ],
+    "alt": "tavolo rovere giuntato"
   },
   {
     "id": "5a66f53de6f30d207a9c88a6",
@@ -2428,7 +2438,8 @@
         "pos": 16384,
         "id": "5a66f542d9bb6980cc7f6fc1"
       }
-    ]
+    ],
+    "alt": "tavolo in legno di cedro grezzo"
   },
   {
     "id": "5a339ca58c9e96d5f7044ed8",
@@ -2635,7 +2646,8 @@
         "pos": 16384,
         "id": "5a339ccce6b6303913fa1ff9"
       }
-    ]
+    ],
+    "alt": "bancone ad angolo in legno di cedro"
   },
   {
     "id": "5a9e486e18c3c7c75dfbe96f",
@@ -2842,6 +2854,7 @@
         "pos": 16384,
         "id": "5a9e4877ac4e9510e602b3c9"
       }
-    ]
+    ],
+    "alt": "Tavolo in cedro gambe nere sedia design"
   }
 ]

@@ -204,7 +204,8 @@
         "pos": 16384,
         "id": "5be17d287995da4331c79178"
       }
-    ]
+    ],
+    "alt": "Cartelle di legno di rovere per lavori di falegnameria"
   },
   {
     "id": "5be17d865d9dbf1c742bff87",
@@ -411,7 +412,8 @@
         "pos": 16384,
         "id": "5be17d8dcb12428c160875a0"
       }
-    ]
+    ],
+    "alt": "Essenze cartelle legno"
   },
   {
     "id": "5c1a5b3fde8de0336a4add1a",
@@ -618,7 +620,8 @@
         "pos": 16384,
         "id": "5c1a5b45ae25c441fc2bd225"
       }
-    ]
+    ],
+    "alt": "Pacco cartelle rovere"
   },
   {
     "id": "5c1a5b324ceba04504ec67ad",
@@ -825,7 +828,8 @@
         "pos": 32768,
         "id": "5c1a76bbe3aa0e63028964e5"
       }
-    ]
+    ],
+    "alt": "Bindella lamelle"
   },
   {
     "id": "5be17cf06a1e5977264834e0",
@@ -1032,7 +1036,8 @@
         "pos": 16384,
         "id": "5be17d0bd6377e0f24795c62"
       }
-    ]
+    ],
+    "alt": "Catasta di legname tavole di rovere"
   },
   {
     "id": "5c1a5b89c6eac06165198ad8",
@@ -1316,7 +1321,8 @@
         "pos": 32768,
         "id": "5c1a5b98d3f9cc0d7b312deb"
       }
-    ]
+    ],
+    "alt": "Essenze cartelle larice e noce"
   },
   {
     "id": "5be1810aedb17969559bf538",
@@ -1523,7 +1529,8 @@
         "pos": 16384,
         "id": "5be1811cf9b5f30d8bf08c57"
       }
-    ]
+    ],
+    "alt": "Magazzino interno Galimberti legno e bioedilizia"
   },
   {
     "id": "5be1814c159438806f913817",
@@ -1807,7 +1814,8 @@
         "pos": 32768,
         "id": "5be1820ca998416ed5917dc0"
       }
-    ]
+    ],
+    "alt": "Multilame per tavole legno massello"
   },
   {
     "id": "5c1a5b650ed19a72e3033fd8",
@@ -2014,7 +2022,8 @@
         "pos": 32768,
         "id": "5c1a76c770fea92533fa2531"
       }
-    ]
+    ],
+    "alt": "Calibratrice per cartelle in legno"
   },
   {
     "id": "5be1808ea1552f74db2a8687",
@@ -2221,7 +2230,8 @@
         "pos": 16384,
         "id": "5be18099adf39711aa114367"
       }
-    ]
+    ],
+    "alt": "Magazzino Galimberti legno e bioedilizia"
   },
   {
     "id": "5be17ef708651c839bffbe23",
@@ -2428,7 +2438,8 @@
         "pos": 16384,
         "id": "5be17f0369d7eb5f3acf205a"
       }
-    ]
+    ],
+    "alt": "Azienda Galimberti legno e bioedilizia ripresa con drone"
   },
   {
     "id": "5b1e3c8af8f97a6cdcface19",
@@ -2635,7 +2646,8 @@
         "pos": 16384,
         "id": "5b1e3c98b5ba83b1b5c45055"
       }
-    ]
+    ],
+    "alt": "Tavola di cedro massello per tavoli"
   },
   {
     "id": "5b1e3c55b2cce9a3cb4e436c",
@@ -2842,7 +2854,8 @@
         "pos": 16384,
         "id": "5b1e3c6d286248016bf1f52d"
       }
-    ]
+    ],
+    "alt": "Tavola di Cedro per arredi in legno"
   },
   {
     "id": "5b1e3cb12c63ad184edaa8ac",
@@ -3049,7 +3062,8 @@
         "pos": 16384,
         "id": "5b1e3cbfadc2a3bc05c258a5"
       }
-    ]
+    ],
+    "alt": "Tavola di rovere"
   },
   {
     "id": "5b1e3d4111a1be99b44381fd",
@@ -3256,7 +3270,8 @@
         "pos": 16384,
         "id": "5b1e3d4eb01f61d6db319c6e"
       }
-    ]
+    ],
+    "alt": "Tavola con radica di rovere"
   },
   {
     "id": "5b1e3d7e6263517e8c30ff8f",
@@ -3463,6 +3478,7 @@
         "pos": 16384,
         "id": "5b1e3d9da02608ec1ef9d48d"
       }
-    ]
+    ],
+    "alt": "Tavola di rovere per tavolo"
   }
 ]

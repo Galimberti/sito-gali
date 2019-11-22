@@ -16,9 +16,10 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
         lc.forEach((item) => {
             var p  = item.name.match(/\(\w+\)/g)
             if (p && p.length) {
-                console.log(p)
                 item.where = p[0].replace("(", "").replace(")","")
             }
+
+            item.alt = item.name.replace(/\-/g, " ")
         })
 
         fs.writeFile("data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});

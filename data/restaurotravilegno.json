@@ -205,7 +205,8 @@
         "id": "5dd4fc2c4edad74a7dfc9e40"
       }
     ],
-    "where": "Milano"
+    "where": "Milano",
+    "alt": "Capriata e travi in legno antico (Milano)"
   },
   {
     "id": "5dcc1ad3eb6ed88018c8c2e0",
@@ -412,7 +413,8 @@
         "pos": 16384,
         "id": "5dd4fc8f4ea00231705163bd"
       }
-    ]
+    ],
+    "alt": "Trasporto e restauro capriate in legno antico"
   },
   {
     "id": "5dcc1ab02fd0f56bab6c8f59",
@@ -619,7 +621,8 @@
         "pos": 16384,
         "id": "5dd506c99b1d285e0b316ddf"
       }
-    ]
+    ],
+    "alt": "Appoggi travi in legno restaurate"
   },
   {
     "id": "5dcc1b485bb8bf7f34d98eb8",
@@ -827,7 +830,8 @@
         "id": "5dd5090b9ea2a656c0538bde"
       }
     ],
-    "where": "Milano"
+    "where": "Milano",
+    "alt": "Consolidamento capriate e travi in legno (Milano)"
   },
   {
     "id": "5dcc1aa7e13c3a8e87638c0a",
@@ -1035,7 +1039,8 @@
         "id": "5dd509486e625814b782eedb"
       }
     ],
-    "where": "Milano"
+    "where": "Milano",
+    "alt": "Recupero travi in legno e capriate antiche (Milano)"
   },
   {
     "id": "5dcc19f8c70481395f95c08f",
@@ -1242,7 +1247,8 @@
         "pos": 16384,
         "id": "5dd509e1c603586b84bdedb9"
       }
-    ]
+    ],
+    "alt": "Restauro e consolidamento travi in legno"
   },
   {
     "id": "5dcc1a391a8d1a31bd9ce224",
@@ -1449,7 +1455,8 @@
         "pos": 32768,
         "id": "5dd6620abdc59a5fae4d7ab5"
       }
-    ]
+    ],
+    "alt": "Collaudo travi in legno"
   },
   {
     "id": "5dcc1a98e485a93232967fc9",
@@ -1656,7 +1663,8 @@
         "pos": 16384,
         "id": "5dd50c20c72a474423b25278"
       }
-    ]
+    ],
+    "alt": "Restauro strutture e travi in legno"
   },
   {
     "id": "5dcc19cdbfc4dc4d53bbc7b5",
@@ -1863,6 +1871,7 @@
         "pos": 16384,
         "id": "5dd56b792adab433faf912f9"
       }
-    ]
+    ],
+    "alt": "Restauro travi in legno e trattamento tarli"
   }
 ]

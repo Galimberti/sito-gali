@@ -206,7 +206,8 @@
         "pos": 131072,
         "id": "5dcbba6840773036f2ed90a8"
       }
-    ]
+    ],
+    "alt": "Casa in legno prefabbricata a due piani, chiavi in mano (Civate   LC)"
   },
   {
     "id": "5c1123ed89aa038d646e13d3",
@@ -413,7 +414,8 @@
         "pos": 16384,
         "id": "5c1123f6faa5c612ed6eedf1"
       }
-    ]
+    ],
+    "alt": "Villa in legno prefabbricata"
   },
   {
     "id": "5c112430bc82d16a38de6263",
@@ -620,7 +622,8 @@
         "pos": 16384,
         "id": "5c1124362bcb8173115a53eb"
       }
-    ]
+    ],
+    "alt": "Veranda facciata casa in legno"
   },
   {
     "id": "5c11244c54ac9e3d1476b0a7",
@@ -827,7 +830,8 @@
         "pos": 16384,
         "id": "5c1124525b19dc88b49ebbd8"
       }
-    ]
+    ],
+    "alt": "Scala in legno casa prefabbricata in legno"
   },
   {
     "id": "5c1124819790cc1ff72de99c",
@@ -1111,7 +1115,8 @@
         "pos": 32768,
         "id": "5c11249a5caab907aa9e1f4e"
       }
-    ]
+    ],
+    "alt": "Interni passerella casa in legno"
   },
   {
     "id": "5be175f8247dcd1932338bda",
@@ -1395,7 +1400,8 @@
         "pos": 32768,
         "id": "5be1768ac2d091841e333e68"
       }
-    ]
+    ],
+    "alt": "Sopralzo casa in legno"
   },
   {
     "id": "5b87ef97fad1ab4ad657bb21",
@@ -1602,7 +1608,8 @@
         "pos": 16384,
         "id": "5b87efc74e9c7c869319eeb5"
       }
-    ]
+    ],
+    "alt": "sopralzo cascina storica"
   },
   {
     "id": "5b87f42585a5351166dec4d5",
@@ -1886,7 +1893,8 @@
         "pos": 32768,
         "id": "5b87f432ce50b484ba063b1e"
       }
-    ]
+    ],
+    "alt": "muri prefabbricati legno sopralzo cascina"
   },
   {
     "id": "5b87f3fe12d98211f355e727",
@@ -2093,7 +2101,8 @@
         "pos": 16384,
         "id": "5b87f41440db6d860b26c3a4"
       }
-    ]
+    ],
+    "alt": "sopralzo cascina storica muri prefabbricati in legno"
   },
   {
     "id": "59eedeb33511a3c99adce12f",
@@ -2300,7 +2309,8 @@
         "pos": 16384,
         "id": "59eeded644861af91b5785e8"
       }
-    ]
+    ],
+    "alt": "casa moderna prefabbricata in legno"
   },
   {
     "id": "59eedf2b23ec3c314e709b34",
@@ -2507,7 +2517,8 @@
         "pos": 16384,
         "id": "59eedf318db836ed18ff5f8c"
       }
-    ]
+    ],
+    "alt": "salotto moderno parquet casa in legno prefabbricata"
   },
   {
     "id": "59eedf61deabac391365725f",
@@ -2791,7 +2802,8 @@
         "pos": 32768,
         "id": "59eedf75589997529e7271af"
       }
-    ]
+    ],
+    "alt": "sala da pranzo e cucina casa in legno prefabbricata"
   },
   {
     "id": "59eedf8b736623dabb1c5608",
@@ -2998,7 +3010,8 @@
         "pos": 16384,
         "id": "59eedf9c7c8ab42d6802cee2"
       }
-    ]
+    ],
+    "alt": "taverna casa in legno prefabbricata con tavolo in legno"
   },
   {
     "id": "5947d2cf80669a7d112cdab5",
@@ -3205,7 +3218,8 @@
         "pos": 16384,
         "id": "5947d2df25319e78dd683b39"
       }
-    ]
+    ],
+    "alt": "casa di montagna prefabbricata in legno Galimberti legno e bioedilizia"
   },
   {
     "id": "5947d310648f4571babef115",
@@ -3489,7 +3503,8 @@
         "pos": 49152,
         "id": "5947d37abf60393200191efc"
       }
-    ]
+    ],
+    "alt": "Struttura in legno prefabbricata balcone e rivestimento in larice Galimberti legno e bioedilizia"
   },
   {
     "id": "59118f4d35830b280de1780c",
@@ -3547,7 +3562,8 @@
       "size": "normal",
       "brightness": "light"
     },
-    "attachments": []
+    "attachments": [],
+    "alt": "video di una costruzione di una casa in legno prefabbricata"
   },
   {
     "id": "582ed15d94a2d25e5f5e3752",
@@ -3754,7 +3770,8 @@
         "pos": 16384,
         "id": "582ed1815f9b8b4178354538"
       }
-    ]
+    ],
+    "alt": "casa in legno prefabbricata scale soggiorno e pilastri Galimberti"
   },
   {
     "id": "56b1b48be8ba4d64858a0af7",
@@ -3961,7 +3978,8 @@
         "pos": 16384,
         "id": "56b1b531d6719ecc49387e57"
       }
-    ]
+    ],
+    "alt": "soggiorno di una casa in legno prefabbricata Galimberti"
   },
   {
     "id": "582ed1d1eac99678771775b1",
@@ -4245,7 +4263,8 @@
         "pos": 32768,
         "id": "582ed1e3180739d212a6f9b6"
       }
-    ]
+    ],
+    "alt": "interno di una casa in legno prefabbricata soffitto legno Galimberti"
   },
   {
     "id": "5806212901ae8a0fd6a97340",
@@ -4303,7 +4322,8 @@
       "size": "normal",
       "brightness": "light"
     },
-    "attachments": []
+    "attachments": [],
+    "alt": "casa legno prefabbricata video montaggio elicottero"
   },
   {
     "id": "57c5918df5f0c2f8d018e736",
@@ -4510,7 +4530,8 @@
         "pos": 16384,
         "id": "57c5919864f275316669c69c"
       }
-    ]
+    ],
+    "alt": "case in legno prefabbricate svizzera ticino Galimberti"
   },
   {
     "id": "57c592413195c9bef4ca70ef",
@@ -4717,7 +4738,8 @@
         "pos": 16384,
         "id": "57fce24579a3bf2e614c5942"
       }
-    ]
+    ],
+    "alt": "terrazzo di una casa in legno prefabbricata svizzera ticino a Lugano Galimberti"
   },
   {
     "id": "57c433782b0abaf8a4016b6a",
@@ -4924,7 +4946,8 @@
         "pos": 16384,
         "id": "57c433897af957ab8038008f"
       }
-    ]
+    ],
+    "alt": "soggiorno con camino di una casa in legno prefabbricata a Lugano ticino svizzera Galimberti"
   },
   {
     "id": "58062fca1d7ad15ed472b04d",
@@ -4982,7 +5005,8 @@
       "size": "normal",
       "brightness": "light"
     },
-    "attachments": []
+    "attachments": [],
+    "alt": "casa legno prefabbricata video montaggio elicottero parete"
   },
   {
     "id": "57345209408b0b61e50aad97",
@@ -5189,7 +5213,8 @@
         "pos": 16384,
         "id": "573452238bf29429a26416c9"
       }
-    ]
+    ],
+    "alt": "casa passiva prefabbricata in legno Galimberti"
   },
   {
     "id": "573452285a32ec1e605b5a43",
@@ -5396,7 +5421,8 @@
         "pos": 16384,
         "id": "5734524f487045805e983672"
       }
-    ]
+    ],
+    "alt": "finestre con parapetto in legno di una casa passiva in legno Galimberti"
   },
   {
     "id": "57e24bd76bcea6c7e94d485d",
@@ -5603,7 +5629,8 @@
         "pos": 16384,
         "id": "57e24bfedd333d2e7decd3e9"
       }
-    ]
+    ],
+    "alt": "montaggio di una parete in legno di una casa prefabbricata Galimberti"
   },
   {
     "id": "57e242a577d828128bd44fa9",
@@ -5810,7 +5837,8 @@
         "pos": 16384,
         "id": "57e24cbe4c34476d1444fa1c"
       }
-    ]
+    ],
+    "alt": "montaggio di una parete in legno prefabbricata con porta Galimberti"
   },
   {
     "id": "56d6fb273fbb6f54e12b526e",
@@ -6017,7 +6045,8 @@
         "pos": 16384,
         "id": "56d6fb2bf18cda233945b116"
       }
-    ]
+    ],
+    "alt": "referenze case in legno Galimberti"
   },
   {
     "id": "56b0bed37849e98f896d5932",
@@ -6224,7 +6253,8 @@
         "pos": 16384,
         "id": "56c48608d441c65d3f0b52b1"
       }
-    ]
+    ],
+    "alt": "casa in legno prefabbricata Galimberti colline toscana"
   },
   {
     "id": "56b461f472b8a51aa9c1a527",
@@ -6508,7 +6538,8 @@
         "pos": 32768,
         "id": "56b8afe545453221dcb55f37"
       }
-    ]
+    ],
+    "alt": "balcone di una casa in legno prefabbricata Galimberti"
   },
   {
     "id": "56b1b4c05d6169214a08808e",
@@ -6715,7 +6746,8 @@
         "pos": 16384,
         "id": "56b1b58eed31820ea3a0e44c"
       }
-    ]
+    ],
+    "alt": "soggiorno casa in legno prefabbricata Galimberti"
   },
   {
     "id": "56b0bf0e5337303d93fd3f0e",
@@ -6999,7 +7031,8 @@
         "pos": 32768,
         "id": "56b8b9d362d2bb6d2b5954c1"
       }
-    ]
+    ],
+    "alt": "ingresso casa in legno prefabbricata  Galimberti"
   },
   {
     "id": "57e247696f1177941ecc20eb",
@@ -7206,7 +7239,8 @@
         "pos": 16384,
         "id": "57e2477052f867ef219c0220"
       }
-    ]
+    ],
+    "alt": "montaggio del solaio di una casa in legno Galimberti"
   },
   {
     "id": "580630269e20c40169cc30d1",
@@ -7264,7 +7298,8 @@
       "size": "normal",
       "brightness": "light"
     },
-    "attachments": []
+    "attachments": [],
+    "alt": "casa legno prefabbricata video"
   },
   {
     "id": "56b0db2faadcaf8c16f32b29",
@@ -7471,7 +7506,8 @@
         "pos": 16384,
         "id": "56b46162fb4cb93e679d5374"
       }
-    ]
+    ],
+    "alt": "cucina di una casa in legno Galimberti"
   },
   {
     "id": "56b9b827a12213e99fb982ac",
@@ -7678,7 +7714,8 @@
         "pos": 16384,
         "id": "56b9ba354bc6cf0ca976e9ac"
       }
-    ]
+    ],
+    "alt": "assemblaggio di una parete prefabbricata in legno in capannone Galimberti"
   },
   {
     "id": "57e243ca1143989f22ef09b6",
@@ -7885,7 +7922,8 @@
         "pos": 16384,
         "id": "57e243dcccafae4a7d11e365"
       }
-    ]
+    ],
+    "alt": "montaggio di un casa con pareti prefabbricate in legno Galimberti"
   },
   {
     "id": "57e24d7ad7889303ceb57db8",
@@ -8092,7 +8130,8 @@
         "pos": 16384,
         "id": "57e24dff3d8f8df17c5f97bf"
       }
-    ]
+    ],
+    "alt": "montaggio pareti in legno Galimberti"
   },
   {
     "id": "56d6fb52bc4c2b286e88e879",
@@ -8299,7 +8338,8 @@
         "pos": 16384,
         "id": "56d6fb561677fc69a34942de"
       }
-    ]
+    ],
+    "alt": "referenze lavori Galimberti legno e bioedilizia"
   },
   {
     "id": "56b0dace0434dbaeb09c231f",
@@ -8506,7 +8546,8 @@
         "pos": 16384,
         "id": "56b0db44296e24c5cff39186"
       }
-    ]
+    ],
+    "alt": "salone con parquet di una scuola materna in legno Galimberti"
   },
   {
     "id": "56b1b471264b7b31d5be8271",
@@ -8713,7 +8754,8 @@
         "pos": 16384,
         "id": "56b1b4e6d3eda2517509dccc"
       }
-    ]
+    ],
+    "alt": "controsoffitto con lucernario struttura in legno Galimberti"
   },
   {
     "id": "56ea895ba792827c6018f2ae",
@@ -8920,7 +8962,8 @@
         "pos": 16384,
         "id": "56ea897078121f84c2794296"
       }
-    ]
+    ],
+    "alt": "scuola in legno prefabbricata con bambini in piscina Galimberti"
   },
   {
     "id": "56d6fb113db561cfdc84e47a",
@@ -9127,7 +9170,8 @@
         "pos": 16384,
         "id": "56d6fb1562bb34c45aff90ae"
       }
-    ]
+    ],
+    "alt": "cosa dicono di noi i clienti della Galimberti legno e bioedilizia"
   },
   {
     "id": "57e2447d28e979910b0ad20e",
@@ -9334,7 +9378,8 @@
         "pos": 16384,
         "id": "57e2448ddcc908488b13f0c5"
       }
-    ]
+    ],
+    "alt": "parete in legno prefabbricata sospesa in cantiere Galimberti"
   },
   {
     "id": "580630579bf56164ca2dfd77",
@@ -9392,7 +9437,8 @@
       "size": "normal",
       "brightness": "light"
     },
-    "attachments": []
+    "attachments": [],
+    "alt": "casa legno prefabbricata video villa"
   },
   {
     "id": "56b1b53f01a730a11eb77dc7",
@@ -9599,7 +9645,8 @@
         "pos": 16384,
         "id": "56b1b6341cfcecf048db8a1d"
       }
-    ]
+    ],
+    "alt": "complesso prefabbricato in legno Galimberti"
   },
   {
     "id": "56b1b4e8d8de6dc23d1f5452",
@@ -9806,7 +9853,8 @@
         "pos": 16384,
         "id": "56b1b5f609771294ddb1b198"
       }
-    ]
+    ],
+    "alt": "bagno con parquet rosso e vasca rivestita in legno Galimberti"
   },
   {
     "id": "56b1b51ca1d2788731649a04",
@@ -10090,7 +10138,8 @@
         "pos": 32768,
         "id": "56b1b65fbd1e7962534c0e72"
       }
-    ]
+    ],
+    "alt": "camera da letto casa in legno Galimberti"
   },
   {
     "id": "57e244d4c309a4471ceb4ca2",
@@ -10297,7 +10346,8 @@
         "pos": 16384,
         "id": "57e246429e1ffefce996e541"
       }
-    ]
+    ],
+    "alt": "montaggio di una parete prefabbricata in legno con impianti Galimberti"
   },
   {
     "id": "56b9b3f3a93835c81440f5fe",
@@ -10581,7 +10631,8 @@
         "pos": 32768,
         "id": "56b9b417b6a255bd764af158"
       }
-    ]
+    ],
+    "alt": "serramento scorrevole a scomparsa struttura parete in legno Galimberti"
   },
   {
     "id": "56c2e833b525ae008324966a",
@@ -10865,7 +10916,8 @@
         "pos": 32768,
         "id": "56eab5a6deeebf57c2b2c8eb"
       }
-    ]
+    ],
+    "alt": "pompa di calore impianto idrosanitario casa passiva Galimberti"
   },
   {
     "id": "56d6fb3bb2d712d49cf55475",
@@ -11072,7 +11124,8 @@
         "pos": 16384,
         "id": "56d6fb3f7143a69e8ace0de1"
       }
-    ]
+    ],
+    "alt": "referenze clienti Galimberti legno e bioedilizia"
   },
   {
     "id": "580630999efd2e8a5bcbf66e",
@@ -11130,7 +11183,8 @@
       "size": "normal",
       "brightness": "light"
     },
-    "attachments": []
+    "attachments": [],
+    "alt": "casa legno prefabbricata video"
   },
   {
     "id": "56b9b815b9656015e321ff08",
@@ -11337,7 +11391,8 @@
         "pos": 16384,
         "id": "56b9bb069aaac41fbe3581af"
       }
-    ]
+    ],
+    "alt": "trasporto su un camion pareti prefabbricate in legno Galimberti"
   },
   {
     "id": "56e29902258df567903a2a18",
@@ -11544,7 +11599,8 @@
         "pos": 16384,
         "id": "56e2990c3dec5e41959ac0cd"
       }
-    ]
+    ],
+    "alt": "armatura platea di fondazione  Galimberti"
   },
   {
     "id": "56e298eca5a57d36784cd822",
@@ -11751,7 +11807,8 @@
         "pos": 16384,
         "id": "56e298f6e61ab80ac93f1677"
       }
-    ]
+    ],
+    "alt": "pareti prefabbricate per l'interrato Galimberti"
   },
   {
     "id": "56e298ddec518bcff11003f8",
@@ -11958,6 +12015,7 @@
         "pos": 16384,
         "id": "56e2991b4ddfa23db2395f94"
       }
-    ]
+    ],
+    "alt": "interrato con pareti modulari prefabbricate Galimberti"
   }
 ]

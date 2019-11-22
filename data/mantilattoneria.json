@@ -204,7 +204,8 @@
         "pos": 16384,
         "id": "5975f472357924696f802840"
       }
-    ]
+    ],
+    "alt": "tetto curvo in lamiera grecata con velux"
   },
   {
     "id": "58a33058bb4a98d7e4941e4d",
@@ -411,7 +412,8 @@
         "pos": 16384,
         "id": "58a330652d7a4ff3403a8913"
       }
-    ]
+    ],
+    "alt": "tetto con tegole in laterizio"
   },
   {
     "id": "58a6fbea1c0fc36f71ab5b02",
@@ -620,7 +622,8 @@
         "pos": 32768,
         "id": "58a6fccd6202b41fdf04018a"
       }
-    ]
+    ],
+    "alt": "pluviali verticali scolo acque meteoriche"
   },
   {
     "id": "58a6fbef056dc9a21507ffa4",
@@ -827,7 +830,8 @@
         "pos": 16384,
         "id": "58a6fdb75a9cd747f00a0f03"
       }
-    ]
+    ],
+    "alt": "copertura condominio con tegole pannelli fotovoltaici e abbaini rivestiti in rame"
   },
   {
     "id": "58a6c765fdecdbc5f009f4d5",
@@ -1083,7 +1087,8 @@
         "pos": 65536,
         "id": "5922b91b6810a6ffd5860d38"
       }
-    ]
+    ],
+    "alt": "kme tecu campioni"
   },
   {
     "id": "5922f032e608c0f753391366",
@@ -1290,7 +1295,8 @@
         "pos": 16384,
         "id": "5922f04278aac3d73d5e4fec"
       }
-    ]
+    ],
+    "alt": "grondaie in rame abbaini"
   },
   {
     "id": "5975f4c0886e0e7d55991baf",
@@ -1497,7 +1503,8 @@
         "pos": 16384,
         "id": "5975f4d0ee445f9d7686abd1"
       }
-    ]
+    ],
+    "alt": "lamiera grecata pezzi prefabbricati"
   },
   {
     "id": "5a66f68ef9ad9413f34871a3",
@@ -1704,7 +1711,8 @@
         "pos": 16384,
         "id": "5a66f6931f2c9b0318fabc36"
       }
-    ]
+    ],
+    "alt": "velux su tetto di tegole"
   },
   {
     "id": "58a421e48d31c448279939b1",
@@ -1911,7 +1919,8 @@
         "pos": 16384,
         "id": "58a423011638082e6bbf51e2"
       }
-    ]
+    ],
+    "alt": "tegole metalliche prefa"
   },
   {
     "id": "58a6fbec29ddc6a3c1daa6c8",
@@ -2118,7 +2127,8 @@
         "pos": 16384,
         "id": "58a6fd1e129a3c7ef034151c"
       }
-    ]
+    ],
+    "alt": "copertura box con membrana in PVC"
   },
   {
     "id": "58a6c76a426f95bbed1394ab",
@@ -2374,7 +2384,8 @@
         "pos": 65536,
         "id": "5922b92cfc34766390d3e3ea"
       }
-    ]
+    ],
+    "alt": "kme tecu campioni"
   },
   {
     "id": "5975f487841473142ecb45cd",
@@ -2581,7 +2592,8 @@
         "pos": 16384,
         "id": "5975f4979339c732aee56e43"
       }
-    ]
+    ],
+    "alt": "fissaggio linea vita lamiera grecata"
   },
   {
     "id": "5922f0393c2ffa2eed7975fb",
@@ -2865,7 +2877,8 @@
         "pos": 32768,
         "id": "5922f0ca2da74318efed2cc0"
       }
-    ]
+    ],
+    "alt": "pluviali in rame per un abbaino"
   },
   {
     "id": "58a6fbe87eda39b831aac7ea",
@@ -3072,7 +3085,8 @@
         "pos": 16384,
         "id": "58a6fc278f23a5bdea230f35"
       }
-    ]
+    ],
+    "alt": "grondaie e travetti di un tetto il legno"
   },
   {
     "id": "58a6fbc1f0cd708f708ff2a7",
@@ -3328,7 +3342,8 @@
         "pos": 65536,
         "id": "5922b941e7f7e39a761583a1"
       }
-    ]
+    ],
+    "alt": "vm zinc campioni"
   },
   {
     "id": "58a6fbf2336501fade11552e",
@@ -3535,7 +3550,8 @@
         "pos": 16384,
         "id": "58a6fda79f228ea218e8616a"
       }
-    ]
+    ],
+    "alt": "tetto bianco di legno con grondaie color antracite"
   },
   {
     "id": "5a339d396771b7f526aa9756",
@@ -3742,6 +3758,7 @@
         "pos": 16384,
         "id": "5a339d47d2d55cdaf81fee93"
       }
-    ]
+    ],
+    "alt": "abbaini con tegole e lattoneria"
   }
 ]
