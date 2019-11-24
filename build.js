@@ -52,20 +52,17 @@ function loadCards() {
     return new Promise((resolve,reject) => {
         var res = ""
         http.get(cardsUrl, function(res){
-            var body = ''
+            var body = '';
 
             res.on('data', function(chunk){
-                body += chunk
-            })
+                body += chunk;
+            });
 
-            res.on('end', function() {
-                var r = JSON.parse(body)
-                
-                resolve(r)
-            })
+            res.on('end', function(){
+                resolve(JSON.parse(body))
+            });
         }).on('error', function(e){
             reject(e)
-        })
+        });
     })
 }
-

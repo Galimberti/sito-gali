@@ -9,7 +9,7 @@
 var cardNumber
 
  var updateNumbers = function() {
-    cardNumber = $("#photos").find(".lazy").length
+    cardNumber = $("#photos").find("img.lazy").length
       var $all = $("#photos .row .id");
       $("#photos  span.id").each(function() {
         $(this).text(cardNumber - $all.index(this) + 1)
@@ -27,8 +27,7 @@ var cardNumber
       })
 
       setTimeout(function() {
-        $("#trello-load-more").remove()
-        // e.target.parentNode.removeChild(e.target)
+        e.target.parentNode.removeChild(e.target)
         $(".load-2 .lazy").lazy();
       },1)
     }
@@ -37,6 +36,7 @@ var cardNumber
 document.querySelectorAll("#photos .container .item").forEach((div,k)=> {
   console.log("ss",k)
   if (k > 30) {
+    
     div.style.display = "none";
     div.classList.add("load-2")
   } else {
