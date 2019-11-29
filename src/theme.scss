@@ -186,8 +186,9 @@ html {
 .cover-image {
  		background-position: center;
     position:relative;
-  	min-height: 330px !important;
-    height: 70% !important;
+    min-height: 330px !important;
+    padding-top: 4%;
+    height: 50% !important;
     > *:first-child:before {
       content:'';
       width:100%;
@@ -270,7 +271,7 @@ nav .separator {
 
 
 #photos .title {
-  color: white !important;
+  // color: white !important;
 }
   
 .btn-outline-light:hover {
