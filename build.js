@@ -13,19 +13,23 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
             return card.idList == l.id
         }, {})
 
-        lc.forEach((item) => {
+        lc.forEach((item,i) => {
             
-            item.images = []
+            item._images = []
             var s = item.name.split("//")
             s.forEach((v,i) => {
-                var img = item.images[i] = {} 
+                item._images[i] = {} 
                 var vs = v.split("(")
-                console.log("MATCH ")
                 if (vs.length > 1) {
-                    img.where = vs[1].replace(")","")
+                    item._images[i].where = vs[1].replace(")","")
                 }
-                img.alt = v.replace(/\-/g, " ")
-                console.log(item)
+                item._images[i].alt = v.replace(/\-/g, " ")
+                try {
+                    item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
+                } catch(e) {
+                    item._images[i].url = ""
+                }
+                //val.images[0].alt}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') 
             })
             
         })
