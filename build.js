@@ -14,12 +14,20 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
         }, {})
 
         lc.forEach((item) => {
-            var p  = item.name.match(/\(\w+\)/g)
-            if (p && p.length) {
-                item.where = p[0].replace("(", "").replace(")","")
-            }
-
-            item.alt = item.name.replace(/\-/g, " ")
+            
+            item.images = []
+            var s = item.name.split("//")
+            s.forEach((v,i) => {
+                var img = item.images[i] = {} 
+                var vs = v.split("(")
+                console.log("MATCH ")
+                if (vs.length > 1) {
+                    img.where = vs[1].replace(")","")
+                }
+                img.alt = v.replace(/\-/g, " ")
+                console.log(item)
+            })
+            
         })
 
         fs.writeFile("data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});
