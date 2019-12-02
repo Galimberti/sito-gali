@@ -217,7 +217,7 @@
     "id": "5de11ce950fca008fcdd3f6f",
     "checkItemStates": null,
     "closed": false,
-    "dateLastActivity": "2019-11-30T06:06:09.072Z",
+    "dateLastActivity": "2019-12-01T07:47:26.909Z",
     "desc": "",
     "descData": null,
     "dueReminder": null,
@@ -228,7 +228,7 @@
     "idAttachmentCover": "5de11e259f4a607b4544d9ce",
     "idLabels": [],
     "manualCoverAttachment": false,
-    "name": "Recupero-Travi in legno-Antiche-Vecchie-(Capriate restaurate)",
+    "name": "Recupero-Travi in legno-Antiche-Vecchie-(Capriate collaudate Eurocodice)",
     "pos": 131071,
     "shortLink": "eZCHDTgM",
     "isTemplate": false,
@@ -259,7 +259,7 @@
     "labels": [],
     "shortUrl": "https://trello.com/c/eZCHDTgM",
     "subscribed": false,
-    "url": "https://trello.com/c/eZCHDTgM/838-recupero-travi-in-legno-antiche-vecchie-capriate-restaurate",
+    "url": "https://trello.com/c/eZCHDTgM/838-recupero-travi-in-legno-antiche-vecchie-capriate-collaudate-eurocodice",
     "cover": {
       "idAttachment": "5de11e259f4a607b4544d9ce",
       "color": null,
@@ -421,8 +421,8 @@
     ],
     "_images": [
       {
-        "where": "Capriate restaurate",
-        "alt": "Recupero Travi in legno Antiche Vecchie (Capriate restaurate)",
+        "where": "Capriate collaudate Eurocodice",
+        "alt": "Recupero Travi in legno Antiche Vecchie (Capriate collaudate Eurocodice)",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11ce950fca008fcdd3f6f/d0a7ec25531adebdc9feaadfc04371da/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg"
       }
     ]
@@ -1153,7 +1153,7 @@
     "id": "5de11cf50b0afd70e3fcd235",
     "checkItemStates": null,
     "closed": false,
-    "dateLastActivity": "2019-11-30T06:08:27.845Z",
+    "dateLastActivity": "2019-12-01T07:49:10.705Z",
     "desc": "",
     "descData": null,
     "dueReminder": null,
@@ -1164,7 +1164,7 @@
     "idAttachmentCover": "5de11e4541ee131537f0ce10",
     "idLabels": [],
     "manualCoverAttachment": false,
-    "name": "Restauro-Travi in legno-Vecchie-Antiche-",
+    "name": "Restauro-Travi in legno-Vecchie-Antiche-(Adeguamenti strutturali sgombri dalla copertura)",
     "pos": 393215,
     "shortLink": "ObN7NdTX",
     "isTemplate": false,
@@ -1195,7 +1195,7 @@
     "labels": [],
     "shortUrl": "https://trello.com/c/ObN7NdTX",
     "subscribed": false,
-    "url": "https://trello.com/c/ObN7NdTX/842-restauro-travi-in-legno-vecchie-antiche",
+    "url": "https://trello.com/c/ObN7NdTX/842-restauro-travi-in-legno-vecchie-antiche-adeguamenti-strutturali-sgombri-dalla-copertura",
     "cover": {
       "idAttachment": "5de11e4541ee131537f0ce10",
       "color": null,
@@ -1357,7 +1357,8 @@
     ],
     "_images": [
       {
-        "alt": "Restauro Travi in legno Vecchie Antiche ",
+        "where": "Adeguamenti strutturali sgombri dalla copertura",
+        "alt": "Restauro Travi in legno Vecchie Antiche (Adeguamenti strutturali sgombri dalla copertura)",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf50b0afd70e3fcd235/3320178d1f2ff765288a4172a2317937/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg"
       }
     ]

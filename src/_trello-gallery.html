@@ -2,9 +2,9 @@
   <div class="container pt-1" style="background-color:white">
 
 
-    <div ht-repeat="(key, val) in data.lista" class="item row" style="display: flex">
+    <div ht-repeat="(key, val) in data.lista" class="row" style="display: flex" >
       <!-- video -->
-      <div ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1" class="col-lg-12 my-2">
+      <div  class="col-lg-12 my-2 item " ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1">
         <div style="position:relative;" >
             <div class="mt-1 embed-responsive embed-responsive-16by9">
               <iframe class="lazy" data-src="{{val.desc}}"></iframe>

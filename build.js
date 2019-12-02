@@ -14,24 +14,25 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
         }, {})
 
         lc.forEach((item,i) => {
+
             
-            item._images = []
-            var s = item.name.split("//")
-            s.forEach((v,i) => {
-                item._images[i] = {} 
-                var vs = v.split("(")
-                if (vs.length > 1) {
-                    item._images[i].where = vs[1].replace(")","")
-                }
-                item._images[i].alt = v.replace(/\-/g, " ")
-                try {
-                    item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
-                } catch(e) {
-                    item._images[i].url = ""
-                }
-                //val.images[0].alt}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') 
-            })
-            
+                item._images = []
+                var s = item.name.split("//")
+                s.forEach((v,i) => {
+                    item._images[i] = {} 
+                    var vs = v.split("(")
+                    if (vs.length > 1) {
+                        item._images[i].where = vs[1].replace(")","")
+                    }
+                    item._images[i].alt = v.replace(/\-/g, " ")
+                    
+                    try {
+                        item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
+                    } catch(e) {
+                        item._images[i].url = ""
+                    }
+                    //val.images[0].alt}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') 
+                })
         })
 
         fs.writeFile("data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});

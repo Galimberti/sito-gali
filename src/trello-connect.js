@@ -23,7 +23,6 @@ var cardNumber
         console.log("ss",k)
         if (k > photos) {
           div.style.display = "flex";
-          console.log("K ", k)
         }
       })
 
@@ -34,16 +33,22 @@ var cardNumber
       },1)
     }
 
-      
-document.querySelectorAll("#photos .container .item").forEach((div,k)=> {
+var items = document.querySelectorAll("#photos .container .item")      
+items.forEach((div,k)=> {
   console.log("ss",k)
-  if (k > photos) {
+  
+  if (k <= photos) {
+    div.classList.add("load-1")
+  } else {
     div.style.display = "none";
     div.classList.add("load-2")
-  } else {
-    div.classList.add("load-1")
   }
 })
+
+if (items.length <= photos)
+  $("#trello-load-more").remove()
+
+
 
 $(".load-1 .lazy").lazy();
 
