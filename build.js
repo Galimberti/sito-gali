@@ -29,7 +29,7 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
                     try {
                         item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
                     } catch(e) {
-                        item._images[i].url = "x"
+                        item._images[i].url = ""
                     }
                     //val.images[0].alt}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') 
                 })

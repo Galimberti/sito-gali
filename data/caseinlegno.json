@@ -3583,70 +3583,6 @@
     ]
   },
   {
-    "id": "59118f4d35830b280de1780c",
-    "checkItemStates": null,
-    "closed": false,
-    "dateLastActivity": "2017-05-24T15:14:15.038Z",
-    "desc": "https://www.youtube.com/embed/cTgtNI9n8ZE?list=PLmOlENlAmpKK-u3dmCcs5ZGojgoQaC7jd",
-    "descData": {
-      "emoji": {}
-    },
-    "dueReminder": null,
-    "idBoard": "56b07e4f26b8d62379a1dd42",
-    "idList": "56b07ea3c8be849779268dc3",
-    "idMembersVoted": [],
-    "idShort": 349,
-    "idAttachmentCover": null,
-    "idLabels": [],
-    "manualCoverAttachment": false,
-    "name": "video di una costruzione di una casa in legno prefabbricata",
-    "pos": 6143.96875,
-    "shortLink": "xvwrQQgg",
-    "isTemplate": false,
-    "badges": {
-      "attachmentsByType": {
-        "trello": {
-          "board": 0,
-          "card": 0
-        }
-      },
-      "location": false,
-      "votes": 0,
-      "viewingMemberVoted": false,
-      "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": true,
-      "attachments": 0,
-      "comments": 0,
-      "checkItemsChecked": 0,
-      "checkItems": 0,
-      "fogbugz": ""
-    },
-    "dueComplete": false,
-    "due": null,
-    "idChecklists": [],
-    "idMembers": [],
-    "labels": [],
-    "shortUrl": "https://trello.com/c/xvwrQQgg",
-    "subscribed": false,
-    "url": "https://trello.com/c/xvwrQQgg/349-video-di-una-costruzione-di-una-casa-in-legno-prefabbricata",
-    "cover": {
-      "idAttachment": null,
-      "color": null,
-      "idUploadedBackground": null,
-      "size": "normal",
-      "brightness": "light"
-    },
-    "attachments": [],
-    "_images": [
-      {
-        "alt": "video di una costruzione di una casa in legno prefabbricata",
-        "url": ""
-      }
-    ]
-  },
-  {
     "id": "582ed15d94a2d25e5f5e3752",
     "checkItemStates": null,
     "closed": false,
@@ -3856,6 +3792,70 @@
       {
         "alt": "casa in legno prefabbricata scale soggiorno e pilastri Galimberti",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/582ed15d94a2d25e5f5e3752/9e0df373a73771f3319aea795cde10f6/Galimberti-IMG_6840.jpg"
+      }
+    ]
+  },
+  {
+    "id": "59118f4d35830b280de1780c",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-12-02T17:04:31.827Z",
+    "desc": "https://www.youtube.com/embed/cTgtNI9n8ZE?list=PLmOlENlAmpKK-u3dmCcs5ZGojgoQaC7jd",
+    "descData": {
+      "emoji": {}
+    },
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "56b07ea3c8be849779268dc3",
+    "idMembersVoted": [],
+    "idShort": 349,
+    "idAttachmentCover": null,
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "video di una costruzione di una casa in legno prefabbricata",
+    "pos": 43775.77734375,
+    "shortLink": "xvwrQQgg",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "dueComplete": false,
+      "due": null,
+      "description": true,
+      "attachments": 0,
+      "comments": 0,
+      "checkItemsChecked": 0,
+      "checkItems": 0,
+      "fogbugz": ""
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/xvwrQQgg",
+    "subscribed": false,
+    "url": "https://trello.com/c/xvwrQQgg/349-video-di-una-costruzione-di-una-casa-in-legno-prefabbricata",
+    "cover": {
+      "idAttachment": null,
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light"
+    },
+    "attachments": [],
+    "_images": [
+      {
+        "alt": "video di una costruzione di una casa in legno prefabbricata",
+        "url": ""
       }
     ]
   },
