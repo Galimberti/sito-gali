@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /hiring/
+Sitemap: https://www.galimberti.eu/sitemap.txt
+

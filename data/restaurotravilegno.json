@@ -1,0 +1,1792 @@
+[
+  {
+    "id": "5de0fb4f5f44ac64103c1dbd",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-11-30T06:04:41.185Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 837,
+    "idAttachmentCover": "5de0fbe962f0643afc647b3f",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Capriate in legno-Antiche-Restauro-(Milano)",
+    "pos": 65535,
+    "shortLink": "RgNWwpJU",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/RgNWwpJU",
+    "subscribed": false,
+    "url": "https://trello.com/c/RgNWwpJU/837-capriate-in-legno-antiche-restauro-milano",
+    "cover": {
+      "idAttachment": "5de0fbe962f0643afc647b3f",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de0fbea62f0643afc647bc5",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/70x50/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+          "bytes": 7239,
+          "height": 50,
+          "width": 70,
+          "id": "5de0fbea62f0643afc647bc5",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de0fbea62f0643afc647bc4",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/250x150/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+          "bytes": 56193,
+          "height": 150,
+          "width": 250,
+          "id": "5de0fbea62f0643afc647bc4",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de0fbea62f0643afc647bc3",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/150x100/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+          "bytes": 25922,
+          "height": 100,
+          "width": 150,
+          "id": "5de0fbea62f0643afc647bc3",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de0fbea62f0643afc647bc2",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/300x200/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+          "bytes": 91383,
+          "height": 200,
+          "width": 300,
+          "id": "5de0fbea62f0643afc647bc2",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de0fbea62f0643afc647bc1",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/600x400/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+          "bytes": 318859,
+          "height": 400,
+          "width": 600,
+          "id": "5de0fbea62f0643afc647bc1",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de0fbea62f0643afc647bc0",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/1200x800/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+          "bytes": 1066255,
+          "height": 800,
+          "width": 1200,
+          "id": "5de0fbea62f0643afc647bc0",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de0fbea62f0643afc647bbf",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de0fb4f5f44ac64103c1dbd/dfbbd33130e0fda072013d54611dad61/Capriate_in_legno-Antiche-Restauro-.jpg",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 1264936,
+          "id": "5de0fbea62f0643afc647bbf",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#b69f87"
+    },
+    "attachments": [
+      {
+        "bytes": 1264936,
+        "date": "2019-11-29T11:07:21.461Z",
+        "edgeColor": "#b69f87",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Capriate in legno-Antiche-Restauro-.jpg",
+        "previews": [
+          {
+            "_id": "5de0fbea62f0643afc647bc5",
+            "id": "5de0fbea62f0643afc647bc5",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/70x50/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+            "bytes": 7239,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de0fbea62f0643afc647bc4",
+            "id": "5de0fbea62f0643afc647bc4",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/250x150/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+            "bytes": 56193,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de0fbea62f0643afc647bc3",
+            "id": "5de0fbea62f0643afc647bc3",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/150x100/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+            "bytes": 25922,
+            "height": 100,
+            "width": 150
+          },
+          {
+            "_id": "5de0fbea62f0643afc647bc2",
+            "id": "5de0fbea62f0643afc647bc2",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/300x200/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+            "bytes": 91383,
+            "height": 200,
+            "width": 300
+          },
+          {
+            "_id": "5de0fbea62f0643afc647bc1",
+            "id": "5de0fbea62f0643afc647bc1",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/600x400/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+            "bytes": 318859,
+            "height": 400,
+            "width": 600
+          },
+          {
+            "_id": "5de0fbea62f0643afc647bc0",
+            "id": "5de0fbea62f0643afc647bc0",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de0fb4f5f44ac64103c1dbd/1200x800/163486c9792d40b2a41c1785d1507c2b/Capriate_in_legno-Antiche-Restauro-.jpg",
+            "bytes": 1066255,
+            "height": 800,
+            "width": 1200
+          },
+          {
+            "_id": "5de0fbea62f0643afc647bbf",
+            "id": "5de0fbea62f0643afc647bbf",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de0fb4f5f44ac64103c1dbd/dfbbd33130e0fda072013d54611dad61/Capriate_in_legno-Antiche-Restauro-.jpg",
+            "bytes": 1264936,
+            "height": 1024,
+            "width": 1536
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de0fb4f5f44ac64103c1dbd/dfbbd33130e0fda072013d54611dad61/Capriate_in_legno-Antiche-Restauro-.jpg",
+        "pos": 16384,
+        "id": "5de0fbe962f0643afc647b3f"
+      }
+    ],
+    "_images": [
+      {
+        "where": "Milano",
+        "alt": "Capriate in legno Antiche Restauro (Milano)",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de0fb4f5f44ac64103c1dbd/dfbbd33130e0fda072013d54611dad61/Capriate_in_legno-Antiche-Restauro-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5de11ce950fca008fcdd3f6f",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-12-01T07:47:26.909Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 838,
+    "idAttachmentCover": "5de11e259f4a607b4544d9ce",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Recupero-Travi in legno-Antiche-Vecchie-(Capriate collaudate Eurocodice)",
+    "pos": 131071,
+    "shortLink": "eZCHDTgM",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/eZCHDTgM",
+    "subscribed": false,
+    "url": "https://trello.com/c/eZCHDTgM/838-recupero-travi-in-legno-antiche-vecchie-capriate-collaudate-eurocodice",
+    "cover": {
+      "idAttachment": "5de11e259f4a607b4544d9ce",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de11e299f4a607b4544d9f6",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/70x50/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 6856,
+          "height": 50,
+          "width": 70,
+          "id": "5de11e299f4a607b4544d9f6",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e299f4a607b4544d9f5",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/250x150/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 51014,
+          "height": 150,
+          "width": 250,
+          "id": "5de11e299f4a607b4544d9f5",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e299f4a607b4544d9f4",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/150x100/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 24165,
+          "height": 100,
+          "width": 150,
+          "id": "5de11e299f4a607b4544d9f4",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e299f4a607b4544d9f3",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/300x200/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 83455,
+          "height": 200,
+          "width": 300,
+          "id": "5de11e299f4a607b4544d9f3",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e299f4a607b4544d9f2",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/600x400/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 288235,
+          "height": 400,
+          "width": 600,
+          "id": "5de11e299f4a607b4544d9f2",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e299f4a607b4544d9f1",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/1200x800/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 1022191,
+          "height": 800,
+          "width": 1200,
+          "id": "5de11e299f4a607b4544d9f1",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e299f4a607b4544d9f0",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11ce950fca008fcdd3f6f/d0a7ec25531adebdc9feaadfc04371da/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "width": 4608,
+          "height": 3072,
+          "bytes": 8035005,
+          "id": "5de11e299f4a607b4544d9f0",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#b3b7b4"
+    },
+    "attachments": [
+      {
+        "bytes": 8035005,
+        "date": "2019-11-29T13:33:25.880Z",
+        "edgeColor": "#b3b7b4",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Recupero-Travi in legno-Antiche-Vecchie-.jpg",
+        "previews": [
+          {
+            "_id": "5de11e299f4a607b4544d9f6",
+            "id": "5de11e299f4a607b4544d9f6",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/70x50/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 6856,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de11e299f4a607b4544d9f5",
+            "id": "5de11e299f4a607b4544d9f5",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/250x150/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 51014,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de11e299f4a607b4544d9f4",
+            "id": "5de11e299f4a607b4544d9f4",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/150x100/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 24165,
+            "height": 100,
+            "width": 150
+          },
+          {
+            "_id": "5de11e299f4a607b4544d9f3",
+            "id": "5de11e299f4a607b4544d9f3",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/300x200/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 83455,
+            "height": 200,
+            "width": 300
+          },
+          {
+            "_id": "5de11e299f4a607b4544d9f2",
+            "id": "5de11e299f4a607b4544d9f2",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/600x400/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 288235,
+            "height": 400,
+            "width": 600
+          },
+          {
+            "_id": "5de11e299f4a607b4544d9f1",
+            "id": "5de11e299f4a607b4544d9f1",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ce950fca008fcdd3f6f/1200x800/8ca9e339212ba0c9c6d2a3768005bde7/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 1022191,
+            "height": 800,
+            "width": 1200
+          },
+          {
+            "_id": "5de11e299f4a607b4544d9f0",
+            "id": "5de11e299f4a607b4544d9f0",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11ce950fca008fcdd3f6f/d0a7ec25531adebdc9feaadfc04371da/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 8035005,
+            "height": 3072,
+            "width": 4608
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11ce950fca008fcdd3f6f/d0a7ec25531adebdc9feaadfc04371da/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg",
+        "pos": 16384,
+        "id": "5de11e259f4a607b4544d9ce"
+      }
+    ],
+    "_images": [
+      {
+        "where": "Capriate collaudate Eurocodice",
+        "alt": "Recupero Travi in legno Antiche Vecchie (Capriate collaudate Eurocodice)",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11ce950fca008fcdd3f6f/d0a7ec25531adebdc9feaadfc04371da/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5de11cfb1bbd960e27f2039c",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-11-30T09:20:14.606Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 845,
+    "idAttachmentCover": "5de209b7901cc9101cb72b6f",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Collaudo-Travi in legno-Antiche-Vecchie-(Macchinario collaudo)//Trattamento tarli-Travi in legno-Antiche-Vecchie-(Forni eliminazione insetti)",
+    "pos": 163839,
+    "shortLink": "A4qS8GrR",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 1,
+      "attachments": 2,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/A4qS8GrR",
+    "subscribed": false,
+    "url": "https://trello.com/c/A4qS8GrR/845-collaudo-travi-in-legno-antiche-vecchie-macchinario-collaudo-trattamento-tarli-travi-in-legno-antiche-vecchie-forni-eliminazione",
+    "cover": {
+      "idAttachment": "5de209b7901cc9101cb72b6f",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de209b9901cc9101cb72b7b",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/70x50/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 4017,
+          "height": 50,
+          "width": 70,
+          "id": "5de209b9901cc9101cb72b7b",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de209b9901cc9101cb72b7a",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/250x150/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 24926,
+          "height": 150,
+          "width": 250,
+          "id": "5de209b9901cc9101cb72b7a",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de209b9901cc9101cb72b79",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/150x225/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 48484,
+          "height": 225,
+          "width": 150,
+          "id": "5de209b9901cc9101cb72b79",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de209b9901cc9101cb72b78",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/300x450/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 173431,
+          "height": 450,
+          "width": 300,
+          "id": "5de209b9901cc9101cb72b78",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de209b9901cc9101cb72b77",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/600x900/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 613771,
+          "height": 900,
+          "width": 600,
+          "id": "5de209b9901cc9101cb72b77",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de209b9901cc9101cb72b76",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/1200x1800/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "bytes": 2051329,
+          "height": 1800,
+          "width": 1200,
+          "id": "5de209b9901cc9101cb72b76",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de209b9901cc9101cb72b75",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3de38e4aa9d9b8a42ba595200a80653b/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+          "width": 2000,
+          "height": 3000,
+          "bytes": 3677496,
+          "id": "5de209b9901cc9101cb72b75",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#463c37"
+    },
+    "attachments": [
+      {
+        "bytes": 2150013,
+        "date": "2019-11-29T13:35:05.979Z",
+        "edgeColor": "#ab8761",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Collaudo-Travi in legno-Antiche-Vecchie-.jpg",
+        "previews": [
+          {
+            "_id": "5de11e8be9424a5711fe6d7a",
+            "id": "5de11e8be9424a5711fe6d7a",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/70x50/ec6e04dd3d4b06ea4a52157d3456ec70/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 2964,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de11e8be9424a5711fe6d79",
+            "id": "5de11e8be9424a5711fe6d79",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/250x150/ec6e04dd3d4b06ea4a52157d3456ec70/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 16182,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de11e8be9424a5711fe6d78",
+            "id": "5de11e8be9424a5711fe6d78",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/150x225/ec6e04dd3d4b06ea4a52157d3456ec70/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 30426,
+            "height": 225,
+            "width": 150
+          },
+          {
+            "_id": "5de11e8be9424a5711fe6d77",
+            "id": "5de11e8be9424a5711fe6d77",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/300x450/ec6e04dd3d4b06ea4a52157d3456ec70/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 107286,
+            "height": 450,
+            "width": 300
+          },
+          {
+            "_id": "5de11e8be9424a5711fe6d76",
+            "id": "5de11e8be9424a5711fe6d76",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/600x900/ec6e04dd3d4b06ea4a52157d3456ec70/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 363879,
+            "height": 900,
+            "width": 600
+          },
+          {
+            "_id": "5de11e8be9424a5711fe6d75",
+            "id": "5de11e8be9424a5711fe6d75",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/1200x1800/ec6e04dd3d4b06ea4a52157d3456ec70/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 1149872,
+            "height": 1800,
+            "width": 1200
+          },
+          {
+            "_id": "5de11e8be9424a5711fe6d74",
+            "id": "5de11e8be9424a5711fe6d74",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3c8253e04269c663ad6201bcc2c0cf57/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 2150013,
+            "height": 3000,
+            "width": 2000
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3c8253e04269c663ad6201bcc2c0cf57/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg",
+        "pos": 98304,
+        "id": "5de11e89e9424a5711fe6c73"
+      },
+      {
+        "bytes": 3677496,
+        "date": "2019-11-30T06:18:31.200Z",
+        "edgeColor": "#463c37",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Trattamento tarli-Travi in legno-Antiche-Vecchie-.jpg",
+        "previews": [
+          {
+            "_id": "5de209b9901cc9101cb72b7b",
+            "id": "5de209b9901cc9101cb72b7b",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/70x50/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 4017,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de209b9901cc9101cb72b7a",
+            "id": "5de209b9901cc9101cb72b7a",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/250x150/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 24926,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de209b9901cc9101cb72b79",
+            "id": "5de209b9901cc9101cb72b79",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/150x225/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 48484,
+            "height": 225,
+            "width": 150
+          },
+          {
+            "_id": "5de209b9901cc9101cb72b78",
+            "id": "5de209b9901cc9101cb72b78",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/300x450/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 173431,
+            "height": 450,
+            "width": 300
+          },
+          {
+            "_id": "5de209b9901cc9101cb72b77",
+            "id": "5de209b9901cc9101cb72b77",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/600x900/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 613771,
+            "height": 900,
+            "width": 600
+          },
+          {
+            "_id": "5de209b9901cc9101cb72b76",
+            "id": "5de209b9901cc9101cb72b76",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cfb1bbd960e27f2039c/1200x1800/5e26c63dd63a265cff4624790b5f49b8/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 2051329,
+            "height": 1800,
+            "width": 1200
+          },
+          {
+            "_id": "5de209b9901cc9101cb72b75",
+            "id": "5de209b9901cc9101cb72b75",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3de38e4aa9d9b8a42ba595200a80653b/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+            "bytes": 3677496,
+            "height": 3000,
+            "width": 2000
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3de38e4aa9d9b8a42ba595200a80653b/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg",
+        "pos": 32768,
+        "id": "5de209b7901cc9101cb72b6f"
+      }
+    ],
+    "_images": [
+      {
+        "where": "Macchinario collaudo",
+        "alt": "Collaudo Travi in legno Antiche Vecchie (Macchinario collaudo)",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3c8253e04269c663ad6201bcc2c0cf57/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg"
+      },
+      {
+        "where": "Forni eliminazione insetti",
+        "alt": "Trattamento tarli Travi in legno Antiche Vecchie (Forni eliminazione insetti)",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3de38e4aa9d9b8a42ba595200a80653b/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5de11ceeccab638244b4575c",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-11-30T06:07:33.836Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 839,
+    "idAttachmentCover": "5de11e2002ed566afd2ad9f9",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Restauro-Capriate in legno-Antiche-",
+    "pos": 196607,
+    "shortLink": "txsBSbsI",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/txsBSbsI",
+    "subscribed": false,
+    "url": "https://trello.com/c/txsBSbsI/839-restauro-capriate-in-legno-antiche",
+    "cover": {
+      "idAttachment": "5de11e2002ed566afd2ad9f9",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de11e2102ed566afd2ada15",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/70x50/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+          "bytes": 4663,
+          "height": 50,
+          "width": 70,
+          "id": "5de11e2102ed566afd2ada15",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2102ed566afd2ada14",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/250x150/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+          "bytes": 32613,
+          "height": 150,
+          "width": 250,
+          "id": "5de11e2102ed566afd2ada14",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2102ed566afd2ada13",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/150x97/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+          "bytes": 15230,
+          "height": 97,
+          "width": 150,
+          "id": "5de11e2102ed566afd2ada13",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2102ed566afd2ada12",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/300x194/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+          "bytes": 48540,
+          "height": 194,
+          "width": 300,
+          "id": "5de11e2102ed566afd2ada12",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2102ed566afd2ada11",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/600x387/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+          "bytes": 154266,
+          "height": 387,
+          "width": 600,
+          "id": "5de11e2102ed566afd2ada11",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2102ed566afd2ada10",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/1200x775/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+          "bytes": 488298,
+          "height": 775,
+          "width": 1200,
+          "id": "5de11e2102ed566afd2ada10",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2102ed566afd2ada0f",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11ceeccab638244b4575c/a8f6f9a474f2d85a51cce622e934c06c/Restauro-Capriate_in_legno-Antiche-.jpg",
+          "width": 1509,
+          "height": 974,
+          "bytes": 525182,
+          "id": "5de11e2102ed566afd2ada0f",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#a8b8c8"
+    },
+    "attachments": [
+      {
+        "bytes": 525182,
+        "date": "2019-11-29T13:33:20.847Z",
+        "edgeColor": "#a8b8c8",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Restauro-Capriate in legno-Antiche-.jpg",
+        "previews": [
+          {
+            "_id": "5de11e2102ed566afd2ada15",
+            "id": "5de11e2102ed566afd2ada15",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/70x50/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+            "bytes": 4663,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de11e2102ed566afd2ada14",
+            "id": "5de11e2102ed566afd2ada14",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/250x150/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+            "bytes": 32613,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de11e2102ed566afd2ada13",
+            "id": "5de11e2102ed566afd2ada13",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/150x97/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+            "bytes": 15230,
+            "height": 97,
+            "width": 150
+          },
+          {
+            "_id": "5de11e2102ed566afd2ada12",
+            "id": "5de11e2102ed566afd2ada12",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/300x194/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+            "bytes": 48540,
+            "height": 194,
+            "width": 300
+          },
+          {
+            "_id": "5de11e2102ed566afd2ada11",
+            "id": "5de11e2102ed566afd2ada11",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/600x387/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+            "bytes": 154266,
+            "height": 387,
+            "width": 600
+          },
+          {
+            "_id": "5de11e2102ed566afd2ada10",
+            "id": "5de11e2102ed566afd2ada10",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11ceeccab638244b4575c/1200x775/c8bcc6b18b761e517d04892a7c883776/Restauro-Capriate_in_legno-Antiche-.jpg",
+            "bytes": 488298,
+            "height": 775,
+            "width": 1200
+          },
+          {
+            "_id": "5de11e2102ed566afd2ada0f",
+            "id": "5de11e2102ed566afd2ada0f",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11ceeccab638244b4575c/a8f6f9a474f2d85a51cce622e934c06c/Restauro-Capriate_in_legno-Antiche-.jpg",
+            "bytes": 525182,
+            "height": 974,
+            "width": 1509
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11ceeccab638244b4575c/a8f6f9a474f2d85a51cce622e934c06c/Restauro-Capriate_in_legno-Antiche-.jpg",
+        "pos": 16384,
+        "id": "5de11e2002ed566afd2ad9f9"
+      }
+    ],
+    "_images": [
+      {
+        "alt": "Restauro Capriate in legno Antiche ",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11ceeccab638244b4575c/a8f6f9a474f2d85a51cce622e934c06c/Restauro-Capriate_in_legno-Antiche-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5de11cf03a3f548581160258",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-11-30T06:07:58.525Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 840,
+    "idAttachmentCover": "5de11e2ab0c8d3885f0ba6d7",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Consolidamento-Carpenteria in legno-Travi in legno-",
+    "pos": 262143,
+    "shortLink": "qzYGNmrO",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/qzYGNmrO",
+    "subscribed": false,
+    "url": "https://trello.com/c/qzYGNmrO/840-consolidamento-carpenteria-in-legno-travi-in-legno",
+    "cover": {
+      "idAttachment": "5de11e2ab0c8d3885f0ba6d7",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de11e2cb0c8d3885f0ba804",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/70x50/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+          "bytes": 6177,
+          "height": 50,
+          "width": 70,
+          "id": "5de11e2cb0c8d3885f0ba804",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2cb0c8d3885f0ba803",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/250x150/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+          "bytes": 46573,
+          "height": 150,
+          "width": 250,
+          "id": "5de11e2cb0c8d3885f0ba803",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2cb0c8d3885f0ba802",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/150x100/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+          "bytes": 21961,
+          "height": 100,
+          "width": 150,
+          "id": "5de11e2cb0c8d3885f0ba802",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2cb0c8d3885f0ba801",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/300x200/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+          "bytes": 75658,
+          "height": 200,
+          "width": 300,
+          "id": "5de11e2cb0c8d3885f0ba801",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2cb0c8d3885f0ba800",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/600x400/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+          "bytes": 255798,
+          "height": 400,
+          "width": 600,
+          "id": "5de11e2cb0c8d3885f0ba800",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2cb0c8d3885f0ba7ff",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/1200x800/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+          "bytes": 841759,
+          "height": 800,
+          "width": 1200,
+          "id": "5de11e2cb0c8d3885f0ba7ff",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e2cb0c8d3885f0ba7fe",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf03a3f548581160258/988640126f7d8d6dd40e3d09226f6d26/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+          "width": 3000,
+          "height": 2000,
+          "bytes": 2912961,
+          "id": "5de11e2cb0c8d3885f0ba7fe",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#5b534d"
+    },
+    "attachments": [
+      {
+        "bytes": 2912961,
+        "date": "2019-11-29T13:33:30.300Z",
+        "edgeColor": "#5b534d",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Consolidamento-Carpenteria in legno-Travi in legno-.jpg",
+        "previews": [
+          {
+            "_id": "5de11e2cb0c8d3885f0ba804",
+            "id": "5de11e2cb0c8d3885f0ba804",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/70x50/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+            "bytes": 6177,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de11e2cb0c8d3885f0ba803",
+            "id": "5de11e2cb0c8d3885f0ba803",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/250x150/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+            "bytes": 46573,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de11e2cb0c8d3885f0ba802",
+            "id": "5de11e2cb0c8d3885f0ba802",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/150x100/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+            "bytes": 21961,
+            "height": 100,
+            "width": 150
+          },
+          {
+            "_id": "5de11e2cb0c8d3885f0ba801",
+            "id": "5de11e2cb0c8d3885f0ba801",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/300x200/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+            "bytes": 75658,
+            "height": 200,
+            "width": 300
+          },
+          {
+            "_id": "5de11e2cb0c8d3885f0ba800",
+            "id": "5de11e2cb0c8d3885f0ba800",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/600x400/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+            "bytes": 255798,
+            "height": 400,
+            "width": 600
+          },
+          {
+            "_id": "5de11e2cb0c8d3885f0ba7ff",
+            "id": "5de11e2cb0c8d3885f0ba7ff",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf03a3f548581160258/1200x800/2e3325fe7216678acd26c9393ad152b9/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+            "bytes": 841759,
+            "height": 800,
+            "width": 1200
+          },
+          {
+            "_id": "5de11e2cb0c8d3885f0ba7fe",
+            "id": "5de11e2cb0c8d3885f0ba7fe",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf03a3f548581160258/988640126f7d8d6dd40e3d09226f6d26/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+            "bytes": 2912961,
+            "height": 2000,
+            "width": 3000
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf03a3f548581160258/988640126f7d8d6dd40e3d09226f6d26/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg",
+        "pos": 16384,
+        "id": "5de11e2ab0c8d3885f0ba6d7"
+      }
+    ],
+    "_images": [
+      {
+        "alt": "Consolidamento Carpenteria in legno Travi in legno ",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf03a3f548581160258/988640126f7d8d6dd40e3d09226f6d26/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5de11cf50b0afd70e3fcd235",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-12-01T07:49:10.705Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 842,
+    "idAttachmentCover": "5de11e4541ee131537f0ce10",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Restauro-Travi in legno-Vecchie-Antiche-(Adeguamenti strutturali sgombri dalla copertura)",
+    "pos": 393215,
+    "shortLink": "ObN7NdTX",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/ObN7NdTX",
+    "subscribed": false,
+    "url": "https://trello.com/c/ObN7NdTX/842-restauro-travi-in-legno-vecchie-antiche-adeguamenti-strutturali-sgombri-dalla-copertura",
+    "cover": {
+      "idAttachment": "5de11e4541ee131537f0ce10",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de11e4641ee131537f0ce21",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/70x50/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+          "bytes": 6672,
+          "height": 50,
+          "width": 70,
+          "id": "5de11e4641ee131537f0ce21",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e4641ee131537f0ce20",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/250x150/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+          "bytes": 48412,
+          "height": 150,
+          "width": 250,
+          "id": "5de11e4641ee131537f0ce20",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e4641ee131537f0ce1f",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/150x100/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+          "bytes": 23346,
+          "height": 100,
+          "width": 150,
+          "id": "5de11e4641ee131537f0ce1f",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e4641ee131537f0ce1e",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/300x200/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+          "bytes": 77793,
+          "height": 200,
+          "width": 300,
+          "id": "5de11e4641ee131537f0ce1e",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e4641ee131537f0ce1d",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/600x400/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+          "bytes": 263493,
+          "height": 400,
+          "width": 600,
+          "id": "5de11e4641ee131537f0ce1d",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e4641ee131537f0ce1c",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/1120x747/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+          "bytes": 704683,
+          "height": 747,
+          "width": 1120,
+          "id": "5de11e4641ee131537f0ce1c",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e4641ee131537f0ce1b",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf50b0afd70e3fcd235/3320178d1f2ff765288a4172a2317937/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+          "width": 1120,
+          "height": 747,
+          "bytes": 705944,
+          "id": "5de11e4641ee131537f0ce1b",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#4e4e4b"
+    },
+    "attachments": [
+      {
+        "bytes": 705944,
+        "date": "2019-11-29T13:33:57.258Z",
+        "edgeColor": "#4e4e4b",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Restauro-Travi in legno-Vecchie-Antiche-.jpg",
+        "previews": [
+          {
+            "_id": "5de11e4641ee131537f0ce21",
+            "id": "5de11e4641ee131537f0ce21",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/70x50/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+            "bytes": 6672,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de11e4641ee131537f0ce20",
+            "id": "5de11e4641ee131537f0ce20",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/250x150/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+            "bytes": 48412,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de11e4641ee131537f0ce1f",
+            "id": "5de11e4641ee131537f0ce1f",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/150x100/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+            "bytes": 23346,
+            "height": 100,
+            "width": 150
+          },
+          {
+            "_id": "5de11e4641ee131537f0ce1e",
+            "id": "5de11e4641ee131537f0ce1e",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/300x200/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+            "bytes": 77793,
+            "height": 200,
+            "width": 300
+          },
+          {
+            "_id": "5de11e4641ee131537f0ce1d",
+            "id": "5de11e4641ee131537f0ce1d",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/600x400/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+            "bytes": 263493,
+            "height": 400,
+            "width": 600
+          },
+          {
+            "_id": "5de11e4641ee131537f0ce1c",
+            "id": "5de11e4641ee131537f0ce1c",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf50b0afd70e3fcd235/1120x747/80e9c9ed000305766a51106d755e9c93/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+            "bytes": 704683,
+            "height": 747,
+            "width": 1120
+          },
+          {
+            "_id": "5de11e4641ee131537f0ce1b",
+            "id": "5de11e4641ee131537f0ce1b",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf50b0afd70e3fcd235/3320178d1f2ff765288a4172a2317937/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+            "bytes": 705944,
+            "height": 747,
+            "width": 1120
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf50b0afd70e3fcd235/3320178d1f2ff765288a4172a2317937/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg",
+        "pos": 16384,
+        "id": "5de11e4541ee131537f0ce10"
+      }
+    ],
+    "_images": [
+      {
+        "where": "Adeguamenti strutturali sgombri dalla copertura",
+        "alt": "Restauro Travi in legno Vecchie Antiche (Adeguamenti strutturali sgombri dalla copertura)",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf50b0afd70e3fcd235/3320178d1f2ff765288a4172a2317937/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5de11cf97b5d6677908801e6",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-11-30T06:08:53.793Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 844,
+    "idAttachmentCover": "5de11e7a2840bb01c98990e3",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Collaudo-Strutture-In legno-Antiche-",
+    "pos": 425983,
+    "shortLink": "21ioZdGB",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/21ioZdGB",
+    "subscribed": false,
+    "url": "https://trello.com/c/21ioZdGB/844-collaudo-strutture-in-legno-antiche",
+    "cover": {
+      "idAttachment": "5de11e7a2840bb01c98990e3",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de11e7b2840bb01c9899248",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/70x50/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+          "bytes": 6624,
+          "height": 50,
+          "width": 70,
+          "id": "5de11e7b2840bb01c9899248",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e7b2840bb01c9899247",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/250x150/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+          "bytes": 48584,
+          "height": 150,
+          "width": 250,
+          "id": "5de11e7b2840bb01c9899247",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e7b2840bb01c9899246",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/150x100/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+          "bytes": 22806,
+          "height": 100,
+          "width": 150,
+          "id": "5de11e7b2840bb01c9899246",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e7b2840bb01c9899245",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/300x200/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+          "bytes": 79456,
+          "height": 200,
+          "width": 300,
+          "id": "5de11e7b2840bb01c9899245",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e7b2840bb01c9899244",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/600x400/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+          "bytes": 268138,
+          "height": 400,
+          "width": 600,
+          "id": "5de11e7b2840bb01c9899244",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e7b2840bb01c9899243",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/1200x800/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+          "bytes": 852239,
+          "height": 800,
+          "width": 1200,
+          "id": "5de11e7b2840bb01c9899243",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e7b2840bb01c9899242",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf97b5d6677908801e6/201dfdb584463bba2eb7dc3c65712371/Collaudo-Strutture-In_legno-Antiche-.jpg",
+          "width": 3000,
+          "height": 2000,
+          "bytes": 2826727,
+          "id": "5de11e7b2840bb01c9899242",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#cac6c6"
+    },
+    "attachments": [
+      {
+        "bytes": 2826727,
+        "date": "2019-11-29T13:34:50.061Z",
+        "edgeColor": "#cac6c6",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Collaudo-Strutture-In legno-Antiche-.jpg",
+        "previews": [
+          {
+            "_id": "5de11e7b2840bb01c9899248",
+            "id": "5de11e7b2840bb01c9899248",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/70x50/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+            "bytes": 6624,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de11e7b2840bb01c9899247",
+            "id": "5de11e7b2840bb01c9899247",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/250x150/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+            "bytes": 48584,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de11e7b2840bb01c9899246",
+            "id": "5de11e7b2840bb01c9899246",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/150x100/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+            "bytes": 22806,
+            "height": 100,
+            "width": 150
+          },
+          {
+            "_id": "5de11e7b2840bb01c9899245",
+            "id": "5de11e7b2840bb01c9899245",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/300x200/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+            "bytes": 79456,
+            "height": 200,
+            "width": 300
+          },
+          {
+            "_id": "5de11e7b2840bb01c9899244",
+            "id": "5de11e7b2840bb01c9899244",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/600x400/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+            "bytes": 268138,
+            "height": 400,
+            "width": 600
+          },
+          {
+            "_id": "5de11e7b2840bb01c9899243",
+            "id": "5de11e7b2840bb01c9899243",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf97b5d6677908801e6/1200x800/ccb72ebb8dcda828a01db10c20f4255d/Collaudo-Strutture-In_legno-Antiche-.jpg",
+            "bytes": 852239,
+            "height": 800,
+            "width": 1200
+          },
+          {
+            "_id": "5de11e7b2840bb01c9899242",
+            "id": "5de11e7b2840bb01c9899242",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf97b5d6677908801e6/201dfdb584463bba2eb7dc3c65712371/Collaudo-Strutture-In_legno-Antiche-.jpg",
+            "bytes": 2826727,
+            "height": 2000,
+            "width": 3000
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf97b5d6677908801e6/201dfdb584463bba2eb7dc3c65712371/Collaudo-Strutture-In_legno-Antiche-.jpg",
+        "pos": 16384,
+        "id": "5de11e7a2840bb01c98990e3"
+      }
+    ],
+    "_images": [
+      {
+        "alt": "Collaudo Strutture In legno Antiche ",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf97b5d6677908801e6/201dfdb584463bba2eb7dc3c65712371/Collaudo-Strutture-In_legno-Antiche-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5de11cf2e5ed32856ace32da",
+    "checkItemStates": null,
+    "closed": false,
+    "dateLastActivity": "2019-11-30T06:10:25.454Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "56b07e4f26b8d62379a1dd42",
+    "idList": "5dca8ebab209e9304c340d07",
+    "idMembersVoted": [],
+    "idShort": 841,
+    "idAttachmentCover": "5de11e3ada3e147e006ffd5f",
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Restauro-Carpenteria in legno-",
+    "pos": 524287,
+    "shortLink": "VET9nh23",
+    "isTemplate": false,
+    "badges": {
+      "attachmentsByType": {
+        "trello": {
+          "board": 0,
+          "card": 0
+        }
+      },
+      "location": false,
+      "votes": 0,
+      "viewingMemberVoted": false,
+      "subscribed": false,
+      "fogbugz": "",
+      "checkItems": 0,
+      "checkItemsChecked": 0,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false
+    },
+    "dueComplete": false,
+    "due": null,
+    "idChecklists": [],
+    "idMembers": [],
+    "labels": [],
+    "shortUrl": "https://trello.com/c/VET9nh23",
+    "subscribed": false,
+    "url": "https://trello.com/c/VET9nh23/841-restauro-carpenteria-in-legno",
+    "cover": {
+      "idAttachment": "5de11e3ada3e147e006ffd5f",
+      "color": null,
+      "idUploadedBackground": null,
+      "size": "normal",
+      "brightness": "light",
+      "scaled": [
+        {
+          "_id": "5de11e3cda3e147e006ffdec",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/70x50/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+          "bytes": 5485,
+          "height": 50,
+          "width": 70,
+          "id": "5de11e3cda3e147e006ffdec",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e3cda3e147e006ffdeb",
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/250x150/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+          "bytes": 39131,
+          "height": 150,
+          "width": 250,
+          "id": "5de11e3cda3e147e006ffdeb",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e3cda3e147e006ffdea",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/150x100/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+          "bytes": 18090,
+          "height": 100,
+          "width": 150,
+          "id": "5de11e3cda3e147e006ffdea",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e3cda3e147e006ffde9",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/300x200/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+          "bytes": 64677,
+          "height": 200,
+          "width": 300,
+          "id": "5de11e3cda3e147e006ffde9",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e3cda3e147e006ffde8",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/600x400/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+          "bytes": 237569,
+          "height": 400,
+          "width": 600,
+          "id": "5de11e3cda3e147e006ffde8",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e3cda3e147e006ffde7",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/1200x800/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+          "bytes": 834485,
+          "height": 800,
+          "width": 1200,
+          "id": "5de11e3cda3e147e006ffde7",
+          "typeName": "Preview"
+        },
+        {
+          "_id": "5de11e3cda3e147e006ffde6",
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf2e5ed32856ace32da/15f42b7ff96d76dbfaf9afb88cf98443/Restauro-Carpenteria_in_legno-.jpg",
+          "width": 3000,
+          "height": 2000,
+          "bytes": 3109553,
+          "id": "5de11e3cda3e147e006ffde6",
+          "typeName": "Preview"
+        }
+      ],
+      "edgeColor": "#c7b6af"
+    },
+    "attachments": [
+      {
+        "bytes": 3109553,
+        "date": "2019-11-29T13:33:46.936Z",
+        "edgeColor": "#c7b6af",
+        "idMember": "50f520a62c4de42122016b79",
+        "isUpload": true,
+        "mimeType": null,
+        "name": "Restauro-Carpenteria in legno-.jpg",
+        "previews": [
+          {
+            "_id": "5de11e3cda3e147e006ffdec",
+            "id": "5de11e3cda3e147e006ffdec",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/70x50/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+            "bytes": 5485,
+            "height": 50,
+            "width": 70
+          },
+          {
+            "_id": "5de11e3cda3e147e006ffdeb",
+            "id": "5de11e3cda3e147e006ffdeb",
+            "scaled": false,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/250x150/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+            "bytes": 39131,
+            "height": 150,
+            "width": 250
+          },
+          {
+            "_id": "5de11e3cda3e147e006ffdea",
+            "id": "5de11e3cda3e147e006ffdea",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/150x100/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+            "bytes": 18090,
+            "height": 100,
+            "width": 150
+          },
+          {
+            "_id": "5de11e3cda3e147e006ffde9",
+            "id": "5de11e3cda3e147e006ffde9",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/300x200/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+            "bytes": 64677,
+            "height": 200,
+            "width": 300
+          },
+          {
+            "_id": "5de11e3cda3e147e006ffde8",
+            "id": "5de11e3cda3e147e006ffde8",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/600x400/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+            "bytes": 237569,
+            "height": 400,
+            "width": 600
+          },
+          {
+            "_id": "5de11e3cda3e147e006ffde7",
+            "id": "5de11e3cda3e147e006ffde7",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/5de11cf2e5ed32856ace32da/1200x800/0b9bf4c6231d930ccde223abd08cb10f/Restauro-Carpenteria_in_legno-.jpg",
+            "bytes": 834485,
+            "height": 800,
+            "width": 1200
+          },
+          {
+            "_id": "5de11e3cda3e147e006ffde6",
+            "id": "5de11e3cda3e147e006ffde6",
+            "scaled": true,
+            "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf2e5ed32856ace32da/15f42b7ff96d76dbfaf9afb88cf98443/Restauro-Carpenteria_in_legno-.jpg",
+            "bytes": 3109553,
+            "height": 2000,
+            "width": 3000
+          }
+        ],
+        "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5de11cf2e5ed32856ace32da/15f42b7ff96d76dbfaf9afb88cf98443/Restauro-Carpenteria_in_legno-.jpg",
+        "pos": 16384,
+        "id": "5de11e3ada3e147e006ffd5f"
+      }
+    ],
+    "_images": [
+      {
+        "alt": "Restauro Carpenteria in legno ",
+        "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf2e5ed32856ace32da/15f42b7ff96d76dbfaf9afb88cf98443/Restauro-Carpenteria_in_legno-.jpg"
+      }
+    ]
+  }
+]
