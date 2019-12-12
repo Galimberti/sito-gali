@@ -4,7 +4,7 @@
 
 /ita/*                                        					/:splat
 
-/old/*															/index.html	
+/old/*															/index.html
 
 /it/home.html		 											/index.html
 /it/contatti.html	 											/index.html
@@ -108,3 +108,5 @@
 /tetti_in_legno.html											/tetti-in-legno.html
 /chi_siamo.html													/chi-siamo.html
 /lavora_con_noi.html											/lavora-con-noi.html
+/manti_lattonerie.html                    /manti-lattoneria.html
+/cartelle_legnami.html                    /cartelle-legnami.html
