@@ -1,7 +1,7 @@
 #Redirect di tutte le vecchie pagine che danno conflitto in SearchConsole e tutte le pagine dopo la rimozione di /ita
 
 /pingendo/static/*  https://pingendo5.netlify.com/pingendo/static/:splat 200
-
+/pingendo/*             /pingendo/index.html         200
 
 /ita/*                                        					/:splat 200
 
