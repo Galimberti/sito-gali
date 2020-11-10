@@ -23,8 +23,12 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
                     var vs = v.split("(")
                     if (vs.length > 1) {
                         item._images[i].where = vs[1].replace(")","")
+                        item._images[i].alt = vs[0] //v.replace(/\-/g, " ")
+                    } else {
+                        item._images[i].where = null
+                        item._images[i].alt = v //v.replace(/\-/g, " ")
                     }
-                    item._images[i].alt = v.replace(/\-/g, " ")
+
                     
                     try {
                         item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
