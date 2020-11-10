@@ -22,7 +22,7 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
                     item._images[i] = {} 
                     var vs = v.split("(")
                     if (vs.length > 1) {
-                        item._images[i].where = vs[1].replace(")","")
+                        item._images[i].where = vs[1].split(")")[0]
                         item._images[i].alt = vs[0] //v.replace(/\-/g, " ")
                     } else {
                         item._images[i].where = null
