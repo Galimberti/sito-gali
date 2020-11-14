@@ -18,6 +18,7 @@
     "pos": 65535,
     "shortLink": "pchZQG5s",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -29,14 +30,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -44,6 +47,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/pchZQG5s",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/pchZQG5s/515-case-in-legno-savosa",
     "cover": {
@@ -54,74 +58,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 8692,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/70x50/e630e8c93f5d345a105fd7668100c688/Galimberti-IMG_8236.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b1e9ef5ef4b469e6a39b3ff",
           "id": "5b1e9ef5ef4b469e6a39b3ff",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/70x50/e630e8c93f5d345a105fd7668100c688/Galimberti-IMG_8236.jpg.png",
+          "bytes": 8692,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 83107,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/250x150/8aa5e92eb60c94763381df294fdbca58/Galimberti-IMG_8236.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b1e9ef5ef4b469e6a39b3fe",
           "id": "5b1e9ef5ef4b469e6a39b3fe",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/250x150/8aa5e92eb60c94763381df294fdbca58/Galimberti-IMG_8236.jpg.png",
+          "bytes": 83107,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 4994,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/150x100/13d573bc456ef4192b712ab006acdb6d/Galimberti-IMG_8236.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b1e9ef5ef4b469e6a39b3fd",
           "id": "5b1e9ef5ef4b469e6a39b3fd",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/150x100/13d573bc456ef4192b712ab006acdb6d/Galimberti-IMG_8236.jpg",
+          "bytes": 4994,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 17205,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/300x200/e7bcd5d8e81af8c80d426d6f72398126/Galimberti-IMG_8236.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b1e9ef5ef4b469e6a39b3fc",
           "id": "5b1e9ef5ef4b469e6a39b3fc",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/300x200/e7bcd5d8e81af8c80d426d6f72398126/Galimberti-IMG_8236.jpg",
+          "bytes": 17205,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 64559,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/600x400/15a0973dc7070fd188e4c257c11e6355/Galimberti-IMG_8236.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b1e9ef5ef4b469e6a39b3fb",
           "id": "5b1e9ef5ef4b469e6a39b3fb",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/600x400/15a0973dc7070fd188e4c257c11e6355/Galimberti-IMG_8236.jpg",
+          "bytes": 64559,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 247011,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/1200x800/b16a2de065d74ed890068ca28fceb475/Galimberti-IMG_8236.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b1e9ef5ef4b469e6a39b3fa",
           "id": "5b1e9ef5ef4b469e6a39b3fa",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9eab021c2aba55cdafcd/1200x800/b16a2de065d74ed890068ca28fceb475/Galimberti-IMG_8236.jpg",
+          "bytes": 247011,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 2842194,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b1e9eab021c2aba55cdafcd/578d7dc575141ea54893536973f1cc33/Galimberti-IMG_8236.jpg",
-          "scaled": true,
           "_id": "5b1e9ef5ef4b469e6a39b3f9",
           "id": "5b1e9ef5ef4b469e6a39b3f9",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b1e9eab021c2aba55cdafcd/578d7dc575141ea54893536973f1cc33/Galimberti-IMG_8236.jpg",
+          "bytes": 2842194,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#7494ac"
@@ -202,6 +199,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b1e9eab021c2aba55cdafcd/578d7dc575141ea54893536973f1cc33/Galimberti-IMG_8236.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_8236.jpg",
         "id": "5b1e9ef414f7b84670380f3c"
       }
     ],
@@ -231,6 +229,7 @@
     "pos": 81919,
     "shortLink": "vTZIipyd",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -242,14 +241,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -257,6 +258,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/vTZIipyd",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/vTZIipyd/522-soppalco-porto-pojana",
     "cover": {
@@ -267,74 +269,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 6989,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/70x50/ea11d8705ce6c002827aba8f509ba775/Galimberti-IMG_0099.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222eb2371df17dba008cfc",
           "id": "5b222eb2371df17dba008cfc",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/70x50/ea11d8705ce6c002827aba8f509ba775/Galimberti-IMG_0099.jpg.png",
+          "bytes": 6989,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 51034,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/250x150/6882ba8a51e09c97c97c6c6bc3027896/Galimberti-IMG_0099.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222eb2371df17dba008cfb",
           "id": "5b222eb2371df17dba008cfb",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/250x150/6882ba8a51e09c97c97c6c6bc3027896/Galimberti-IMG_0099.jpg.png",
+          "bytes": 51034,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 3085,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/150x100/09659a4713ee5d64a352f6b74e647d50/Galimberti-IMG_0099.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222eb2371df17dba008cfa",
           "id": "5b222eb2371df17dba008cfa",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/150x100/09659a4713ee5d64a352f6b74e647d50/Galimberti-IMG_0099.jpg",
+          "bytes": 3085,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 8178,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/300x200/1b9346c174aad16d3946cfc79c08c42a/Galimberti-IMG_0099.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222eb2371df17dba008cf9",
           "id": "5b222eb2371df17dba008cf9",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/300x200/1b9346c174aad16d3946cfc79c08c42a/Galimberti-IMG_0099.jpg",
+          "bytes": 8178,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 23538,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/600x400/5d388bb9ba7c68c2390a87430668ba12/Galimberti-IMG_0099.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222eb2371df17dba008cf8",
           "id": "5b222eb2371df17dba008cf8",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/600x400/5d388bb9ba7c68c2390a87430668ba12/Galimberti-IMG_0099.jpg",
+          "bytes": 23538,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 73900,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/1200x800/b9ab733313415048fed78c9ec0635aca/Galimberti-IMG_0099.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222eb2371df17dba008cf7",
           "id": "5b222eb2371df17dba008cf7",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ea9873c8acaf34a0457/1200x800/b9ab733313415048fed78c9ec0635aca/Galimberti-IMG_0099.jpg",
+          "bytes": 73900,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 927152,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ea9873c8acaf34a0457/0dac5abc0024fe944ee1045f17fbe3d2/Galimberti-IMG_0099.jpg",
-          "scaled": true,
           "_id": "5b222eb2371df17dba008cf6",
           "id": "5b222eb2371df17dba008cf6",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ea9873c8acaf34a0457/0dac5abc0024fe944ee1045f17fbe3d2/Galimberti-IMG_0099.jpg",
+          "bytes": 927152,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#948c84"
@@ -415,6 +410,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ea9873c8acaf34a0457/0dac5abc0024fe944ee1045f17fbe3d2/Galimberti-IMG_0099.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_0099.jpg",
         "id": "5b222eafb61158c790a67e9d"
       }
     ],
@@ -444,6 +440,7 @@
     "pos": 98303,
     "shortLink": "O1DCDt2y",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -455,14 +452,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -470,6 +469,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/O1DCDt2y",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/O1DCDt2y/518-passerella-pedonale-lugano",
     "cover": {
@@ -480,74 +480,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 8631,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/70x50/ca465f77029bd18fb838885ee49ab525/Galimberti-IMG_8467.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222dbc225e2c8eac302e93",
           "id": "5b222dbc225e2c8eac302e93",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/70x50/ca465f77029bd18fb838885ee49ab525/Galimberti-IMG_8467.jpg.png",
+          "bytes": 8631,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 75222,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/250x150/ef710a7bdee22acab4d9c647b7aec309/Galimberti-IMG_8467.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222dbc225e2c8eac302e92",
           "id": "5b222dbc225e2c8eac302e92",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/250x150/ef710a7bdee22acab4d9c647b7aec309/Galimberti-IMG_8467.jpg.png",
+          "bytes": 75222,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 4675,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/150x100/f0906e6fe8c1103c73deff83437e8d1e/Galimberti-IMG_8467.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222dbc225e2c8eac302e91",
           "id": "5b222dbc225e2c8eac302e91",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/150x100/f0906e6fe8c1103c73deff83437e8d1e/Galimberti-IMG_8467.jpg",
+          "bytes": 4675,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 15134,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/300x200/19898da87f6cafe9d2ed6aca067cc342/Galimberti-IMG_8467.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222dbc225e2c8eac302e90",
           "id": "5b222dbc225e2c8eac302e90",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/300x200/19898da87f6cafe9d2ed6aca067cc342/Galimberti-IMG_8467.jpg",
+          "bytes": 15134,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 54670,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/600x400/2b0b60ac5975b32638a05f9cf1782440/Galimberti-IMG_8467.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222dbc225e2c8eac302e8f",
           "id": "5b222dbc225e2c8eac302e8f",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/600x400/2b0b60ac5975b32638a05f9cf1782440/Galimberti-IMG_8467.jpg",
+          "bytes": 54670,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 205802,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/1200x800/763940dca3531fd708692de3d98cbd68/Galimberti-IMG_8467.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222dbc225e2c8eac302e8e",
           "id": "5b222dbc225e2c8eac302e8e",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222da5cb10ee1d3d4864c6/1200x800/763940dca3531fd708692de3d98cbd68/Galimberti-IMG_8467.jpg",
+          "bytes": 205802,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 2550746,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222da5cb10ee1d3d4864c6/6fb29f58495456bfd3a68fa8f604d9b2/Galimberti-IMG_8467.jpg",
-          "scaled": true,
           "_id": "5b222dbc225e2c8eac302e8d",
           "id": "5b222dbc225e2c8eac302e8d",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222da5cb10ee1d3d4864c6/6fb29f58495456bfd3a68fa8f604d9b2/Galimberti-IMG_8467.jpg",
+          "bytes": 2550746,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#dce4ec"
@@ -628,6 +621,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222da5cb10ee1d3d4864c6/6fb29f58495456bfd3a68fa8f604d9b2/Galimberti-IMG_8467.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_8467.jpg",
         "id": "5b222db8f77047808a98fdb4"
       }
     ],
@@ -657,6 +651,7 @@
     "pos": 114687,
     "shortLink": "R9fiO3YL",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -668,14 +663,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -683,6 +680,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/R9fiO3YL",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/R9fiO3YL/524-decking-piscina-lugano",
     "cover": {
@@ -693,74 +691,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 7389,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/70x50/940bb966e5cf1a5c45616b3b1784632f/Galimberti-IMG_9676.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222f68045700fa871436b5",
           "id": "5b222f68045700fa871436b5",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/70x50/940bb966e5cf1a5c45616b3b1784632f/Galimberti-IMG_9676.jpg.png",
+          "bytes": 7389,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 61167,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/250x150/591c1ff414f1350e20138341979ae6b5/Galimberti-IMG_9676.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222f68045700fa871436b4",
           "id": "5b222f68045700fa871436b4",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/250x150/591c1ff414f1350e20138341979ae6b5/Galimberti-IMG_9676.jpg.png",
+          "bytes": 61167,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 3021,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/150x100/8fe3773a94ce585076fa7faa18de8257/Galimberti-IMG_9676.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222f68045700fa871436b3",
           "id": "5b222f68045700fa871436b3",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/150x100/8fe3773a94ce585076fa7faa18de8257/Galimberti-IMG_9676.jpg",
+          "bytes": 3021,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 9119,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/300x200/9a425cb30640e03d92be79e4f0e69fa8/Galimberti-IMG_9676.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222f68045700fa871436b2",
           "id": "5b222f68045700fa871436b2",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/300x200/9a425cb30640e03d92be79e4f0e69fa8/Galimberti-IMG_9676.jpg",
+          "bytes": 9119,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 31170,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/600x400/160c7a4431158e29dca5bf4222015b4a/Galimberti-IMG_9676.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222f68045700fa871436b1",
           "id": "5b222f68045700fa871436b1",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/600x400/160c7a4431158e29dca5bf4222015b4a/Galimberti-IMG_9676.jpg",
+          "bytes": 31170,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 119271,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/1200x800/676ba6763e04da44afc6ced381c32443/Galimberti-IMG_9676.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222f68045700fa871436b0",
           "id": "5b222f68045700fa871436b0",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f51e7efc41da398f35a/1200x800/676ba6763e04da44afc6ced381c32443/Galimberti-IMG_9676.jpg",
+          "bytes": 119271,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 1582687,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f51e7efc41da398f35a/f46f9c0f86ad0395722a81e4dccaa334/Galimberti-IMG_9676.jpg",
-          "scaled": true,
           "_id": "5b222f68045700fa871436af",
           "id": "5b222f68045700fa871436af",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f51e7efc41da398f35a/f46f9c0f86ad0395722a81e4dccaa334/Galimberti-IMG_9676.jpg",
+          "bytes": 1582687,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#8c7454"
@@ -841,6 +832,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f51e7efc41da398f35a/f46f9c0f86ad0395722a81e4dccaa334/Galimberti-IMG_9676.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_9676.jpg",
         "id": "5b222f652bc232a0b6df2f7a"
       }
     ],
@@ -870,6 +862,7 @@
     "pos": 122879,
     "shortLink": "mrkUkEdr",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -881,14 +874,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -896,6 +891,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/mrkUkEdr",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/mrkUkEdr/525-terrazzo-lugano",
     "cover": {
@@ -906,74 +902,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 8769,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/70x50/6e28f94b7a19e05f7ba5c73f1e2d392e/Galimberti-IMG_9783.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222f8b853419fa81df5be1",
           "id": "5b222f8b853419fa81df5be1",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/70x50/6e28f94b7a19e05f7ba5c73f1e2d392e/Galimberti-IMG_9783.jpg.png",
+          "bytes": 8769,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 87637,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/250x150/f10b7d3fa64d6822d8c5308069a9accb/Galimberti-IMG_9783.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222f8b853419fa81df5be0",
           "id": "5b222f8b853419fa81df5be0",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/250x150/f10b7d3fa64d6822d8c5308069a9accb/Galimberti-IMG_9783.jpg.png",
+          "bytes": 87637,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 4578,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/150x100/4a2e681ab0c7bb629912d0fdf8ed5476/Galimberti-IMG_9783.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222f8b853419fa81df5bdf",
           "id": "5b222f8b853419fa81df5bdf",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/150x100/4a2e681ab0c7bb629912d0fdf8ed5476/Galimberti-IMG_9783.jpg",
+          "bytes": 4578,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 17407,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/300x200/3f0c9f69c28bd650556cb47abdd3b3c5/Galimberti-IMG_9783.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222f8b853419fa81df5bde",
           "id": "5b222f8b853419fa81df5bde",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/300x200/3f0c9f69c28bd650556cb47abdd3b3c5/Galimberti-IMG_9783.jpg",
+          "bytes": 17407,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 69696,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/600x400/7281deff43b8613bab011bfea296d383/Galimberti-IMG_9783.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222f8b853419fa81df5bdd",
           "id": "5b222f8b853419fa81df5bdd",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/600x400/7281deff43b8613bab011bfea296d383/Galimberti-IMG_9783.jpg",
+          "bytes": 69696,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 278141,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/1200x800/3e6bc0863e2126ca984c3d76507765ed/Galimberti-IMG_9783.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222f8b853419fa81df5bdc",
           "id": "5b222f8b853419fa81df5bdc",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f7c5ab8c3aa7071b455/1200x800/3e6bc0863e2126ca984c3d76507765ed/Galimberti-IMG_9783.jpg",
+          "bytes": 278141,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 3110079,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f7c5ab8c3aa7071b455/16e85fece6446a1bd373ee8951b083c9/Galimberti-IMG_9783.jpg",
-          "scaled": true,
           "_id": "5b222f8b853419fa81df5bdb",
           "id": "5b222f8b853419fa81df5bdb",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f7c5ab8c3aa7071b455/16e85fece6446a1bd373ee8951b083c9/Galimberti-IMG_9783.jpg",
+          "bytes": 3110079,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#ccd4e4"
@@ -1054,6 +1043,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f7c5ab8c3aa7071b455/16e85fece6446a1bd373ee8951b083c9/Galimberti-IMG_9783.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_9783.jpg",
         "id": "5b222f89257aefaf3915577d"
       }
     ],
@@ -1083,6 +1073,7 @@
     "pos": 126975,
     "shortLink": "dpPXLW2R",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -1094,14 +1085,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -1109,6 +1102,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/dpPXLW2R",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/dpPXLW2R/520-appartamento-porto-pojana",
     "cover": {
@@ -1119,74 +1113,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 4366,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/70x50/8ba566edcf3f943faadf15426cfb1cc4/Galimberti-IMG_0032.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222e6a5d90ca40d966edfa",
           "id": "5b222e6a5d90ca40d966edfa",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/70x50/8ba566edcf3f943faadf15426cfb1cc4/Galimberti-IMG_0032.jpg.png",
+          "bytes": 4366,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 30052,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/250x150/477913d7ac8fb41d3e068c7c94dd82eb/Galimberti-IMG_0032.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222e6a5d90ca40d966edf9",
           "id": "5b222e6a5d90ca40d966edf9",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/250x150/477913d7ac8fb41d3e068c7c94dd82eb/Galimberti-IMG_0032.jpg.png",
+          "bytes": 30052,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 5645,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/150x225/a8dc21a436a989a39f35e9bd606d7f16/Galimberti-IMG_0032.jpg",
-          "height": 225,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222e6a5d90ca40d966edf8",
           "id": "5b222e6a5d90ca40d966edf8",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/150x225/a8dc21a436a989a39f35e9bd606d7f16/Galimberti-IMG_0032.jpg",
+          "bytes": 5645,
+          "height": 225,
+          "width": 150
         },
         {
-          "bytes": 15980,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/300x450/dc38c586c05e86ce1673bef6910291fd/Galimberti-IMG_0032.jpg",
-          "height": 450,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222e6a5d90ca40d966edf7",
           "id": "5b222e6a5d90ca40d966edf7",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/300x450/dc38c586c05e86ce1673bef6910291fd/Galimberti-IMG_0032.jpg",
+          "bytes": 15980,
+          "height": 450,
+          "width": 300
         },
         {
-          "bytes": 47305,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/600x900/0f83f336710e7c0cc68127693c52923a/Galimberti-IMG_0032.jpg",
-          "height": 900,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222e6a5d90ca40d966edf6",
           "id": "5b222e6a5d90ca40d966edf6",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/600x900/0f83f336710e7c0cc68127693c52923a/Galimberti-IMG_0032.jpg",
+          "bytes": 47305,
+          "height": 900,
+          "width": 600
         },
         {
-          "bytes": 144695,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/1200x1800/c109b8145db916f3bcef483e396d0705/Galimberti-IMG_0032.jpg",
-          "height": 1800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222e6a5d90ca40d966edf5",
           "id": "5b222e6a5d90ca40d966edf5",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e53abd95a34ef4545e1/1200x1800/c109b8145db916f3bcef483e396d0705/Galimberti-IMG_0032.jpg",
+          "bytes": 144695,
+          "height": 1800,
+          "width": 1200
         },
         {
-          "bytes": 898071,
-          "height": 3000,
-          "width": 2000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e53abd95a34ef4545e1/d1de09fef5c7db6e8e3695f60f3296f7/Galimberti-IMG_0032.jpg",
-          "scaled": true,
           "_id": "5b222e6a5d90ca40d966edf4",
           "id": "5b222e6a5d90ca40d966edf4",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e53abd95a34ef4545e1/d1de09fef5c7db6e8e3695f60f3296f7/Galimberti-IMG_0032.jpg",
+          "bytes": 898071,
+          "height": 3000,
+          "width": 2000
         }
       ],
       "edgeColor": "#7c7c8c"
@@ -1267,6 +1254,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e53abd95a34ef4545e1/d1de09fef5c7db6e8e3695f60f3296f7/Galimberti-IMG_0032.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_0032.jpg",
         "id": "5b222e68a306291dff1a7575"
       }
     ],
@@ -1296,6 +1284,7 @@
     "pos": 129023,
     "shortLink": "lSiw0K6P",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -1307,14 +1296,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -1322,6 +1313,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/lSiw0K6P",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/lSiw0K6P/521-appartamenti-porto-pojana",
     "cover": {
@@ -1332,74 +1324,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 7081,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/70x50/e80dddba3fa21b630bae3f7b079c46bb/Galimberti-IMG_0076.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222e90cf96308d9430a1f1",
           "id": "5b222e90cf96308d9430a1f1",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/70x50/e80dddba3fa21b630bae3f7b079c46bb/Galimberti-IMG_0076.jpg.png",
+          "bytes": 7081,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 57790,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/250x150/57bce4d27904c9525cbebebbce25be29/Galimberti-IMG_0076.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222e90cf96308d9430a1f0",
           "id": "5b222e90cf96308d9430a1f0",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/250x150/57bce4d27904c9525cbebebbce25be29/Galimberti-IMG_0076.jpg.png",
+          "bytes": 57790,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 3107,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/150x100/5ce629557e68cdb6915579bfcdd2380b/Galimberti-IMG_0076.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222e90cf96308d9430a1ef",
           "id": "5b222e90cf96308d9430a1ef",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/150x100/5ce629557e68cdb6915579bfcdd2380b/Galimberti-IMG_0076.jpg",
+          "bytes": 3107,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 8641,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/300x200/c8e022e5a73adcf05c49cd73ed588c53/Galimberti-IMG_0076.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222e90cf96308d9430a1ee",
           "id": "5b222e90cf96308d9430a1ee",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/300x200/c8e022e5a73adcf05c49cd73ed588c53/Galimberti-IMG_0076.jpg",
+          "bytes": 8641,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 27894,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/600x400/758b7b3215b8c05acd8e2e38141d4e6b/Galimberti-IMG_0076.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222e90cf96308d9430a1ed",
           "id": "5b222e90cf96308d9430a1ed",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/600x400/758b7b3215b8c05acd8e2e38141d4e6b/Galimberti-IMG_0076.jpg",
+          "bytes": 27894,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 102090,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/1200x800/f39e20eeacfeac1bda4fc77c682f5e53/Galimberti-IMG_0076.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222e90cf96308d9430a1ec",
           "id": "5b222e90cf96308d9430a1ec",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e7eade32d7ae2c6763d/1200x800/f39e20eeacfeac1bda4fc77c682f5e53/Galimberti-IMG_0076.jpg",
+          "bytes": 102090,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 1259144,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e7eade32d7ae2c6763d/a6ed5253b06a1f9a0e250cac956a7f50/Galimberti-IMG_0076.jpg",
-          "scaled": true,
           "_id": "5b222e90cf96308d9430a1eb",
           "id": "5b222e90cf96308d9430a1eb",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e7eade32d7ae2c6763d/a6ed5253b06a1f9a0e250cac956a7f50/Galimberti-IMG_0076.jpg",
+          "bytes": 1259144,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#74849c"
@@ -1480,6 +1465,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e7eade32d7ae2c6763d/a6ed5253b06a1f9a0e250cac956a7f50/Galimberti-IMG_0076.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_0076.jpg",
         "id": "5b222e8f546801fb4e171c9e"
       }
     ],
@@ -1509,6 +1495,7 @@
     "pos": 130047,
     "shortLink": "Ya92t1mU",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -1520,14 +1507,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -1535,6 +1524,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/Ya92t1mU",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/Ya92t1mU/526-parquet-taverne",
     "cover": {
@@ -1545,74 +1535,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 8003,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/70x50/ac8eddad13aefc23708b6b59e70e4893/Galimberti-IMG_1980.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b22301f2746034b381ae0c3",
           "id": "5b22301f2746034b381ae0c3",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/70x50/ac8eddad13aefc23708b6b59e70e4893/Galimberti-IMG_1980.jpg.png",
+          "bytes": 8003,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 63935,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/250x150/e6348609c0df60ea439137efae581325/Galimberti-IMG_1980.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b22301f2746034b381ae0c2",
           "id": "5b22301f2746034b381ae0c2",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/250x150/e6348609c0df60ea439137efae581325/Galimberti-IMG_1980.jpg.png",
+          "bytes": 63935,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 4080,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/150x100/50b2c2ae143681a470a58fe1c3a649d6/Galimberti-IMG_1980.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b22301f2746034b381ae0c1",
           "id": "5b22301f2746034b381ae0c1",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/150x100/50b2c2ae143681a470a58fe1c3a649d6/Galimberti-IMG_1980.jpg",
+          "bytes": 4080,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 11916,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/300x200/8ff70037b95701af981bfb42c7a0d18b/Galimberti-IMG_1980.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b22301f2746034b381ae0c0",
           "id": "5b22301f2746034b381ae0c0",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/300x200/8ff70037b95701af981bfb42c7a0d18b/Galimberti-IMG_1980.jpg",
+          "bytes": 11916,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 37531,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/600x400/f2e89a61dacba28d54445e3195e83949/Galimberti-IMG_1980.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b22301f2746034b381ae0bf",
           "id": "5b22301f2746034b381ae0bf",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/600x400/f2e89a61dacba28d54445e3195e83949/Galimberti-IMG_1980.jpg",
+          "bytes": 37531,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 127596,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/1200x800/1809ce40640bd7c4a89f534514d8b8a4/Galimberti-IMG_1980.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b22301f2746034b381ae0be",
           "id": "5b22301f2746034b381ae0be",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ff46faf5581f9450b77/1200x800/1809ce40640bd7c4a89f534514d8b8a4/Galimberti-IMG_1980.jpg",
+          "bytes": 127596,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 1417898,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ff46faf5581f9450b77/14a5db004fbdb1d3259a85b398e17c80/Galimberti-IMG_1980.jpg",
-          "scaled": true,
           "_id": "5b22301f2746034b381ae0bd",
           "id": "5b22301f2746034b381ae0bd",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ff46faf5581f9450b77/14a5db004fbdb1d3259a85b398e17c80/Galimberti-IMG_1980.jpg",
+          "bytes": 1417898,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#746c64"
@@ -1693,6 +1676,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ff46faf5581f9450b77/14a5db004fbdb1d3259a85b398e17c80/Galimberti-IMG_1980.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_1980.jpg",
         "id": "5b22301d0cf2c2355861f703"
       }
     ],
@@ -1722,6 +1706,7 @@
     "pos": 130559,
     "shortLink": "Lx1TGi48",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -1733,14 +1718,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 2,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 2,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -1748,6 +1735,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/Lx1TGi48",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/Lx1TGi48/529-parquet-taverne",
     "cover": {
@@ -1758,74 +1746,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 4676,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/70x50/27842e4cb631806cfe996d59efb874e8/Galimberti-IMG_2036.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b2230397520b8c37629771b",
           "id": "5b2230397520b8c37629771b",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/70x50/27842e4cb631806cfe996d59efb874e8/Galimberti-IMG_2036.jpg.png",
+          "bytes": 4676,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 36024,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/250x150/f7f4ea9ddd44ea752cf9610ee9182052/Galimberti-IMG_2036.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b2230397520b8c37629771a",
           "id": "5b2230397520b8c37629771a",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/250x150/f7f4ea9ddd44ea752cf9610ee9182052/Galimberti-IMG_2036.jpg.png",
+          "bytes": 36024,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 8550,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/150x225/769f80aecccd6a3c9fbf28ac6021a7e7/Galimberti-IMG_2036.jpg",
-          "height": 225,
-          "width": 150,
-          "scaled": true,
           "_id": "5b2230397520b8c376297719",
           "id": "5b2230397520b8c376297719",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/150x225/769f80aecccd6a3c9fbf28ac6021a7e7/Galimberti-IMG_2036.jpg",
+          "bytes": 8550,
+          "height": 225,
+          "width": 150
         },
         {
-          "bytes": 28701,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/300x450/81d77272731a93fc390e29e86ae911c5/Galimberti-IMG_2036.jpg",
-          "height": 450,
-          "width": 300,
-          "scaled": true,
           "_id": "5b2230397520b8c376297718",
           "id": "5b2230397520b8c376297718",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/300x450/81d77272731a93fc390e29e86ae911c5/Galimberti-IMG_2036.jpg",
+          "bytes": 28701,
+          "height": 450,
+          "width": 300
         },
         {
-          "bytes": 98959,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/600x900/4321cd607ac4f186fe57f3fc4c8f6fd2/Galimberti-IMG_2036.jpg",
-          "height": 900,
-          "width": 600,
-          "scaled": true,
           "_id": "5b2230397520b8c376297717",
           "id": "5b2230397520b8c376297717",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/600x900/4321cd607ac4f186fe57f3fc4c8f6fd2/Galimberti-IMG_2036.jpg",
+          "bytes": 98959,
+          "height": 900,
+          "width": 600
         },
         {
-          "bytes": 335368,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/1200x1800/ad05972a1dc832b91edead7d85e05997/Galimberti-IMG_2036.jpg",
-          "height": 1800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b2230397520b8c376297716",
           "id": "5b2230397520b8c376297716",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223024d66ff9fb75fe5bb1/1200x1800/ad05972a1dc832b91edead7d85e05997/Galimberti-IMG_2036.jpg",
+          "bytes": 335368,
+          "height": 1800,
+          "width": 1200
         },
         {
-          "bytes": 1763837,
-          "height": 3000,
-          "width": 2000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b223024d66ff9fb75fe5bb1/81e7b83965dcaaa863ed69e9f7b263ea/Galimberti-IMG_2036.jpg",
-          "scaled": true,
           "_id": "5b2230397520b8c376297715",
           "id": "5b2230397520b8c376297715",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b223024d66ff9fb75fe5bb1/81e7b83965dcaaa863ed69e9f7b263ea/Galimberti-IMG_2036.jpg",
+          "bytes": 1763837,
+          "height": 3000,
+          "width": 2000
         }
       ],
       "edgeColor": "#d4e4f4"
@@ -1906,6 +1887,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b223024d66ff9fb75fe5bb1/acd9c5dcd3ec4755b158427d4e535032/Galimberti-IMG_2007.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_2007.jpg",
         "id": "5b22302c38640b116ebd265a"
       },
       {
@@ -1983,6 +1965,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b223024d66ff9fb75fe5bb1/81e7b83965dcaaa863ed69e9f7b263ea/Galimberti-IMG_2036.jpg",
         "pos": 32768,
+        "fileName": "Galimberti-IMG_2036.jpg",
         "id": "5b223034ee13b07dd3b671bb"
       }
     ],
@@ -2012,6 +1995,7 @@
     "pos": 130815,
     "shortLink": "6IIDOcNh",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -2023,14 +2007,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -2038,6 +2024,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/6IIDOcNh",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/6IIDOcNh/419-tetto-a-cassoni-prefabbricati-con-manto-di-copertura-velux-e-pannelli-fotovoltaici",
     "cover": {
@@ -2048,64 +2035,58 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 6234,
-          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/70x50/ff85afa3801f38cff375b18087b8c225/DJI_0048_(1).jpeg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5a339c08f25292f4f5379714",
           "id": "5a339c08f25292f4f5379714",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/70x50/ff85afa3801f38cff375b18087b8c225/DJI_0048_(1).jpeg.png",
+          "bytes": 6234,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 47847,
-          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/250x150/2004d383e307c17e3df59fceb9dab656/DJI_0048_(1).jpeg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5a339c08f25292f4f5379713",
           "id": "5a339c08f25292f4f5379713",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/250x150/2004d383e307c17e3df59fceb9dab656/DJI_0048_(1).jpeg.png",
+          "bytes": 47847,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 8285,
-          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/150x182/c32b44cba0ef55a5218a4a4e182ef07e/DJI_0048_(1).jpeg.jpg",
-          "height": 182,
-          "width": 150,
-          "scaled": true,
           "_id": "5a339c08f25292f4f5379712",
           "id": "5a339c08f25292f4f5379712",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/150x182/c32b44cba0ef55a5218a4a4e182ef07e/DJI_0048_(1).jpeg.jpg",
+          "bytes": 8285,
+          "height": 182,
+          "width": 150
         },
         {
-          "bytes": 28581,
-          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/300x365/b9e3be95bb779db82a7670a150062e5c/DJI_0048_(1).jpeg.jpg",
-          "height": 365,
-          "width": 300,
-          "scaled": true,
           "_id": "5a339c08f25292f4f5379711",
           "id": "5a339c08f25292f4f5379711",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/300x365/b9e3be95bb779db82a7670a150062e5c/DJI_0048_(1).jpeg.jpg",
+          "bytes": 28581,
+          "height": 365,
+          "width": 300
         },
         {
-          "bytes": 107161,
-          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/600x729/1b6f3f8ddf5a514c363a57d62409edbf/DJI_0048_(1).jpeg.jpg",
-          "height": 729,
-          "width": 600,
-          "scaled": true,
           "_id": "5a339c08f25292f4f5379710",
           "id": "5a339c08f25292f4f5379710",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5a339c028b61fb30827f6eac/600x729/1b6f3f8ddf5a514c363a57d62409edbf/DJI_0048_(1).jpeg.jpg",
+          "bytes": 107161,
+          "height": 729,
+          "width": 600
         },
         {
-          "bytes": 466855,
-          "height": 1167,
-          "width": 960,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5a339c028b61fb30827f6eac/77593e6d6f9f54298d6a9ea146614d02/DJI_0048_(1).jpeg",
-          "scaled": true,
           "_id": "5a339c08f25292f4f537970f",
           "id": "5a339c08f25292f4f537970f",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5a339c028b61fb30827f6eac/77593e6d6f9f54298d6a9ea146614d02/DJI_0048_(1).jpeg",
+          "bytes": 466855,
+          "height": 1167,
+          "width": 960
         }
       ],
       "edgeColor": "#547c14"
@@ -2177,6 +2158,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5a339c028b61fb30827f6eac/77593e6d6f9f54298d6a9ea146614d02/DJI_0048_(1).jpeg",
         "pos": 16384,
+        "fileName": "DJI_0048_(1).jpeg",
         "id": "5a339c07aeadecd5c31a8d8a"
       }
     ],
@@ -2206,6 +2188,7 @@
     "pos": 131071,
     "shortLink": "Ou9xRjLq",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -2217,14 +2200,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -2232,6 +2217,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/Ou9xRjLq",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/Ou9xRjLq/516-sopralzo-resienziale-giubiasco",
     "cover": {
@@ -2242,74 +2228,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 8471,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/70x50/02b8adef6cd4e5060fbf5a71109cbfd0/Galimberti-IMG_8588.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b1e9f204a3de7f7f6eeeb99",
           "id": "5b1e9f204a3de7f7f6eeeb99",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/70x50/02b8adef6cd4e5060fbf5a71109cbfd0/Galimberti-IMG_8588.jpg.png",
+          "bytes": 8471,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 74980,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/250x150/97298346e8e8fcca81cb936347d2dac3/Galimberti-IMG_8588.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b1e9f204a3de7f7f6eeeb98",
           "id": "5b1e9f204a3de7f7f6eeeb98",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/250x150/97298346e8e8fcca81cb936347d2dac3/Galimberti-IMG_8588.jpg.png",
+          "bytes": 74980,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 4222,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/150x100/dd3e627ffdef1633be57f42550f40df1/Galimberti-IMG_8588.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b1e9f204a3de7f7f6eeeb97",
           "id": "5b1e9f204a3de7f7f6eeeb97",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/150x100/dd3e627ffdef1633be57f42550f40df1/Galimberti-IMG_8588.jpg",
+          "bytes": 4222,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 13447,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/300x200/a753208fd16a4a1eb9dde9645f52db96/Galimberti-IMG_8588.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b1e9f204a3de7f7f6eeeb96",
           "id": "5b1e9f204a3de7f7f6eeeb96",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/300x200/a753208fd16a4a1eb9dde9645f52db96/Galimberti-IMG_8588.jpg",
+          "bytes": 13447,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 46660,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/600x400/72d343af8dcf4e57c403b9a14680fbf0/Galimberti-IMG_8588.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b1e9f204a3de7f7f6eeeb95",
           "id": "5b1e9f204a3de7f7f6eeeb95",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/600x400/72d343af8dcf4e57c403b9a14680fbf0/Galimberti-IMG_8588.jpg",
+          "bytes": 46660,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 167970,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/1200x800/0b5a3f38cf60e972d71d5dcb0399916e/Galimberti-IMG_8588.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b1e9f204a3de7f7f6eeeb94",
           "id": "5b1e9f204a3de7f7f6eeeb94",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b1e9f17ed1f40ec5c52249c/1200x800/0b5a3f38cf60e972d71d5dcb0399916e/Galimberti-IMG_8588.jpg",
+          "bytes": 167970,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 1885405,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b1e9f17ed1f40ec5c52249c/e7f59fe1ad358d41e57f7d6ec703a9f0/Galimberti-IMG_8588.jpg",
-          "scaled": true,
           "_id": "5b1e9f204a3de7f7f6eeeb93",
           "id": "5b1e9f204a3de7f7f6eeeb93",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b1e9f17ed1f40ec5c52249c/e7f59fe1ad358d41e57f7d6ec703a9f0/Galimberti-IMG_8588.jpg",
+          "bytes": 1885405,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#748cac"
@@ -2390,6 +2369,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b1e9f17ed1f40ec5c52249c/e7f59fe1ad358d41e57f7d6ec703a9f0/Galimberti-IMG_8588.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_8588.jpg",
         "id": "5b1e9f1edf9a2568d4693d4a"
       }
     ],
@@ -2419,6 +2399,7 @@
     "pos": 163839,
     "shortLink": "FIEEP0EK",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -2430,14 +2411,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -2445,6 +2428,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/FIEEP0EK",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/FIEEP0EK/523-tetto-in-legno-porto-pojana",
     "cover": {
@@ -2455,74 +2439,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 8023,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/70x50/51f5c61962f608efe90f7cb8d56392fb/Galimberti-IMG_9919.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222f447da267bfbbea83bd",
           "id": "5b222f447da267bfbbea83bd",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/70x50/51f5c61962f608efe90f7cb8d56392fb/Galimberti-IMG_9919.jpg.png",
+          "bytes": 8023,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 59382,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/250x150/efc98f02897471f5b99c6f5e89bcc964/Galimberti-IMG_9919.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222f447da267bfbbea83bc",
           "id": "5b222f447da267bfbbea83bc",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/250x150/efc98f02897471f5b99c6f5e89bcc964/Galimberti-IMG_9919.jpg.png",
+          "bytes": 59382,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 3365,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/150x100/c47bdad19f364d1730e95101febc1242/Galimberti-IMG_9919.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222f447da267bfbbea83bb",
           "id": "5b222f447da267bfbbea83bb",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/150x100/c47bdad19f364d1730e95101febc1242/Galimberti-IMG_9919.jpg",
+          "bytes": 3365,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 9312,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/300x200/b6cde46ddd0929bdc415d269d246ed74/Galimberti-IMG_9919.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222f447da267bfbbea83ba",
           "id": "5b222f447da267bfbbea83ba",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/300x200/b6cde46ddd0929bdc415d269d246ed74/Galimberti-IMG_9919.jpg",
+          "bytes": 9312,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 27970,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/600x400/6a43a9208e857fa326fc8a2565f5c66b/Galimberti-IMG_9919.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222f447da267bfbbea83b9",
           "id": "5b222f447da267bfbbea83b9",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/600x400/6a43a9208e857fa326fc8a2565f5c66b/Galimberti-IMG_9919.jpg",
+          "bytes": 27970,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 97567,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/1200x800/cc5dea3f8ddc4466d3d99dad4b0965e4/Galimberti-IMG_9919.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222f447da267bfbbea83b8",
           "id": "5b222f447da267bfbbea83b8",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222f3cc060398f88955883/1200x800/cc5dea3f8ddc4466d3d99dad4b0965e4/Galimberti-IMG_9919.jpg",
+          "bytes": 97567,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 1300831,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f3cc060398f88955883/e294baff7b6bb1533ea88d2ee29b0b0e/Galimberti-IMG_9919.jpg",
-          "scaled": true,
           "_id": "5b222f447da267bfbbea83b7",
           "id": "5b222f447da267bfbbea83b7",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f3cc060398f88955883/e294baff7b6bb1533ea88d2ee29b0b0e/Galimberti-IMG_9919.jpg",
+          "bytes": 1300831,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#64544c"
@@ -2603,6 +2580,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222f3cc060398f88955883/e294baff7b6bb1533ea88d2ee29b0b0e/Galimberti-IMG_9919.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_9919.jpg",
         "id": "5b222f430bf7e640016bdbf7"
       }
     ],
@@ -2632,6 +2610,7 @@
     "pos": 180223,
     "shortLink": "3pZAu0jJ",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -2643,14 +2622,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -2658,6 +2639,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/3pZAu0jJ",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/3pZAu0jJ/519-ristorante-e-alberto-porto-pojana",
     "cover": {
@@ -2668,74 +2650,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 8309,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/70x50/32678da77ae27922095c026aa9ccf298/Galimberti-IMG_0001.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222e4eab6fe8c48e4aa01b",
           "id": "5b222e4eab6fe8c48e4aa01b",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/70x50/32678da77ae27922095c026aa9ccf298/Galimberti-IMG_0001.jpg.png",
+          "bytes": 8309,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 65088,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/250x150/0193ad48f176bcfc7dc4780651f99a88/Galimberti-IMG_0001.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222e4eab6fe8c48e4aa01a",
           "id": "5b222e4eab6fe8c48e4aa01a",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/250x150/0193ad48f176bcfc7dc4780651f99a88/Galimberti-IMG_0001.jpg.png",
+          "bytes": 65088,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 4111,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/150x100/8e31785b27d57802c7290be2d08d4475/Galimberti-IMG_0001.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222e4eab6fe8c48e4aa019",
           "id": "5b222e4eab6fe8c48e4aa019",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/150x100/8e31785b27d57802c7290be2d08d4475/Galimberti-IMG_0001.jpg",
+          "bytes": 4111,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 11772,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/300x200/19552375d2e3c53aac0692460504e377/Galimberti-IMG_0001.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222e4eab6fe8c48e4aa018",
           "id": "5b222e4eab6fe8c48e4aa018",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/300x200/19552375d2e3c53aac0692460504e377/Galimberti-IMG_0001.jpg",
+          "bytes": 11772,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 40967,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/600x400/f5dd2c86f4908b8d7632062f1d4dd0cc/Galimberti-IMG_0001.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222e4eab6fe8c48e4aa017",
           "id": "5b222e4eab6fe8c48e4aa017",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/600x400/f5dd2c86f4908b8d7632062f1d4dd0cc/Galimberti-IMG_0001.jpg",
+          "bytes": 40967,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 162508,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/1200x800/6565c18d9e935044e7946182fde74480/Galimberti-IMG_0001.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222e4eab6fe8c48e4aa016",
           "id": "5b222e4eab6fe8c48e4aa016",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222e407018e9be224d2887/1200x800/6565c18d9e935044e7946182fde74480/Galimberti-IMG_0001.jpg",
+          "bytes": 162508,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 1935561,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e407018e9be224d2887/f6170bcc7ba06ef337aec49c73c2180e/Galimberti-IMG_0001.jpg",
-          "scaled": true,
           "_id": "5b222e4eab6fe8c48e4aa015",
           "id": "5b222e4eab6fe8c48e4aa015",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e407018e9be224d2887/f6170bcc7ba06ef337aec49c73c2180e/Galimberti-IMG_0001.jpg",
+          "bytes": 1935561,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#6c6c6c"
@@ -2816,6 +2791,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222e407018e9be224d2887/f6170bcc7ba06ef337aec49c73c2180e/Galimberti-IMG_0001.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_0001.jpg",
         "id": "5b222e4c449d91b0decb1814"
       }
     ],
@@ -2845,6 +2821,7 @@
     "pos": 188415,
     "shortLink": "eN2vnef0",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -2856,14 +2833,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -2871,6 +2850,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/eN2vnef0",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/eN2vnef0/530-decking-aranno",
     "cover": {
@@ -2881,74 +2861,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 4535,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/70x50/24695da504d5885826ad2f406631556c/Galimberti-IMG_5802.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b223116b9a8edd76bb8a0cd",
           "id": "5b223116b9a8edd76bb8a0cd",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/70x50/24695da504d5885826ad2f406631556c/Galimberti-IMG_5802.jpg.png",
+          "bytes": 4535,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 34659,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/250x150/19357fc00b77495d94ead30f4be575f9/Galimberti-IMG_5802.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b223116b9a8edd76bb8a0cc",
           "id": "5b223116b9a8edd76bb8a0cc",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/250x150/19357fc00b77495d94ead30f4be575f9/Galimberti-IMG_5802.jpg.png",
+          "bytes": 34659,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 7161,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/150x225/551038263b7171633092ef174364a44c/Galimberti-IMG_5802.jpg",
-          "height": 225,
-          "width": 150,
-          "scaled": true,
           "_id": "5b223116b9a8edd76bb8a0cb",
           "id": "5b223116b9a8edd76bb8a0cb",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/150x225/551038263b7171633092ef174364a44c/Galimberti-IMG_5802.jpg",
+          "bytes": 7161,
+          "height": 225,
+          "width": 150
         },
         {
-          "bytes": 25515,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/300x450/a9b643ff2b890f9aad8a0785c6858f93/Galimberti-IMG_5802.jpg",
-          "height": 450,
-          "width": 300,
-          "scaled": true,
           "_id": "5b223116b9a8edd76bb8a0ca",
           "id": "5b223116b9a8edd76bb8a0ca",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/300x450/a9b643ff2b890f9aad8a0785c6858f93/Galimberti-IMG_5802.jpg",
+          "bytes": 25515,
+          "height": 450,
+          "width": 300
         },
         {
-          "bytes": 92378,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/600x900/ba0fa267a642864d1902815d1adac489/Galimberti-IMG_5802.jpg",
-          "height": 900,
-          "width": 600,
-          "scaled": true,
           "_id": "5b223116b9a8edd76bb8a0c9",
           "id": "5b223116b9a8edd76bb8a0c9",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/600x900/ba0fa267a642864d1902815d1adac489/Galimberti-IMG_5802.jpg",
+          "bytes": 92378,
+          "height": 900,
+          "width": 600
         },
         {
-          "bytes": 314123,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/1200x1800/1950beb97c251a71bbc71f52c6fc1c26/Galimberti-IMG_5802.jpg",
-          "height": 1800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b223116b9a8edd76bb8a0c8",
           "id": "5b223116b9a8edd76bb8a0c8",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b22309656ef5845ee13285d/1200x1800/1950beb97c251a71bbc71f52c6fc1c26/Galimberti-IMG_5802.jpg",
+          "bytes": 314123,
+          "height": 1800,
+          "width": 1200
         },
         {
-          "bytes": 1588458,
-          "height": 3000,
-          "width": 2000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b22309656ef5845ee13285d/de9a8c9ffb5c742b6f319b4c17b18df6/Galimberti-IMG_5802.jpg",
-          "scaled": true,
           "_id": "5b223116b9a8edd76bb8a0c7",
           "id": "5b223116b9a8edd76bb8a0c7",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b22309656ef5845ee13285d/de9a8c9ffb5c742b6f319b4c17b18df6/Galimberti-IMG_5802.jpg",
+          "bytes": 1588458,
+          "height": 3000,
+          "width": 2000
         }
       ],
       "edgeColor": "#6484ac"
@@ -3029,6 +3002,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b22309656ef5845ee13285d/de9a8c9ffb5c742b6f319b4c17b18df6/Galimberti-IMG_5802.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_5802.jpg",
         "id": "5b223114910ec5b114fdf9f6"
       }
     ],
@@ -3058,6 +3032,7 @@
     "pos": 196607,
     "shortLink": "KojVrcNz",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -3069,14 +3044,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -3084,6 +3061,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/KojVrcNz",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/KojVrcNz/517-parco-ciani-lugano",
     "cover": {
@@ -3094,74 +3072,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 5283,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/70x50/e4fd518c067e4939ab4dcaf8e4b79e78/Ciani.JPG.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b222d94703b4cbfc0e661d9",
           "id": "5b222d94703b4cbfc0e661d9",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/70x50/e4fd518c067e4939ab4dcaf8e4b79e78/Ciani.JPG.png",
+          "bytes": 5283,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 53030,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/250x150/9c1b528a0484d83ca45d1d80c31159fb/Ciani.JPG.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b222d94703b4cbfc0e661d8",
           "id": "5b222d94703b4cbfc0e661d8",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/250x150/9c1b528a0484d83ca45d1d80c31159fb/Ciani.JPG.png",
+          "bytes": 53030,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 2600,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/150x66/8e50b7b03340494292d67ab4bbeaa4a5/Ciani.JPG.jpg",
-          "height": 66,
-          "width": 150,
-          "scaled": true,
           "_id": "5b222d94703b4cbfc0e661d7",
           "id": "5b222d94703b4cbfc0e661d7",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/150x66/8e50b7b03340494292d67ab4bbeaa4a5/Ciani.JPG.jpg",
+          "bytes": 2600,
+          "height": 66,
+          "width": 150
         },
         {
-          "bytes": 7337,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/300x132/f8b2cda0a5a7bb2026ae4e00230dbbbc/Ciani.JPG.jpg",
-          "height": 132,
-          "width": 300,
-          "scaled": true,
           "_id": "5b222d94703b4cbfc0e661d6",
           "id": "5b222d94703b4cbfc0e661d6",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/300x132/f8b2cda0a5a7bb2026ae4e00230dbbbc/Ciani.JPG.jpg",
+          "bytes": 7337,
+          "height": 132,
+          "width": 300
         },
         {
-          "bytes": 23189,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/600x265/0fadd78c6979e1cd66c774a27183fe64/Ciani.JPG.jpg",
-          "height": 265,
-          "width": 600,
-          "scaled": true,
           "_id": "5b222d94703b4cbfc0e661d5",
           "id": "5b222d94703b4cbfc0e661d5",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/600x265/0fadd78c6979e1cd66c774a27183fe64/Ciani.JPG.jpg",
+          "bytes": 23189,
+          "height": 265,
+          "width": 600
         },
         {
-          "bytes": 79571,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/1200x530/7ae6f7a51ee1b766350ece981dc3b930/Ciani.JPG.jpg",
-          "height": 530,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b222d94703b4cbfc0e661d4",
           "id": "5b222d94703b4cbfc0e661d4",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222d8f6b912cb11703fccc/1200x530/7ae6f7a51ee1b766350ece981dc3b930/Ciani.JPG.jpg",
+          "bytes": 79571,
+          "height": 530,
+          "width": 1200
         },
         {
-          "bytes": 344651,
-          "height": 817,
-          "width": 1851,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222d8f6b912cb11703fccc/378fc92c632f4a0085f5ac2e3a0329ce/Ciani.JPG",
-          "scaled": true,
           "_id": "5b222d94703b4cbfc0e661d3",
           "id": "5b222d94703b4cbfc0e661d3",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222d8f6b912cb11703fccc/378fc92c632f4a0085f5ac2e3a0329ce/Ciani.JPG",
+          "bytes": 344651,
+          "height": 817,
+          "width": 1851
         }
       ],
       "edgeColor": "#d4d4ec"
@@ -3242,6 +3213,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222d8f6b912cb11703fccc/378fc92c632f4a0085f5ac2e3a0329ce/Ciani.JPG",
         "pos": 16384,
+        "fileName": "Ciani.JPG",
         "id": "5b222d93b111c68a4ca62031"
       }
     ],
@@ -3271,6 +3243,7 @@
     "pos": 212991,
     "shortLink": "mvu3xHPj",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -3282,14 +3255,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -3297,6 +3272,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/mvu3xHPj",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/mvu3xHPj/528-ville-lugano",
     "cover": {
@@ -3307,74 +3283,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 7363,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/70x50/677d21f67172b75cd8dee3030e60c385/Galimberti-IMG_2080.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b22307cb7c46dc96a949095",
           "id": "5b22307cb7c46dc96a949095",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/70x50/677d21f67172b75cd8dee3030e60c385/Galimberti-IMG_2080.jpg.png",
+          "bytes": 7363,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 61456,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/250x150/1f3b52c214e1ec6d7c585467199f6b9f/Galimberti-IMG_2080.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b22307cb7c46dc96a949094",
           "id": "5b22307cb7c46dc96a949094",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/250x150/1f3b52c214e1ec6d7c585467199f6b9f/Galimberti-IMG_2080.jpg.png",
+          "bytes": 61456,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 3803,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/150x100/a858a8fa13b4d94dbc2e125caf056e30/Galimberti-IMG_2080.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b22307cb7c46dc96a949093",
           "id": "5b22307cb7c46dc96a949093",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/150x100/a858a8fa13b4d94dbc2e125caf056e30/Galimberti-IMG_2080.jpg",
+          "bytes": 3803,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 11013,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/300x200/c0bdacad1fbd8be6f9478a459bbbe95e/Galimberti-IMG_2080.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b22307cb7c46dc96a949092",
           "id": "5b22307cb7c46dc96a949092",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/300x200/c0bdacad1fbd8be6f9478a459bbbe95e/Galimberti-IMG_2080.jpg",
+          "bytes": 11013,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 35584,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/600x400/d129f745b0691b5524e7d8d491b39ef0/Galimberti-IMG_2080.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b22307cb7c46dc96a949091",
           "id": "5b22307cb7c46dc96a949091",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/600x400/d129f745b0691b5524e7d8d491b39ef0/Galimberti-IMG_2080.jpg",
+          "bytes": 35584,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 117309,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/1200x800/09fab76e0ba44a4ba5dc76d78715113a/Galimberti-IMG_2080.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b22307cb7c46dc96a949090",
           "id": "5b22307cb7c46dc96a949090",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b223003976183f13f4a1a3f/1200x800/09fab76e0ba44a4ba5dc76d78715113a/Galimberti-IMG_2080.jpg",
+          "bytes": 117309,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 3299137,
-          "height": 2001,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b223003976183f13f4a1a3f/051d133d540df7d94634709895297e61/Galimberti-IMG_2080.jpg",
-          "scaled": true,
           "_id": "5b22307cb7c46dc96a94908f",
           "id": "5b22307cb7c46dc96a94908f",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b223003976183f13f4a1a3f/051d133d540df7d94634709895297e61/Galimberti-IMG_2080.jpg",
+          "bytes": 3299137,
+          "height": 2001,
+          "width": 3000
         }
       ],
       "edgeColor": "#445474"
@@ -3455,6 +3424,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b223003976183f13f4a1a3f/051d133d540df7d94634709895297e61/Galimberti-IMG_2080.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_2080.jpg",
         "id": "5b22307abe024b8a59bd7899"
       }
     ],
@@ -3484,6 +3454,7 @@
     "pos": 229375,
     "shortLink": "HiT4hIas",
     "isTemplate": false,
+    "cardRole": null,
     "badges": {
       "attachmentsByType": {
         "trello": {
@@ -3495,14 +3466,16 @@
       "votes": 0,
       "viewingMemberVoted": false,
       "subscribed": false,
-      "dueComplete": false,
-      "due": null,
-      "description": false,
-      "attachments": 1,
-      "comments": 0,
-      "checkItemsChecked": 0,
+      "fogbugz": "",
       "checkItems": 0,
-      "fogbugz": ""
+      "checkItemsChecked": 0,
+      "checkItemsEarliestDue": null,
+      "comments": 0,
+      "attachments": 1,
+      "description": false,
+      "due": null,
+      "dueComplete": false,
+      "start": null
     },
     "dueComplete": false,
     "due": null,
@@ -3510,6 +3483,7 @@
     "idMembers": [],
     "labels": [],
     "shortUrl": "https://trello.com/c/HiT4hIas",
+    "start": null,
     "subscribed": false,
     "url": "https://trello.com/c/HiT4hIas/527-studio-taverne",
     "cover": {
@@ -3520,74 +3494,67 @@
       "brightness": "light",
       "scaled": [
         {
-          "bytes": 7472,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/70x50/cd267ae94c2c09282d8d41c9d694bfaf/Galimberti-IMG_1958.jpg.png",
-          "height": 50,
-          "width": 70,
-          "scaled": false,
           "_id": "5b223062a6ce81c965d4fb68",
           "id": "5b223062a6ce81c965d4fb68",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/70x50/cd267ae94c2c09282d8d41c9d694bfaf/Galimberti-IMG_1958.jpg.png",
+          "bytes": 7472,
+          "height": 50,
+          "width": 70
         },
         {
-          "bytes": 55329,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/250x150/f307549f13c60919a242960d45a0c670/Galimberti-IMG_1958.jpg.png",
-          "height": 150,
-          "width": 250,
-          "scaled": false,
           "_id": "5b223062a6ce81c965d4fb67",
           "id": "5b223062a6ce81c965d4fb67",
-          "typeName": "Preview"
+          "scaled": false,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/250x150/f307549f13c60919a242960d45a0c670/Galimberti-IMG_1958.jpg.png",
+          "bytes": 55329,
+          "height": 150,
+          "width": 250
         },
         {
-          "bytes": 3213,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/150x100/5739ffde2473807234c31f2b107005e7/Galimberti-IMG_1958.jpg",
-          "height": 100,
-          "width": 150,
-          "scaled": true,
           "_id": "5b223062a6ce81c965d4fb66",
           "id": "5b223062a6ce81c965d4fb66",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/150x100/5739ffde2473807234c31f2b107005e7/Galimberti-IMG_1958.jpg",
+          "bytes": 3213,
+          "height": 100,
+          "width": 150
         },
         {
-          "bytes": 8907,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/300x200/883826a476f78b5bcb94781a9f5a9828/Galimberti-IMG_1958.jpg",
-          "height": 200,
-          "width": 300,
-          "scaled": true,
           "_id": "5b223062a6ce81c965d4fb65",
           "id": "5b223062a6ce81c965d4fb65",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/300x200/883826a476f78b5bcb94781a9f5a9828/Galimberti-IMG_1958.jpg",
+          "bytes": 8907,
+          "height": 200,
+          "width": 300
         },
         {
-          "bytes": 26279,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/600x400/62cb9096544d84576d5920a4794e7bd2/Galimberti-IMG_1958.jpg",
-          "height": 400,
-          "width": 600,
-          "scaled": true,
           "_id": "5b223062a6ce81c965d4fb64",
           "id": "5b223062a6ce81c965d4fb64",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/600x400/62cb9096544d84576d5920a4794e7bd2/Galimberti-IMG_1958.jpg",
+          "bytes": 26279,
+          "height": 400,
+          "width": 600
         },
         {
-          "bytes": 78829,
-          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/1200x800/af0a433778b2d6a1db42d67a9ef71c9f/Galimberti-IMG_1958.jpg",
-          "height": 800,
-          "width": 1200,
-          "scaled": true,
           "_id": "5b223062a6ce81c965d4fb63",
           "id": "5b223062a6ce81c965d4fb63",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/5b222ffa14d0a3be5388e5dd/1200x800/af0a433778b2d6a1db42d67a9ef71c9f/Galimberti-IMG_1958.jpg",
+          "bytes": 78829,
+          "height": 800,
+          "width": 1200
         },
         {
-          "bytes": 887393,
-          "height": 2000,
-          "width": 3000,
-          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ffa14d0a3be5388e5dd/e2ffa053198a333e4216d8770ac41c99/Galimberti-IMG_1958.jpg",
-          "scaled": true,
           "_id": "5b223062a6ce81c965d4fb62",
           "id": "5b223062a6ce81c965d4fb62",
-          "typeName": "Preview"
+          "scaled": true,
+          "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ffa14d0a3be5388e5dd/e2ffa053198a333e4216d8770ac41c99/Galimberti-IMG_1958.jpg",
+          "bytes": 887393,
+          "height": 2000,
+          "width": 3000
         }
       ],
       "edgeColor": "#fcfcfc"
@@ -3668,6 +3635,7 @@
         ],
         "url": "https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5b222ffa14d0a3be5388e5dd/e2ffa053198a333e4216d8770ac41c99/Galimberti-IMG_1958.jpg",
         "pos": 16384,
+        "fileName": "Galimberti-IMG_1958.jpg",
         "id": "5b2230608987c0d01376029d"
       }
     ],
