@@ -1,33 +1,36 @@
 const pluginPingendo = require("pingendo-11ty");
-
+const pluginSass = require("eleventy-plugin-sass");
 
 module.exports = function(eleventyConfig) {
+
+  
   eleventyConfig.setEjsOptions({
     openDelimiter: "{{",
     closeDelimiter: "}}"
   });
   eleventyConfig.addPlugin(pluginPingendo);
+
+
+  // eleventyConfig.addPassthroughCopy("*.html");
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.setDynamicPermalinks(true);
-  eleventyConfig.setTemplateFormats([
-    "ejs",
-    "md",
-    "js",
-    "html",
-    "yml",
-    "jpg",
-    "css" // css is not yet a recognized template extension in Eleventy
-  ]);
-
+ 
+  eleventyConfig.addPlugin(pluginSass, {"remap":true});
 
   return {
     templateFormats: [
       "ejs",
       "md",
-      "njk",
       "html",
-      "liquid",
+      "js",
+      "yml",
+      "jpg",
+      "scss",
+      "css" // css is not yet a recognized template extension in Eleventy
     ],
+
+
+
     passthroughFileCopy: true,
     markdownTemplateEngine: "ejs",
     htmlTemplateEngine: "ejs",

@@ -1,2 +1,4 @@
 .eleventy.js
-_site
+build
+node_modules
+**/*.js

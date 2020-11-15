@@ -1,0 +1,51 @@
+<div class="bg-light section" id="photos">
+  <div class="container pt-1" style="background-color:white">
+
+
+    <div ht-repeat="(key, val) in data.lista" class="row" style="display: flex" >
+
+      <!-- video -->
+      <div  class="col-lg-12 my-2 item" ht-if="val.desc.indexOf('player.vimeo.com') != -1 || val.desc.indexOf('www.youtube.com') != -1">
+            <div class="mt-1 embed-responsive embed-responsive-16by9">
+              <iframe class="lazy" data-src="{{val.desc}}"></iframe>
+            </div>
+            <span class="id" style="position:absolute;top:6px;right: 10px;color:rgba(255,255,255,0.7)"></span>
+      </div>
+
+       <!-- 1 img -->
+       <div ht-if="val._images && val._images.length == 1 && val._images[0].url" class="item col-lg-12 my-2">
+        <div style="position:relative;">
+          <img style="min-height:150px" onclick="zoomImage(this,{{key}})" alt="{{val._images[0].alt}}"  class="lazy d-block mx-auto img-fluid" data-src="{{val._images[0].url}}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10" name="" data-was-processed="true">
+          <span class="id" style="position:absolute;top:6px;right: 10px;color:#ffffffb3"></span>
+          <span class="title" style="position:absolute;bottom:6px;left: 10px;color:rgba(255,255,255,0.7)">{{val._images[0].where}}</span>
+        </div>
+      </div>
+
+      <!-- 2 img -->
+      <div ht-if="val._images && val._images.length == 2" class="row mx-1 item" >
+        <div class="col-lg-6  my-2 ">
+            <img onclick="zoomImage(this,{{key}})" class="lazy d-block mx-auto img-fluid" alt="{{val._images[0].alt}}" data-src="{{val._images[0].url}}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10" name="" data-was-processed="true">
+            <span class="id" style="position:absolute;top:6px;right: 30px;color:rgba(255,255,255,0.7)"></span>
+            <span class="title pl-3" style="position:absolute;bottom:6px;left: 10px;color:rgba(255,255,255,0.7)">{{val._images[0].where}}</span>
+        </div>
+        <div  class="col-lg-6  my-2   ">
+          <img onclick="zoomImage(this,{{key}})" class="lazy d-block mx-auto img-fluid" alt="{{val._images[1].alt}}" data-src="{{val._images[1].url}}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10" name="" data-was-processed="true">
+          <span class="id" style="position:absolute;top:6px;right: 30px;color:rgba(255,255,255,0.7)"></span>
+          <span class="title pl-3" style="position:absolute;bottom:6px;left: 10px;color:rgba(255,255,255,0.7)">{{val._images[1].where}}</span>
+      </div>
+</div>
+
+
+
+    </div> <!-- repeat -->
+
+    <div class="row" id="trello-load-more">
+      <div class="col-md-12">
+        <a class="btn btn-block my-4 btn-secondary btn-lg p-3" onclick="showMoreImages()" >
+          <i class="fa fa-fw fa-search-plus text-white"></i>
+          <b class="text-white"> Guarda altre immagini</b>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
