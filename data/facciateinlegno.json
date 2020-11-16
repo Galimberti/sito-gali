@@ -216,8 +216,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Monticello - LC_ IMG_8410.jpg",
         "alt": "Facciata in legno SPA lecco(Monticello   LC)_ IMG_8410.jpg",
+=======
+        "where": "Monticello - LC",
+        "alt": "Facciata-in-legno-SPA-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be176d5e3d82b577ec41ceb/f56afb465686eb15d58dab8da6e0ef19/Galimberti-IMG_8410.jpg"
       }
     ]
@@ -437,8 +442,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_0028.jpg",
         "alt": "Facciata in legno villa lecco(LC)_IMG_0028.jpg",
+=======
+        "where": "LC",
+        "alt": "Facciata-in-legno-villa-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e4809a48e29c4ed22f1a16/09de02d18921c06f81cb065d7f1fcb48/Galimberti-IMG_0028.jpg"
       }
     ]
@@ -651,6 +661,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "dettagli tecnici Gfassaden",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5aa8f690f22aca116d4e6ece/21feb6bf882535918f7110ea0cac750e/Dettagli_tecnici_3.jpg"
       }
@@ -871,8 +882,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_0044.jpg",
         "alt": "Facciata in legno casa lecco(LC)_IMG_0044.jpg",
+=======
+        "where": "LC",
+        "alt": "Facciata-in-legno-casa-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e4805779c85e0a53b5f4cf/65b3fce93d077984eb9cd3d0e3a5b376/Galimberti-IMG_0044.jpg"
       }
     ]
@@ -1092,8 +1108,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Cantù - CO_IMG_8931.jpg",
         "alt": "Facciata in legno condominio como(Cantù   CO)_IMG_8931.jpg",
+=======
+        "where": "Cantù - CO",
+        "alt": "Facciata-in-legno-condominio-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e47fff4a17bb398071faa5/d4cd69e07c92a54d7fa882317169d443/Galimberti-IMG_8931.jpg"
       }
     ]
@@ -1391,8 +1412,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Cantù - CO_IMG_8932.JPG",
         "alt": "Facciata in legno condominio como(Cantù   CO)_IMG_8932.JPG",
+=======
+        "where": "Cantù - CO",
+        "alt": "Facciata-in-legno-condominio-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59eee00efca78ed8d37380aa/dc4735e5cdb684abb47d379494762a9a/Galimberti-IMG_8905.jpg"
       }
     ]
@@ -1603,6 +1629,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "testimonial Galimberti",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59eee17484a21b9f7206f203/2ba44e447c9ba46a272d059d2d2f440c/Testimonial.jpg"
       }
@@ -1823,8 +1850,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_3203.jpg",
         "alt": "Rivestimento legno giardino como(CO)_IMG_3203.jpg",
+=======
+        "where": "CO",
+        "alt": "Rivestimento-legno-giardino-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4c5b15141c39a6cda8cc5/3000x2000/c3f6573e9aa610ed466fbacd6a4d9284/Galimberti-IMG_3203.jpg"
       }
     ]
@@ -2044,8 +2076,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Saint Tropez - FR_IMG_4569.jpg",
         "alt": "Rivestimento legno villa provenza(Saint Tropez   FR)_IMG_4569.jpg",
+=======
+        "where": "Saint Tropez - FR",
+        "alt": "Rivestimento-legno-villa-provenza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59259db3b337e50968bcc896/a8171b181bb566586cb973316dcc25f4/Galimberti-IMG_4569.jpg"
       }
     ]
@@ -2343,8 +2380,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Provenza_IMG_4610.jpg",
         "alt": "Rivestimento legno giardino provenza(Provenza)_IMG_4610.jpg",
+=======
+        "where": "Provenza",
+        "alt": "Rivestimento-legno-giardino-provenza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59259efd4d085fe9e736d76d/d9b81dd785bb79407664d1b2d956373e/Galimberti-IMG_4580.jpg"
       }
     ]
@@ -2564,8 +2606,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Provenza_IMG_4550.jpg",
         "alt": "Rivestimento legno villa provenza(Provenza)_IMG_4550.jpg",
+=======
+        "where": "Provenza",
+        "alt": "Rivestimento-legno-villa-provenza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59259f777da3d84279754803/911b34e71c56e5d4ed0c5e4944e58b96/Galimberti-IMG_4550.jpg"
       }
     ]
@@ -2785,8 +2832,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Milano_IMG_8007.jpg",
         "alt": "Facciata in legno milano(Milano)_IMG_8007.jpg",
+=======
+        "where": "Milano",
+        "alt": "Facciata-in-legno-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59b10e3edfe5c1b3fe63fe38/18c29e73431a4dd4fbe8f5efb9ebd731/Galimberti-IMG_8007.jpg"
       }
     ]
@@ -3006,8 +3058,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Milano_IMG_8051.jpg",
         "alt": "Facciata in legno milano(Milano)_IMG_8051.jpg",
+=======
+        "where": "Milano",
+        "alt": "Facciata-in-legno-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59b10edd20a7ec559693c608/49847b96e88d37b9d04ad625e079856b/Galimberti-IMG_8051.jpg"
       }
     ]
@@ -3227,8 +3284,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_0026.jpg",
         "alt": "Facciata in legno esterno monza(MB)_IMG_0026.jpg",
+=======
+        "where": "MB",
+        "alt": "Facciata-in-legno-esterno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4beb8bbbb92a0fb5bbe04/3000x2000/8a2a7cb09d576839e5962e4f2d68b4e3/Galimberti-IMG_0026.jpg"
       }
     ]
@@ -3448,8 +3510,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Giussano - MB_IMG_2702.jpg",
         "alt": "Rivestimento legno capannone monza(Giussano   MB)_IMG_2702.jpg",
+=======
+        "where": "Giussano - MB",
+        "alt": "Rivestimento-legno-capannone-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59119486aca0d2c5e37f3715/1e437ac12e85d489a33f527e76e635dd/Galimberti-IMG_2702.jpg"
       }
     ]
@@ -3747,8 +3814,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_2764.jpg",
         "alt": "Rivestimento legno capannone monza(MB)_IMG_2764.jpg",
+=======
+        "where": "MB",
+        "alt": "Rivestimento-legno-capannone-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5911948adb229c08064db6b4/eaf94200c898ad3bdc2b6198c9f1f1ea/Galimberti-IMG_2763.jpg"
       }
     ]
@@ -3968,8 +4040,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Lissone - MB_IMG_0011.jpg",
         "alt": "Facciata in legno negozio monza(Lissone   MB)_IMG_0011.jpg",
+=======
+        "where": "Lissone - MB",
+        "alt": "Facciata-in-legno-negozio-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4bd0d57da634412ae03e7/3000x2440/bc502d93943d5133e96c0f1c3d221560/Galimberti-IMG_0011.jpg"
       }
     ]
@@ -4189,8 +4266,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Lissone - MB_IMG_1704.jpg",
         "alt": "Facciata in legno negozio monza(Lissone   MB)_IMG_1704.jpg",
+=======
+        "where": "Lissone - MB",
+        "alt": "Facciata-in-legno-negozio-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4c32f926d199076ca2ba7/3000x1547/88ece0e4a776ed4ddd5dd9d19e2becc1/Galimberti-IMG_1704.jpg"
       }
     ]
@@ -4488,8 +4570,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_8509.jpg",
         "alt": "Rivestimento legno esterno lecco(LC)_IMG_8509.jpg",
+=======
+        "where": "LC",
+        "alt": "Rivestimento-legno-esterno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56c2e339d4690d77ab9a291c/2000x3000/014c6ed902397ae671347d67ff7ad8c7/Galimberti-IMG_8486.jpg"
       }
     ]
@@ -4709,8 +4796,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Colognola Ai Colli - VR_IMG_1114.jpg",
         "alt": "Facciata in legno uffici velux verona(Colognola Ai Colli   VR)_IMG_1114.jpg",
+=======
+        "where": "Colognola Ai Colli - VR",
+        "alt": "Facciata-in-legno-uffici-velux-verona",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4bef62d62fb1bdb03a40a/3000x2000/d35f72a36659e192ab492ec9531b53ee/Galimberti-IMG_1114.jpg"
       }
     ]
@@ -5008,8 +5100,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VR_IMG_1155.jpg",
         "alt": "Facciata in legno uffici velux verona(VR)_IMG_1155.jpg",
+=======
+        "where": "VR",
+        "alt": "Facciata-in-legno-uffici-velux-verona",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4bf072c564bcda0fa4297/2000x3000/5ab3f79b515cc71af7fdf953a05f588b/Galimberti-IMG_1245.jpg"
       }
     ]
@@ -5222,6 +5319,10 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "dettagli tecnici Gfassaden",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5aa69f6599e952541ab157d7/306d8a4a72dc0bb1e408fd813cb98365/Dettagli_tecnici.jpg"
       }
@@ -5442,8 +5543,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Colognola Ai Colli - VR_IMG_9468.jpg",
         "alt": "Facciata in legno uffici velux verona(Colognola Ai Colli   VR)_IMG_9468.jpg",
+=======
+        "where": "Colognola Ai Colli - VR",
+        "alt": "Facciata-in-legno-uffici-velux-verona",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/57d7be16557c8b0291fe6c7f/3000x2000/c01ad4962bd9266468770fb8cfaacd5a/IMG_9468.jpg"
       }
     ]
@@ -5663,8 +5769,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VR_IMG_9485.jpg",
         "alt": "Facciata in legno uffici velux verona(VR)_IMG_9485.jpg",
+=======
+        "where": "VR",
+        "alt": "Facciata-in-legno-uffici-velux-verona",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57e241d5ce8f5b65a23e323e/8fad55588a0382c50fa8fac89fd9a84e/IMG_9485.jpg"
       }
     ]
@@ -5884,8 +5995,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_2847.jpg",
         "alt": "Facciata in legno SPA monza(MB)_IMG_2847.jpg",
+=======
+        "where": "MB",
+        "alt": "Facciata-in-legno-SPA-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4c3b362a4226f33e470b7/2000x3000/3e5ca9e9c3084b6ba4593fe5d7f3fade/Galimberti-IMG_2847.jpg"
       }
     ]
@@ -6183,8 +6299,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_2867.jpg",
         "alt": "Facciata in legno monza(MB)_IMG_2867.jpg",
+=======
+        "where": "MB",
+        "alt": "Facciata-in-legno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4c464313bd0a8c4a9172e/2000x3000/e04e7b96729702cf1550a78eda45585e/Galimberti-IMG_2867.jpg"
       }
     ]
@@ -6404,8 +6525,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "prov. Bergamo-IMG_9312.jpg",
         "alt": "Facciata in legno doghe bergamo(prov. Bergamo) IMG_9312.jpg",
+=======
+        "where": "prov. Bergamo",
+        "alt": "Facciata-in-legno-doghe-bergamo",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b99e8b793e5ae929ddce5e/3000x2000/fdf5d692d4c45c698ee12717550a9326/Galimberti-IMG_9312.jpg"
       }
     ]
@@ -6703,8 +6829,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_7912.jpg",
         "alt": "Facciata in legno monza(MB)_IMG_7912.jpg",
+=======
+        "where": "MB",
+        "alt": "Facciata-in-legno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b99e99e98ea2461ccaedc8/2000x3000/9eb8682c26514f38e50a8493034705ef/Galimberti-IMG_9313.jpg"
       }
     ]
@@ -6924,8 +7055,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Busnago - MB-IMG_9484.jpg",
         "alt": "Rivestimento legno negozio monza(Busnago   MB) IMG_9484.jpg",
+=======
+        "where": "Busnago - MB",
+        "alt": "Rivestimento-legno-negozio-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b99dc7197ab66410d804b3/3000x2000/3dadad651291c8da32f01fd078db942e/Galimberti-IMG_9484.jpg"
       }
     ]
@@ -7223,8 +7359,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_7930.jpg",
         "alt": "Facciata in legno monza(MB)_IMG_7930.jpg",
+=======
+        "where": "MB",
+        "alt": "Facciata-in-legno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b34d0ea1a0e862289a30/1333x2000/99db8d3bf5f0708d7748234838519d38/IMG_7984.jpg"
       }
     ]
@@ -7444,8 +7585,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Castenedolo - BS_IMG_6867.jpg",
         "alt": "Rivestimento legno negozio brescia(Castenedolo   BS)_IMG_6867.jpg",
+=======
+        "where": "Castenedolo - BS",
+        "alt": "Rivestimento-legno-negozio-brescia",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b99daad4e97fcb81e4067b/3000x2000/cfb606f1e76539099e2ce4f85524929c/Galimberti-IMG_6867.jpg"
       }
     ]
@@ -7745,8 +7891,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_8528.jpg",
         "alt": "Frangisole in legno lecco(LC)_IMG_8528.jpg",
+=======
+        "where": "LC",
+        "alt": "Frangisole-in-legno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56c2e37d92b76f4bc3181b21/2000x3000/fc91ac9b2e5f8d328b3bddff3f68336a/Galimberti-IMG_8554.jpg"
       }
     ]
@@ -7959,6 +8110,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "dettagli tecnici Gfassaden",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5aa8f698f638551bc1e5b14e/aac5f6cf1cbabc33fb809fe7eb29be21/Dettagli_tecnici_2.jpg"
       }
@@ -8179,8 +8331,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "prov. Mi_PICT0001.jpg",
         "alt": "Frangisole in legno esterno milano(prov. Mi)_PICT0001.jpg",
+=======
+        "where": "prov. Mi",
+        "alt": "Frangisole-in-legno-esterno-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56e9709faa9727edc5574b95/2560x1920/7e0b82526d43d4e165dbd8b55625f08b/PICT0001.jpg"
       }
     ]
@@ -8400,8 +8557,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Prov - Mi_IMG_5058.jpg",
         "alt": "Facciata in legno scuola milano(Prov   Mi)_IMG_5058.jpg",
+=======
+        "where": "Prov - Mi",
+        "alt": "Facciata-in-legno-scuola-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4d888a50f0e6b1b5afba8/3000x2000/d80cab58c884428f41de615985ddfbfa/Galimberti-IMG_5058.jpg"
       }
     ]
@@ -8699,8 +8861,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "prov. VA_IMG_3466.jpg",
         "alt": "Facciata in legno ufficio varese(prov. VA)_IMG_3466.jpg",
+=======
+        "where": "prov. VA",
+        "alt": "Facciata-in-legno-ufficio-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b89f33fe56878af4c9d718/2000x3000/802bdf93a9324893f91cc288e8df15f1/Galimberti-IMG_5154.jpg"
       }
     ]
@@ -8920,8 +9087,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VA-IMG_5110.jpg",
         "alt": "Facciata in legno scuola varese(VA) IMG_5110.jpg",
+=======
+        "where": "VA",
+        "alt": "Facciata-in-legno-scuola-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4d8a279b291dfe8761734/3000x2000/369416479516c1e6c6d57d54865c2dce/Galimberti-IMG_5110.jpg"
       }
     ]
@@ -9141,8 +9313,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Cantù - CO-Senza titolo-3.jpg",
         "alt": "Facciata in legno serramenti como(Cantù   CO) Senza titolo 3.jpg",
+=======
+        "where": "Cantù - CO",
+        "alt": "Facciata-in-legno-serramenti-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9a298eba1eb1825876dd6/2863x3000/925c458daac542b3815d218ab540dc77/Galimberti-Senza_titolo-3.jpg"
       }
     ]
@@ -9440,8 +9617,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "prov. Bergamo-Senza titolo-1.jpg",
         "alt": "Facciata in legno bergamo(prov. Bergamo) Senza titolo 1.jpg",
+=======
+        "where": "prov. Bergamo",
+        "alt": "Facciata-in-legno-bergamo",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b99ee4484affa5a81484e9/2000x3000/b22b7c43f9623a2da76fe0251776e242/Galimberti-IMG_9355.jpg"
       }
     ]
@@ -9661,8 +9843,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "prov. Lecco_IMG_0286.jpg",
         "alt": "Facciata in legno capannone lecco(prov. Lecco)_IMG_0286.jpg",
+=======
+        "where": "prov. Lecco",
+        "alt": "Facciata-in-legno-capannone-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5b87f53da42c1d422b8a27f2/97a836ab9d63ac4a1f7b86e335660508/Galimberti-IMG_0286.jpg"
       }
     ]

@@ -292,8 +292,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC__MG_9438.jpg",
         "alt": "Restauro soffitto in legno cassettoni lecco(LC)__MG_9438.jpg",
+=======
+        "where": "LC",
+        "alt": "Restauro-soffitto-in-legno-cassettoni-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbbc49ac06a14a0d651c36/c16c22663043011cb29dc74cf6f2d91f/_MG_9438.jpg"
       }
     ]
@@ -515,8 +520,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI-1800-2b.jpg",
         "alt": "Restauro travi in legno antiche milano(MI) 1800 2b.jpg",
+=======
+        "where": "MI",
+        "alt": "Restauro-travi-in-legno-antiche-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de7bec837ca521ed31702c4/7587942659f2c6d79fb402138b07c666/Restauro_Travi_in_legno_Vecchie_Antiche_-1800-2b.jpg"
       }
     ]
@@ -736,8 +746,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI-.jpg",
         "alt": "Capriate in legno antico restauro milano(MI) .jpg",
+=======
+        "where": "MI",
+        "alt": "Capriate in legno-antico-restauro-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de0fb4f5f44ac64103c1dbd/dfbbd33130e0fda072013d54611dad61/Capriate_in_legno-Antiche-Restauro-.jpg"
       }
     ]
@@ -957,8 +972,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "IMG_1462.JPG",
         "alt": "Restauro Travi in legno milano()IMG_1462.JPG",
+=======
+        "where": "",
+        "alt": "Restauro-Travi-in-legno-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5defc986274e9b627d407e87/b1e333abd95089d2d55e2e6ac852797b/Restauro_Carpenteria_in_legno-IMG_1462.JPG"
       }
     ]
@@ -1178,8 +1198,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_1508.JPG",
         "alt": "Consolidamento travi in legno lomagna(LC)_IMG_1508.JPG",
+=======
+        "where": "LC",
+        "alt": "Consolidamento-travi-in-legno-lomagna",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5defc87870e89e203c6826d8/53b1560c9af25d1081142da228daea5a/Consolidamento_Carpenteria_in_legno_Travi_in_legno-IMG_1508.JPG"
       }
     ]
@@ -1399,8 +1424,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC-.jpg",
         "alt": "Consolidamento travi in legno lomagna(LC) .jpg",
+=======
+        "where": "LC",
+        "alt": "Consolidamento-travi-in-legno-lomagna",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf03a3f548581160258/988640126f7d8d6dd40e3d09226f6d26/Consolidamento-Carpenteria_in_legno-Travi_in_legno-.jpg"
       }
     ]
@@ -1698,12 +1728,21 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3c8253e04269c663ad6201bcc2c0cf57/Collaudo-Travi_in_legno-Antiche-Vecchie-.jpg"
       },
       {
+<<<<<<< HEAD
         "where": "Trattamento.jpg",
         "alt": " Trattamento tarli travi in legno(Trattamento).jpg",
+=======
+        "where": "Trattamento",
+        "alt": " Trattamento-tarli-travi-in-legno",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cfb1bbd960e27f2039c/3de38e4aa9d9b8a42ba595200a80653b/Trattamento_tarli-Travi_in_legno-Antiche-Vecchie-.jpg"
       }
     ]
@@ -1923,8 +1962,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Classificazione.jpg",
         "alt": "Collaudo travi In legno antiche bergamo(Classificazione).jpg",
+=======
+        "where": "Classificazione",
+        "alt": "Collaudo-travi-In legno-antiche-bergamo",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf97b5d6677908801e6/201dfdb584463bba2eb7dc3c65712371/Collaudo-Strutture-In_legno-Antiche-.jpg"
       }
     ]
@@ -2144,8 +2188,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI.jpg",
         "alt": "Restauro travi in legno milano(MI).jpg",
+=======
+        "where": "MI",
+        "alt": "Restauro-travi-in-legno-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf2e5ed32856ace32da/15f42b7ff96d76dbfaf9afb88cf98443/Restauro-Carpenteria_in_legno-.jpg"
       }
     ]
@@ -2365,8 +2414,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI.jpg",
         "alt": "Restauro Travi in legno milano(MI).jpg",
+=======
+        "where": "MI",
+        "alt": "Restauro-Travi-in-legno-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11ce950fca008fcdd3f6f/d0a7ec25531adebdc9feaadfc04371da/Recupero-Travi_in_legno-Antiche-Vecchie-.jpg"
       }
     ]
@@ -2586,8 +2640,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI.jpg",
         "alt": "Capriate in legno Antico Restauro milano(MI).jpg",
+=======
+        "where": "MI",
+        "alt": "Capriate-in-legno-Antico-Restauro-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11ceeccab638244b4575c/a8f6f9a474f2d85a51cce622e934c06c/Restauro-Capriate_in_legno-Antiche-.jpg"
       }
     ]
@@ -2807,8 +2866,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI.jpg",
         "alt": "Consolidamento Travi in legno milano(MI).jpg",
+=======
+        "where": "MI",
+        "alt": "Consolidamento-Travi-in-legno-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5de11cf50b0afd70e3fcd235/3320178d1f2ff765288a4172a2317937/Restauro-Travi_in_legno-Vecchie-Antiche-.jpg"
       }
     ]

@@ -222,6 +222,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Giuseppe Galimberti",
         "url": "https://galimberti.imgix.net/56e2e16229d240d08e8be76f/600x600/3fa3e544782e4993fa25ddf9983ea20f/giuseppegalimberti.jpg"
       }
@@ -450,6 +451,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Gabriele Galimberti",
         "url": "https://galimberti.imgix.net/56e19fd676830b31f2dabe1d/600x600/87931e97485e58a2f32df5e166f4b70b/gabrielegalimberti.jpg"
       }
@@ -678,6 +680,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Patrizia Boni",
         "url": "https://galimberti.imgix.net/56e2789a8b68182aa3efa37b/600x600/5fb8ad7b86d06d2fac98c19cd8b9c785/patriziaboni.jpg"
       }
@@ -906,6 +909,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Roberto Brivio",
         "url": "https://galimberti.imgix.net/56e278e5aff0ddb975132129/600x600/29812e8108aaae4e85dbe64082a91a8c/robertobrivio.jpg"
       }
@@ -1134,6 +1138,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Ivan Maggioni",
         "url": "https://galimberti.imgix.net/56e278e86f7f6f5967b0eddd/600x600/c888dbc74f76418e177780f4276ffb4b/ivanmaggioni.jpg"
       }
@@ -1362,6 +1367,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Michela Riva",
         "url": "https://galimberti.imgix.net/56e27d93ecb16d1ab6a7de03/600x600/00b5ec3a29c5c18a0913611bbcb07bc9/michelariva.jpg"
       }
@@ -1590,6 +1596,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "dott. Giulia Galimberti",
         "url": "https://galimberti.imgix.net/56e27e210f37c82616581ac7/600x600/84e24fcd6acbde360235e50304f6480e/giuliagalimberti.jpg"
       }
@@ -1818,6 +1825,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Giulio Missaglia",
         "url": "https://galimberti.imgix.net/56e27e7e0a8efb16312940eb/600x600/72bfa278c782b08afe044fbafb6a2174/giuliomissaglia.jpg"
       }
@@ -2046,6 +2054,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Mattia Muzio",
         "url": "https://galimberti.imgix.net/56e27efea1aa0231afdc5589/600x600/a372d1c0f603d30317b9aa744d4d84d7/mattiamuzio.jpg"
       }
@@ -2274,6 +2283,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Michele Vigano'",
         "url": "https://galimberti.imgix.net/56e27f01a96f6381c9559c75/600x600/be16a4278ee1faf17be93748a3c089f3/michelevigano.jpg"
       }
@@ -2502,6 +2512,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Marta Milani",
         "url": "https://galimberti.imgix.net/56e27f035896475f6fcabd65/600x600/3ffa2786ceb12d4fa3e5d70fba79753e/martamilani.jpg"
       }
@@ -2730,6 +2741,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "geom. Claudio Franzetti",
         "url": "https://galimberti.imgix.net/56e27f06daa6073ea7d61b82/600x600/9893982b025d3161d81dad49dd4053d6/claudiofranzetti.jpg"
       }
@@ -2958,6 +2970,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "geom. Giorgio Paganini",
         "url": "https://galimberti.imgix.net/56e27f08feef8b8b7db0d253/600x600/39c576957ee76941c76ad8c67152c6ae/giorgiopaganini.jpg"
       }
@@ -3186,6 +3199,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Giovanni Ripamonti",
         "url": "https://galimberti.imgix.net/56e27f0ac1517d7e6a3b48a8/600x600/f2fefc85a1d6e9a077a2b46166e6c528/giovanniripamonti.jpg"
       }
@@ -3414,6 +3428,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Luca Corti",
         "url": "https://galimberti.imgix.net/56e27f0d0ca39471ab75b003/600x600/af329eab78ad7ac58687db4019f06dcf/lucacorti.jpg"
       }
@@ -3642,6 +3657,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Davide Capoccia",
         "url": "https://galimberti.imgix.net/56e281b3f2270a5c8f2ad6b9/600x600/e032f44b4fa54698e45f115ce86ce23d/davidecapoccia.jpg"
       }
@@ -3870,6 +3886,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Giorgio Lucadamo",
         "url": "https://galimberti.imgix.net/56e2863944e8fef4a21d79f9/600x600/427f624bfc43583fea3d34cf93f129f4/giorgiolucadamo.jpg"
       }
@@ -4098,6 +4115,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "geom. Luca Bonfanti",
         "url": "https://galimberti.imgix.net/56e2863b767322fd946b80db/600x600/c19972c3fc6a57886969798671a41e02/lucabonfanti.jpg"
       }
@@ -4326,6 +4344,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Alberto Ripamonti",
         "url": "https://galimberti.imgix.net/56e2863e5f64a6678ff1a8e9/600x600/d29d63f96e7ed16e792c82b88ba43406/albertoripamonti.jpg"
       }
@@ -4554,6 +4573,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Zdenko Strucek",
         "url": "https://galimberti.imgix.net/56e2ca51d6d1fbb95f7e965d/600x600/9285013ec2353288a9fe7e2fe68ca2fb/zdenkostrucek.jpg"
       }
@@ -4800,6 +4820,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "ing. Mirko Colombo",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59eee6298f1a6b589c455d86/c8741034f05b1799cbb57ab060301efb/IMG_1068.JPG"
       }

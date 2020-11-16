@@ -216,8 +216,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_8518.jpg",
         "alt": "Pavimento in legno cucina lecco(LC)_IMG_8518.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-cucina-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be17755f4038f3b8a3a6242/f2888506ef758fa2db82e95743670a86/Galimberti-IMG_8518.jpg"
       }
     ]
@@ -515,8 +520,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VA_IMG_8593.jpg",
         "alt": "Pavimento in legno bagno varese(VA)_IMG_8593.jpg",
+=======
+        "where": "VA",
+        "alt": "Pavimento-in-legno-bagno-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be177829323977f5ba8905d/8b00722cc924033572feed1edc7ca451/Galimberti-IMG_8571.jpg"
       }
     ]
@@ -736,8 +746,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_0009.JPG",
         "alt": "Pavimento in legno cucina como(CO)_IMG_0009.JPG",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-cucina-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5b87fad927ce941f5af4769e/82d243b909a889db0dc743cbc0f0dec5/Galimberti-IMG_0009.JPG"
       }
     ]
@@ -948,6 +963,10 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "testimonial galimberti francesca ticozzi",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e4819f286365f428ece654/284333f9d771c374a8910db45f30b3b5/Galimberti_testimonial_1.jpg"
       }
@@ -1168,8 +1187,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_MG_4199.jpg",
         "alt": "Pavimento in legno soggiorno como(CO)_MG_4199.jpg",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-soggiorno-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbe607ae16bc07b12114e1/5a7bdfd501a95bb67ef35602d3d42cea/Galimberti-_MG_4199.jpg"
       }
     ]
@@ -1467,8 +1491,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_MG_0296.jpg",
         "alt": "Pavimento in legno casa monza(MB)_MG_0296.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-casa-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbe582ea99d48d33167f26/7517202652b3ea18e459fff05281991e/_MG_0241.jpg"
       }
     ]
@@ -1766,10 +1795,18 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/590c45e11448d501e43fddc9/a1019a5756a796d220468ea3d4c7f676/Galimberti-IMG_2495.jpg"
       },
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/590c45e11448d501e43fddc9/35445baa12846f7cd68ffcbaaeb33eff/Galimberti-IMG_2511.jpg"
       }
@@ -1990,8 +2027,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_MG_5738.jpg",
         "alt": "Parquet rovere cucina lecco(LC)_MG_5738.jpg",
+=======
+        "where": "LC",
+        "alt": "Parquet-rovere-cucina-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbe5a0e2bd2a5a923e8ae3/7fdb8214667832975e7dc6dcadc09401/_MG_5738.jpg"
       }
     ]
@@ -2289,8 +2331,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_MG_9514.jpg",
         "alt": "Pavimento in legno cucina lecco(LC)_MG_9514.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-cucina-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcc028fcc8d8f8b50e71b69/612455c528bbcd59a3d186b5c6222495/_MG_9481.jpg"
       }
     ]
@@ -2588,8 +2635,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_MG_0157.jpg",
         "alt": "Parquet rovere cucina monza(MB)_MG_0157.jpg",
+=======
+        "where": "MB",
+        "alt": "Parquet-rovere-cucina-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbe56a81f54782f883d4a2/e6aad5d74781134f3a1e6daf85fc4504/_MG_0157.jpg"
       }
     ]
@@ -2809,8 +2861,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_3832.jpg",
         "alt": "Pavimento in legno casa lecco(LC)_IMG_3832.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-casa-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9a9406f9c4afb56f2652e/3000x2000/5e6376138eb4d3718a85cb0942982254/Galimberti-IMG_3832.jpg"
       }
     ]
@@ -3081,8 +3138,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI_IMG_1354.jpg",
         "alt": "Pavimento in legno cucina milano (MI)_IMG_1354.jpg",
+=======
+        "where": "MI",
+        "alt": "Pavimento-in-legno-cucina-milano-",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/575539d34f643c95067a2046/1133x1700/202402a1ad82532595fdb94d533139ad/Galimberti-IMG_1381.jpg"
       }
     ]
@@ -3302,8 +3364,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI_IMG_1393.jpg",
         "alt": "Pavimento in legno casa milano (MI)_IMG_1393.jpg",
+=======
+        "where": "MI",
+        "alt": "Pavimento-in-legno-casa-milano-",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/575539c7fb676f2db2632b54/1700x1133/0f5a03ef8732bd8ae08d6f3a291a8c1b/Galimberti-IMG_1393.jpg"
       }
     ]
@@ -3601,8 +3668,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "BG_MG_4462.jpg",
         "alt": "Parquet rovere soggiorno bergamo(BG)_MG_4462.jpg",
+=======
+        "where": "BG",
+        "alt": "Parquet-rovere-soggiorno-bergamo",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbe6274f3c1d37281604a2/fc0b399f141733f2d2dc85f34271de82/Galimberti-_MG_4462.jpg"
       }
     ]
@@ -3822,8 +3894,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_9120.jpg",
         "alt": "Parquet rovere casa como(CO)_IMG_9120.jpg",
+=======
+        "where": "CO",
+        "alt": "Parquet-rovere-casa-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5a719fb0f2f9db12774e3e08/377794aaf3187911f47f45e9543065df/Galimberti-IMG_9120.jpg"
       }
     ]
@@ -4121,8 +4198,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CH_IMG_2036.jpg",
         "alt": "Pavimento in legno soggiorno canton ticino(CH)_IMG_2036.jpg",
+=======
+        "where": "CH",
+        "alt": "Pavimento-in-legno-soggiorno-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/582ecaa7327a214211b15627/a720548f406b29b9f62f0bafa92df7ad/Galimberti-IMG_2007.jpg"
       }
     ]
@@ -4420,8 +4502,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_1313.jpg",
         "alt": "Pavimento in legno bagno monza(MB)_IMG_1313.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-bagno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59eee28068f367f860e2ff80/f9d2d4a6133a13ed062a3ad2d4292e13/Galimberti-IMG_1324.jpg"
       }
     ]
@@ -4641,8 +4728,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_9030.jpg",
         "alt": "Pavimento in legno soggiorno como(CO)_IMG_9030.jpg",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-soggiorno-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e47fbebaf3d2341875c9ab/7d415b0c87e64a871bce3fb6b6866112/Galimberti-IMG_9030.jpg"
       }
     ]
@@ -4940,8 +5032,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_MG_9453.jpg",
         "alt": "Parquet rovere soggiorno lecco(LC)_MG_9453.jpg",
+=======
+        "where": "LC",
+        "alt": "Parquet-rovere-soggiorno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbe5a4583e4c2668c1ed10/8a4213de0d91c127869db289e1f7f56f/_MG_9494.jpg"
       }
     ]
@@ -5239,8 +5336,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_9093.jpg",
         "alt": "Pavimento in legno soggiorno como(CO)_IMG_9093.jpg",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-soggiorno-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e47fd525e49edaf1d35339/766db8cb0e09faa330285a89de1dc80e/Galimberti-IMG_9143.jpg"
       }
     ]
@@ -5460,8 +5562,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_2571.jpg",
         "alt": "Pavimento in legno soggiorno monza(MB)_IMG_2571.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-soggiorno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/590c45d95158285011ab0060/4f55e21af2c44d34430e4f0a36f22545/Galimberti-IMG_2571.jpg"
       }
     ]
@@ -5681,8 +5788,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_MG_0103-HDR.jpg",
         "alt": "Parquet rovere soggiorno monza(MB)_MG_0103 HDR.jpg",
+=======
+        "where": "MB",
+        "alt": "Parquet-rovere-soggiorno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5faa796a5de9550fd8e05a70/x/6d862fef057c46b4c321b8e39c8c5ac1/_MG_0103-HDR.jpg"
       }
     ]
@@ -5902,8 +6014,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_2481.jpg",
         "alt": "Parquet chiaro casa monza(MB)_IMG_2481.jpg",
+=======
+        "where": "MB",
+        "alt": "Parquet-chiaro-casa-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/590c45e1b3990ea592fc21e1/eb3b3dadc47b12c0d788bb0faa3cd763/Galimberti-IMG_2481.jpg"
       }
     ]
@@ -6123,8 +6240,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CH_IMG_1980.jpg",
         "alt": "Pavimento in legno soggiorno canton ticino(CH)_IMG_1980.jpg",
+=======
+        "where": "CH",
+        "alt": "Pavimento-in-legno-soggiorno-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/582eca82dee84232e8c4d6dd/109f66dbf8b52890cedeb3a76dad2697/Galimberti-IMG_1980.jpg"
       }
     ]
@@ -6344,8 +6466,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_1554.jpg",
         "alt": "Pavimento in legno bagno monza(MB)_IMG_1554.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-bagno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57f2226fc1903eee59e38a32/ba03a9238e85351ebc58b6f18005b86d/IMG_1554.jpg"
       }
     ]
@@ -6565,8 +6692,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_1537s.jpg",
         "alt": "Parquet chiaro casa monza (MB)_IMG_1537s.jpg",
+=======
+        "where": "MB",
+        "alt": "Parquet-chiaro-casa-monza-",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57f2224db40927843fe5c19b/4274937af6c1f7cbc40d47caa1cf61a4/IMG_1537s.jpg"
       }
     ]
@@ -6786,8 +6918,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI_3.jpg",
         "alt": "Pavimento in legno cucina milano (MI)_3.jpg",
+=======
+        "where": "MI",
+        "alt": "Pavimento-in-legno-cucina-milano-",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/57724571a7537e313a23d2a2/4240x2801/82a5eeff1dab0e4bff2d121a57df541e/3.jpg"
       }
     ]
@@ -7007,8 +7144,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_9460.jpg",
         "alt": "Parquet rovere soggiorno monza(MB)_IMG_9460.jpg",
+=======
+        "where": "MB",
+        "alt": "Parquet-rovere-soggiorno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56e2c8a959fb97df8ff2b70d/3000x2000/1fe512f05ac2e2ab379e103c0c34e675/Galimberti-IMG_9460.jpg"
       }
     ]
@@ -7306,8 +7448,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_9510.jpg",
         "alt": "Pavimento in legno cucina monza(MB)_IMG_9510.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-cucina-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56e2c8ac4025314575713875/2000x3000/6b62dd6a04a1d95044d167e68a875a0c/Galimberti-IMG_9487.jpg"
       }
     ]
@@ -7527,8 +7674,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC-IMG_3868.jpg",
         "alt": "Pavimento in legno soggiorno lecco(LC) IMG_3868.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-soggiorno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9a942d91cc003bf408c8f/3000x2000/427291185ef2bc96ebb4f36ce0cb3772/Galimberti-IMG_3868.jpg"
       }
     ]
@@ -7748,8 +7900,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_4011.jpg",
         "alt": "Pavimento in legno soggiorno lecco(LC)_IMG_4011.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-soggiorno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b17e1b5be8cdbedee31f/2000x3000/7b153ab7eea235a737b5f648640a0930/Galimberti-IMG_4011.jpg"
       }
     ]
@@ -8047,8 +8204,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_3780.jpg",
         "alt": "Pavimento in legno soggiorno como(CO)_IMG_3780.jpg",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-soggiorno-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9a93ebda12b371ccb688b/2000x3000/4cd4e0bd727d7111e268b6695b81cd49/Galimberti-IMG_3733.jpg"
       }
     ]
@@ -8346,8 +8508,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_9404.jpg",
         "alt": "Pavimento in legno soggiorno monza(MB)_IMG_9404.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-soggiorno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9a93aebec06a392b19a2d/2000x3000/4f73aa4042cfa70621f18464c4f22d8a/Galimberti-IMG_3856.jpg"
       }
     ]
@@ -8645,8 +8812,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_4045.jpg",
         "alt": "Pavimento in legno soggiorno lecco(LC)_IMG_4045.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-soggiorno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b0faa76d96c15d8f3769/2000x3000/b7bbe1743c6dea8470280e730c772268/Galimberti-IMG_4055.jpg"
       }
     ]
@@ -8866,8 +9038,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_9424.jpg",
         "alt": "Pavimento in legno soggiorno monza(MB)_IMG_9424.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-soggiorno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56e2c89e597aff098128645a/3000x2000/772082b0c992325c0e01241f14235fb1/Galimberti-IMG_9424.jpg"
       }
     ]
@@ -9087,8 +9264,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_3903_.jpg",
         "alt": "Pavimento in legno soggiorno lecco(LC)_IMG_3903_.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-soggiorno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b0f6b36ebfa1eb5a55ff/3000x2000/cce982991e71dce018f0126a11aa912c/Galimberti-IMG_3903_.jpg"
       }
     ]
@@ -9308,8 +9490,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_MG_0473.jpg",
         "alt": "Pavimento in legno soppalco monza(MB)_MG_0473.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-soppalco-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbbe3a9637775d6f8c7c07/7e39817dad9adf3d20d9dcb87051da75/_MG_0473.jpg"
       }
     ]
@@ -9607,8 +9794,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_MG_0065.jpg",
         "alt": "Parquet chiaro casa monza(MB)_MG_0065.jpg",
+=======
+        "where": "MB",
+        "alt": "Parquet-chiaro-casa-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5faa7be2f40f255c053d11c2/x/2e3dc621fbd230e54a4114ed83adc709/_MG_0181.jpg"
       }
     ]
@@ -9906,8 +10098,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_MG_0138-HDR.jpg",
         "alt": "Parquet rovere soggiorno monza(MB)_MG_0138 HDR.jpg",
+=======
+        "where": "MB",
+        "alt": "Parquet-rovere-soggiorno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5faa795eb10f064920a03650/x/9a9f60fa9a94f77efd2cb4279135d201/_MG_0123-HDR.jpg"
       }
     ]
@@ -10127,8 +10324,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_3883.jpg",
         "alt": "Pavimento in legno camera como(CO)_IMG_3883.jpg",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-camera-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9a944fba7bdb99f672150/2000x3000/4f4e52cb827bc2273bf8ed9b11411192/Galimberti-IMG_3883.jpg"
       }
     ]
@@ -10348,8 +10550,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_MG_9578.jpg",
         "alt": "Pavimento in legno soppalco lecco(LC)_MG_9578.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-soppalco-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5faa930ebec7aa77de19afb6/x/ae9bc599ba1cef06c8257f665b770705/_MG_9578.jpg"
       }
     ]
@@ -10569,8 +10776,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC__MG_9572.jpg",
         "alt": "Pavimento in legno soppalco lecco(LC)__MG_9572.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-soppalco-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbe5be05b59d597fdef9f4/274caa880e604bf740f01395646548fd/_MG_9572.jpg"
       }
     ]
@@ -10868,8 +11080,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_4063.jpg",
         "alt": "Pavimento in legno bagno lecco(LC)_IMG_4063.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-bagno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b0fc544c9db25a996280/2000x3000/1dbf1952da13c7f41e2d9f4d5621b9e5/Galimberti-IMG_4243.jpg"
       }
     ]
@@ -11089,8 +11306,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_2611.jpg",
         "alt": "Pavimento in legno bagno monza(MB)_IMG_2611.jpg",
+=======
+        "where": "MB",
+        "alt": "Pavimento-in-legno-bagno-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/590c45d99379597f88f92f2b/22bf0d8fbef5949dc8856f39cb072bda/Galimberti-IMG_2611.jpg"
       }
     ]
@@ -11310,8 +11532,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC-2.jpg",
         "alt": "Pavimento in legno lecco(LC) 2.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9a935a449a3d5bd2f0305/3000x1999/794b3816ec10985826e4e7a1b464532e/Galimberti-2.jpg"
       }
     ]
@@ -11531,8 +11758,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VA_IMG_0903.jpg",
         "alt": "Pavimento in legno ufficio varese(VA)_IMG_0903.jpg",
+=======
+        "where": "VA",
+        "alt": "Pavimento-in-legno-ufficio-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/573452cd6d65841d56978809/1700x1133/6d6d9e1f3bdb8c32d504428bf6b2bb9b/Galimberti-IMG_0903.jpg"
       }
     ]
@@ -11803,8 +12035,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VA_IMG_0996.jpg",
         "alt": "Pavimento in legno ufficio varese(VA)_IMG_0996.jpg",
+=======
+        "where": "VA",
+        "alt": "Pavimento-in-legno-ufficio-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/57345323d5d91624a2510584/1133x1700/52ced83ff58038e007230283a4b17a2a/Galimberti-IMG_0980.jpg"
       }
     ]
@@ -12024,8 +12261,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_1935.jpg",
         "alt": "Pavimento in legno palestra canton ticino(Canton Ticino)_IMG_1935.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Pavimento-in-legno-palestra-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/582ecadcec97d20e190d0dbf/b9636e1373bd590722c57b321dd5fc88/Galimberti-IMG_1935.jpg"
       }
     ]
@@ -12245,8 +12487,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_4003.jpg",
         "alt": "Pavimento in legno negozio lecco(LC)_IMG_4003.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-negozio-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b0f97802dfd26f6cd363/3000x2000/0d0ae48a7cfaa3e2d42abfb681026cbe/Galimberti-IMG_4003.jpg"
       }
     ]
@@ -12466,8 +12713,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_1958.jpg",
         "alt": "Pavimento in legno sala medica canton ticino(Canton Ticino)_IMG_1958.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Pavimento-in-legno-sala-medica-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/582ecaebda14864b8283a742/eee792664f3deeec500e7d0d2e9be1f4/Galimberti-IMG_1958.jpg"
       }
     ]
@@ -12687,8 +12939,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VA_IMG_5329.jpg",
         "alt": "Pavimento in legno palestra varese(VA)_IMG_5329.jpg",
+=======
+        "where": "VA",
+        "alt": "Pavimento-in-legno-palestra-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b1768b2d4e1e5a0c2818/3000x2000/7c4e2e2ec51ddc59a89d878957021522/Galimberti-IMG_5329.jpg"
       }
     ]
@@ -12986,8 +13243,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VA_IMG_5308.jpg",
         "alt": "Pavimento in legno palestra varese(VA)_IMG_5308.jpg",
+=======
+        "where": "VA",
+        "alt": "Pavimento-in-legno-palestra-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b0fe9cd371ef61d3b0ff/2000x3000/f11659540ab6f144a8c6ec0665ff14a9/Galimberti-IMG_5326.jpg"
       }
     ]
@@ -13207,8 +13469,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CH_NYT.jpg",
         "alt": "Pavimento in legno piscina canton ticino(CH)_NYT.jpg",
+=======
+        "where": "CH",
+        "alt": "Pavimento-in-legno-piscina-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/5703b6ac22f47221f7470c59/2000x3000/59d60d774ea59c656d751a04d4e8603f/NYT.jpg"
       }
     ]
@@ -13428,8 +13695,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_9859.jpg",
         "alt": "Pavimento in legno produzione lomagna(LC)_IMG_9859.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-produzione-lomagna",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b7e7816c40484e6407ce/3000x2000/173c4a754047073c38c24e119ac90222/Galimberti-IMG_9859.jpg"
       }
     ]
@@ -13649,8 +13921,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_9528.jpg",
         "alt": "Pavimento in legno produzione lomagna(LC)_IMG_9528.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-produzione-lomagna",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b9b17b2f6c1b226252eedc/2000x3000/fbf0c20dfc521ed7fce0f007d5aac86b/Galimberti-IMG_9528.jpg"
       }
     ]
@@ -13870,8 +14147,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CH_IMG_3550.jpg",
         "alt": "Pavimento in legno produzione canton ticino(CH)_IMG_3550.jpg",
+=======
+        "where": "CH",
+        "alt": "Pavimento-in-legno-produzione-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56d8110ea47b380f8c002a83/3000x2000/7a61906b39cee8a85516e592f153aaa5/Galimberti-IMG_3550.jpg"
       }
     ]

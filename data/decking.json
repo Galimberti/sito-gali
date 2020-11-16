@@ -214,8 +214,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI_IMG_1818.jpg",
         "alt": "Decking in legno terrazzo milano(MI)_IMG_1818.jpg",
+=======
+        "where": "MI",
+        "alt": "Decking-in-legno-terrazzo-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/582ec8545ffeb1b56f4d231a/5c8e9e966caffb9928048ef967ca6324/Galimberti-IMG_1818.jpg"
       }
     ]
@@ -435,8 +440,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_9553.jpg",
         "alt": "Decking in legno balcone monza(MB)_IMG_9553.jpg",
+=======
+        "where": "MB",
+        "alt": "Decking-in-legno-balcone-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56e2c83f1a32a0ce309589f2/3000x2000/8bb9e812432dbd8da05f71749be5cddb/Galimberti-IMG_9553.jpg"
       }
     ]
@@ -656,8 +666,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_0038.jpg",
         "alt": "Parquet per esterno piscina lecco(LC)_IMG_0038.jpg",
+=======
+        "where": "LC",
+        "alt": "Parquet-per-esterno-piscina-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e48108b7fca887fa0b795c/17e0d3ce5e2de74467baca33cbd70a52/Galimberti-IMG_0038.jpg"
       }
     ]
@@ -877,8 +892,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "COGalimberti-_MG_4010.jpg",
         "alt": "Pavimento in legno terrazzo como (CO)Galimberti _MG_4010.jpg",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-terrazzo-como-",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbd15c5f36085ce7d3392d/fa8ba86ddde8a468b0d0ff16e9e4eca0/Galimberti-_MG_4010.jpg"
       }
     ]
@@ -1098,8 +1118,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Milano - MI_IMG_1864.jpg",
         "alt": "Decking in legno terrazzo milano(Milano   MI)_IMG_1864.jpg",
+=======
+        "where": "Milano - MI",
+        "alt": "Decking-in-legno-terrazzo-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/582ec8ffaf91d7fb27c1808a/d24508d8e23fd0e41b8549d43e96cf24/Galimberti-IMG_1864.jpg"
       }
     ]
@@ -1319,8 +1344,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VA_MG_8786c.jpg",
         "alt": "Pavimento in legno piscina varese(VA)_MG_8786c.jpg",
+=======
+        "where": "VA",
+        "alt": "Pavimento-in-legno-piscina-varese",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbd14312283343a3010fcb/31116e705e93480df01006b5b5856f27/_MG_8786c.jpg"
       }
     ]
@@ -1618,10 +1648,18 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59eee1cd48f500d8402a87e3/0a6358c81e646af2923c75b9c42f464e/Galimberti-IMG_1117.jpg"
       },
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59eee1cd48f500d8402a87e3/e42836e7ffda588ecd76c843bb5074f7/Galimberti-IMG_1127.jpg"
       }
@@ -1842,8 +1880,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_8633.jpg",
         "alt": "Passerella in legno casa lecco(LC)_IMG_8633.jpg",
+=======
+        "where": "LC",
+        "alt": "Passerella-in-legno-casa-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c11251660e5cb8ce7cc7dd4/652458059c425562df51c0841ea6bb3c/Galimberti-IMG_8633.jpg"
       }
     ]
@@ -2141,8 +2184,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_0059.jpg",
         "alt": "Pavimento in legno piscina lecco(LC)_IMG_0059.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-piscina-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59e4814233df698cea2cf755/3bfd50fabe7a4e895238bd907dcd9a39/Galimberti-IMG_0059.jpg"
       }
     ]
@@ -2362,8 +2410,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Erba - CO_IMG_7870.jpg",
         "alt": "Decking in legno esterno casa como(Erba   CO)_IMG_7870.jpg",
+=======
+        "where": "Erba - CO",
+        "alt": "Decking-in-legno-esterno-casa-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59b10dc620a7ec559693ae59/71ede4e639bebe5eadb136578a44df9a/Galimberti-IMG_7870.jpg"
       }
     ]
@@ -2661,8 +2714,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_IMG_7813.jpg",
         "alt": "Pavimento in legno esterno villa como(CO)_IMG_7813.jpg",
+=======
+        "where": "CO",
+        "alt": "Pavimento-in-legno-esterno-villa-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59b10e076cd7409287ccbcac/40e20328549a6494d926615936df148d/Galimberti-IMG_7921.jpg"
       }
     ]
@@ -2882,8 +2940,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_8690.jpg",
         "alt": "Pavimento in legno portico cascina lecco(LC)_IMG_8690.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-portico-cascina-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56c2e458566b883a2906459f/3000x2000/8ef3cee7c0ff64a29efee0aa5124b449/Galimberti-IMG_8690.jpg"
       }
     ]
@@ -3103,8 +3166,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Lecco - LC_IMG_1108.jpg",
         "alt": "Decking in legno terrazzo lecco(Lecco   LC)_IMG_1108.jpg",
+=======
+        "where": "Lecco - LC",
+        "alt": "Decking-in-legno-terrazzo-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be174a57409ed1e289b0658/89d9012a6c0cbb30b0d3aa3e54d34c6f/Galimberti-IMG_1108.jpg"
       }
     ]
@@ -3402,8 +3470,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_1019.jpg",
         "alt": "Pavimento in legno giardino lecco(LC)_IMG_1019.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-giardino-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be1755806cedd603e4a39c0/d2d46d13e990ca84b2165a6da24a43bc/Galimberti-IMG_1048.jpg"
       }
     ]
@@ -3623,8 +3696,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "CO_DJI_0009.jpg",
         "alt": "Decking in legno esterno como(CO)_DJI_0009.jpg",
+=======
+        "where": "CO",
+        "alt": "Decking-in-legno-esterno-como",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59eee1a74f8268b89f616ffa/0aad5691619c7c2eb6e77c6d05d5c90b/Galimberti-DJI_0009.jpg"
       }
     ]
@@ -3844,8 +3922,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_9676.jpg",
         "alt": "Pavimento in legno piscina canton ticino(Canton Ticino)_IMG_9676.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Pavimento-in-legno-piscina-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57dff6372ff603dcae0fbb3e/d371ec347b3f630a32c82ed758c2e1ac/IMG_9676.jpg"
       }
     ]
@@ -4065,8 +4148,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_9718.jpg",
         "alt": "Pavimento in legno doccia canton ticino(Canton Ticino)_IMG_9718.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Pavimento-in-legno-doccia-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57dff6a6dda963b595058e80/2eca18396703c14fb8d1f5cb752136f9/IMG_9718.jpg"
       }
     ]
@@ -4286,8 +4374,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_9783.jpg",
         "alt": "Decking in legno terrazzo canton ticino(Canton Ticino)_IMG_9783.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Decking-in-legno-terrazzo-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57dff67c1968ee3ba7239521/b7548e1e64b830e9580182e9e42dbce1/IMG_9783.jpg"
       }
     ]
@@ -4585,8 +4678,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_5837.jpg",
         "alt": "Pavimento in legno esterno villa canton ticino(Canton Ticino)_IMG_5837.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Pavimento-in-legno-esterno-villa-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/59b10d3202ff4312a64d6a99/01b63e5200708f8611628068199f8f20/Galimberti-IMG_5816.jpg"
       }
     ]
@@ -4806,8 +4904,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_8467.jpg",
         "alt": "Passerella in legno parco canton ticino(Canton Ticino)_IMG_8467.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Passerella-in-legno-parco-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/57c4312532af813b17dcc2a2/3000x2000/d2261f60479e2d54cf041ce4c4fb2bd0/IMG_8467.jpg"
       }
     ]
@@ -5105,8 +5208,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MB_IMG_3147.jpg",
         "alt": "Passerella in legno parco monza(MB)_IMG_3147.jpg",
+=======
+        "where": "MB",
+        "alt": "Passerella-in-legno-parco-monza",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4c491bd5106fd0f1b6516/2000x3000/70e91dc06c4ed64916dafc136bb31a90/Galimberti-IMG_3147.jpg"
       }
     ]
@@ -5326,8 +5434,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_Lugano_parco_ciani.jpg",
         "alt": "Passerella in legno lago canton ticino(Canton Ticino)_Lugano_parco_ciani.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Passerella-in-legno-lago-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/57c7e1bb9d871d2f737b905e/1854x1113/e3b422b258272deb966026cbf84a987f/Lugano_parco_ciani.jpg"
       }
     ]
@@ -5625,8 +5738,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "Canton Ticino_IMG_8503.jpg",
         "alt": "Passerella in legno parco canton ticino(Canton Ticino)_IMG_8503.jpg",
+=======
+        "where": "Canton Ticino",
+        "alt": "Passerella-in-legno-parco-canton-ticino",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/57c43228bb3ad6e52148ec57/2000x3000/31fb3fce6571eaee64c063b651a6231b/IMG_8580.jpg"
       }
     ]
@@ -5924,8 +6042,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_8792.jpg",
         "alt": "Pavimento in legno esterno casa lecco(LC)_IMG_8792.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-esterno-casa-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56c2e7e1eea043e6c3fe8548/2000x3000/0eeb796782fc347daf1219a4009bec9d/Galimberti-IMG_8770.jpg"
       }
     ]
@@ -6223,8 +6346,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_8732.jpg",
         "alt": "Pavimento in legno esterno villa lecco(LC)_IMG_8732.jpg",
+=======
+        "where": "LC",
+        "alt": "Pavimento-in-legno-esterno-villa-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56c2e63c7ae933bfdd2a3f55/2000x3000/3ac1065c95742c38a2b6a3e3da3a3411/Galimberti-IMG_8744.jpg"
       }
     ]
@@ -6444,8 +6572,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "LC_IMG_1805.jpg",
         "alt": "Decking in legno giardino lecco(LC)_IMG_1805.jpg",
+=======
+        "where": "LC",
+        "alt": "Decking-in-legno-giardino-lecco",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b4c39e3071524e326f770a/3000x2000/1bfec0e3b4954e0bb84a2e51d804fb43/Galimberti-IMG_1805.jpg"
       }
     ]
@@ -6665,8 +6798,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "VB_IMG_5540.jpg",
         "alt": "Pavimento in legno piscina verbania(VB)_IMG_5540.jpg",
+=======
+        "where": "VB",
+        "alt": "Pavimento-in-legno-piscina-verbania",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b99bdd8fa54103f45c14f1/3000x2000/81311de6016bc8e788b707ae4b591e62/Galimberti-IMG_5540.jpg"
       }
     ]
@@ -6964,8 +7102,13 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
         "where": "MI_IMG_5778.jpg",
         "alt": "Pavimento in legno giardino milano(MI)_IMG_5778.jpg",
+=======
+        "where": "MI",
+        "alt": "Pavimento-in-legno-giardino-milano",
+>>>>>>> Staging
         "url": "https://galimberti.imgix.net/56b99c7db028364c5d415306/2000x3000/cc286a616161c11ed6ed5c15df6dd3b0/Galimberti-IMG_5716_7_8_tonemapped.jpg"
       }
     ]

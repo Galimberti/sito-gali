@@ -205,6 +205,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Cartelle di legno di rovere per lavori di falegnameria",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be17d216e2e3d6cb035d2db/af6ab3aeb81c9590d24ffc8b8a5695f3/Galimberti-IMG_0489.jpg"
       }
@@ -416,6 +417,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Essenze cartelle legno",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be17d865d9dbf1c742bff87/3f19f9f012b0af62314443596cb61607/Galimberti-IMG_0570.jpg"
       }
@@ -627,6 +629,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Pacco cartelle rovere",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c1a5b3fde8de0336a4add1a/fc784f0a939d71e457f6b7eb3e6e9ff2/Galimberti-IMG_0017.jpg"
       }
@@ -838,6 +841,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Bindella lamelle",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c1a5b324ceba04504ec67ad/8776d6dcaedebfcb812aaa031f5c51bd/Galimberti-IMG_0002.jpg"
       }
@@ -1049,6 +1053,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Catasta di legname tavole di rovere",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be17cf06a1e5977264834e0/59c51b16d99f17dbf3674abd621ebd6f/Galimberti-IMG_0469.jpg"
       }
@@ -1338,10 +1343,18 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c1a5b89c6eac06165198ad8/f3c489ac2b882a953d926b3ed370dc6b/Galimberti-IMG_0024.jpg"
       },
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c1a5b89c6eac06165198ad8/04390a4032cd64b4ce45c371d5ad06b7/Galimberti-IMG_0026.jpg"
       }
@@ -1553,6 +1566,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Magazzino interno Galimberti legno e bioedilizia",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be1810aedb17969559bf538/c5e38c68ef4845b703555c4e82b0756a/Galimberti-IMG_9859.jpg"
       }
@@ -1842,10 +1856,18 @@
     ],
     "_images": [
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be1814c159438806f913817/d34858af093f0611185a75a24bca1e0e/Galimberti-IMG_9684.jpg"
       },
       {
+<<<<<<< HEAD
+=======
+        "where": null,
+>>>>>>> Staging
         "alt": "",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be1814c159438806f913817/a9d10844b896ad33ee75e18908601765/Galimberti-IMG_9693.jpg"
       }
@@ -2057,6 +2079,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Calibratrice per cartelle in legno",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c1a5b650ed19a72e3033fd8/a7a88b700be90c5955faf12126ef0d37/Galimberti-IMG_0022.jpg"
       }
@@ -2268,6 +2291,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Magazzino Galimberti legno e bioedilizia",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be1808ea1552f74db2a8687/f769dda276c6acae7944134bbc472ea5/Galimberti-IMG_7790.jpg"
       }
@@ -2479,6 +2503,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Azienda Galimberti legno e bioedilizia ripresa con drone",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be17ef708651c839bffbe23/fc22ead6c826806c3f8bed46ba70f07f/FB3_1550.jpg"
       }
@@ -2690,6 +2715,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Tavola di cedro massello per tavoli",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5b1e3c8af8f97a6cdcface19/0d9d670a62d7442402136932f79f48d4/Galimberti-Tavola_60.jpg"
       }
@@ -2901,6 +2927,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Tavola di Cedro per arredi in legno",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5b1e3c55b2cce9a3cb4e436c/0a907cd976539b2679c349ae95bd02f8/Galimberti-Tavola_51.jpg"
       }
@@ -3112,6 +3139,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Tavola di rovere",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5b1e3cb12c63ad184edaa8ac/9d6f175feae90d931d9591f7f77eb256/Galimberti-Tavola_67.jpg"
       }
@@ -3323,6 +3351,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Tavola con radica di rovere",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5b1e3d4111a1be99b44381fd/5aca7101ece8bdf07af87fdd9e5f873a/Galimberti-Tavola_75.jpg"
       }
@@ -3534,6 +3563,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "Tavola di rovere per tavolo",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5b1e3d7e6263517e8c30ff8f/8595b827e993e37fcffecf3e92027e20/Galimberti-Tavola_85.jpg"
       }

@@ -50,7 +50,7 @@ $lead-font-weight: 300;
 @import 'src/bootstrap/bootstrap-4.1.3.scss';
 
 body {
-  max-width: 1700px;
+  max-width: 1980px;
   margin:auto;
   position:relative;
   height:100%;
@@ -97,7 +97,7 @@ html {
 }
 
 .trello img      {
-  cursor : zoom-in;
+  // cursor : zoom-in;
 }
 
 #persone .card {
@@ -184,7 +184,8 @@ html {
 }
 
 .cover-image {
- 		background-position: center;
+    background-position: center center;
+    background-size: cover;
     position:relative;
     min-height: 330px !important;
     padding-top: 4%;
@@ -199,7 +200,15 @@ html {
       top:0px;      
       background: linear-gradient(-25deg, rgba(244, 126, 67, 0.8) 0%, rgba(24, 12, 6, 0.8) 100%);
     }
+    &.transparent {
+      > *:first-child:before {
+        background: linear-gradient(-25deg, rgba(0, 0,0, 0.0) 0%, rgba(0, 0, 0, 0.3) 100%) !important;
+        // background: transparent !important;
+      }
+    }
 }
+
+
 
 .filter-dark {
   overflow: hidden;
@@ -266,7 +275,7 @@ nav .separator {
 }
 
 #photos img:hover {
-  cursor: zoom-in;
+  // cursor: zoom-in;
 }
 
 #photos .title {
