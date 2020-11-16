@@ -97,7 +97,7 @@ html {
 }
 
 .trello img      {
-  cursor : zoom-in;
+  // cursor : zoom-in;
 }
 
 #persone .card {
@@ -200,7 +200,15 @@ html {
       top:0px;      
       background: linear-gradient(-25deg, rgba(244, 126, 67, 0.8) 0%, rgba(24, 12, 6, 0.8) 100%);
     }
+    &.transparent {
+      > *:first-child:before {
+        background: linear-gradient(-25deg, rgba(0, 0,0, 0.0) 0%, rgba(0, 0, 0, 0.3) 100%) !important;
+        // background: transparent !important;
+      }
+    }
 }
+
+
 
 .filter-dark {
   overflow: hidden;
@@ -267,7 +275,7 @@ nav .separator {
 }
 
 #photos img:hover {
-  cursor: zoom-in;
+  // cursor: zoom-in;
 }
 
 #photos .title {
