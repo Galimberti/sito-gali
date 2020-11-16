@@ -217,7 +217,7 @@
     "_images": [
       {
         "where": "Civate - LC",
-        "alt": "Casa in legno prefabbricata (Civate   LC)",
+        "alt": "Casa in legno prefabbricata ",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5dcbba203295772ec4d129a7/b844df0ed80fee140437058ebef4be6e/_MG_5461.jpg"
       }
     ]
@@ -437,8 +437,8 @@
     ],
     "_images": [
       {
-        "where": "Sirtori - LC_IMG_8842.jpg",
-        "alt": "Villa in legno prefabbricata lecco(Sirtori   LC)_IMG_8842.jpg",
+        "where": "Sirtori - LC",
+        "alt": "Villa-in-legno-prefabbricata-lecco",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c1123ed89aa038d646e13d3/95505242899b8a2c4d7fb0fffb67e208/Galimberti-IMG_8842.jpg"
       }
     ]
@@ -658,8 +658,8 @@
     ],
     "_images": [
       {
-        "where": "Tavernerio - CO_DJI_0178.jpg",
-        "alt": "Villa in legno Prefabbricata como(Tavernerio   CO)_DJI_0178.jpg",
+        "where": "Tavernerio - CO",
+        "alt": "Villa-in-legno-Prefabbricata-como",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5e04e446a79f21872e87639b/x/9f720701e2f8e39a941a14385139fbd2/Galimberti-DJI_0178.jpg"
       }
     ]
@@ -879,6 +879,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "cosa dicono di noi i clienti della Galimberti legno e bioedilizia",
         "url": "https://galimberti.imgix.net/56d6fb113db561cfdc84e47a/1800x568/63f0693f73b93396b4ce8a8bee74f1c7/Galimberti_testimonial_Aliprandi.jpg"
       }
@@ -1099,8 +1100,8 @@
     ],
     "_images": [
       {
-        "where": "Piani dei Resinelli - LC_IMG_4968.jpg",
-        "alt": "Casa in legno montagna lecco(Piani dei Resinelli   LC)_IMG_4968.jpg",
+        "where": "Piani dei Resinelli - LC",
+        "alt": "Casa-in-legno-montagna-lecco",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5947d2cf80669a7d112cdab5/38ab736303e8a5f58e9920c8ee17277d/Galimberti-IMG_4968.jpg"
       }
     ]
@@ -1322,8 +1323,8 @@
     ],
     "_images": [
       {
-        "where": "Santa-Maria-Hoè - LC_IMG_9608b.jpg",
-        "alt": "Casa in legno prefabbricata lecco(Santa Maria Hoè   LC)_IMG_9608b.jpg",
+        "where": "Santa-Maria-Hoè - LC",
+        "alt": "Casa-in-legno-prefabbricata-lecco",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5fa12f3a55d72c87634c4614/d08084e633fc3d1e620253a846789ae3/Case-in-legno-Bioedilizia-Portico-Galimberti-IMG_9608b.jpg"
       }
     ]
@@ -1543,8 +1544,8 @@
     ],
     "_images": [
       {
-        "where": "Lomagna - LC_IMG_8805.jpg",
-        "alt": "Casa in legno prefabbricata lecco(Lomagna   LC)_IMG_8805.jpg",
+        "where": "Lomagna - LC",
+        "alt": "Casa-in-legno-prefabbricata-lecco",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5fa1219a7574232fceab60f9/53f766bfa6e9ffcf850bfe00f3395067/Case-in-legno-Prefabbricate_IMG_8805.jpg"
       }
     ]
@@ -1764,6 +1765,7 @@
     ],
     "_images": [
       {
+        "where": null,
         "alt": "referenze clienti Galimberti legno e bioedilizia",
         "url": "https://galimberti.imgix.net/56d6fb3bb2d712d49cf55475/1800x568/475e8f083a364762b37ef949479d1a80/Galimberti_testimonial_Marzia.jpg"
       }
@@ -1984,8 +1986,8 @@
     ],
     "_images": [
       {
-        "where": "prov. MI_IMG_8691.jpg",
-        "alt": "Casa in legno veranda lecco(prov. MI)_IMG_8691.jpg",
+        "where": "prov. MI",
+        "alt": "Casa-in-legno-veranda-lecco",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c112430bc82d16a38de6263/d6240cf533a43890310963c6ba075e38/Galimberti-IMG_8691.jpg"
       }
     ]
@@ -2283,8 +2285,8 @@
     ],
     "_images": [
       {
-        "where": "prov. VA_IMG_8812.jpg",
-        "alt": "Casa in legno soppalco varese(prov. VA)_IMG_8812.jpg",
+        "where": "prov. VA",
+        "alt": "Casa-in-legno-soppalco-varese",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c1124819790cc1ff72de99c/d4e58c47296db724604c308164769d6a/Galimberti-IMG_8700.jpg"
       }
     ]
@@ -2504,8 +2506,8 @@
     ],
     "_images": [
       {
-        "where": "prov. MI_MG_4215.jpg",
-        "alt": "Casa in legno soggiorno milano(prov. MI)_MG_4215.jpg",
+        "where": "prov. MI",
+        "alt": "Casa-in-legno-soggiorno-milano",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5fa14dd399aaac327e63b944/ddce9989aa052627f94efc651862237c/Galimberti-_MG_4215.jpg"
       }
     ]
@@ -2725,8 +2727,8 @@
     ],
     "_images": [
       {
-        "where": "prov. MI_IMG_8783.jpg",
-        "alt": "Casa in legno scala milano(prov. MI)_IMG_8783.jpg",
+        "where": "prov. MI",
+        "alt": "Casa-in-legno-scala-milano",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5c11244c54ac9e3d1476b0a7/42a05a9db8d0ee775f31810c9b151af5/Galimberti-IMG_8783.jpg"
       }
     ]
@@ -2946,8 +2948,8 @@
     ],
     "_images": [
       {
-        "where": "Tavernerio - CO_IMG_4276.jpg",
-        "alt": "Casa in legno camera como(Tavernerio   CO)_IMG_4276.jpg",
+        "where": "Tavernerio - CO",
+        "alt": "Casa-in-legno-camera-como",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5fa14e5f28c6fc10f391490e/92e764352df81b0d0051152cb98b1aa2/Galimberti-_MG_4276.jpg"
       }
     ]
@@ -3245,8 +3247,8 @@
     ],
     "_images": [
       {
-        "where": "Arona-NO_IMG_9428.jpg",
-        "alt": "Casa in legno prefabbricata novara(Arona NO)_IMG_9428.jpg",
+        "where": "Arona-NO",
+        "alt": "Casa-in-legno-prefabbricata-novara",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5be175f8247dcd1932338bda/084d6551503517710620a451b7ef3ee6/Galimberti-IMG_9416.jpg"
       }
     ]
@@ -3323,6 +3325,7 @@
     "attachments": [],
     "_images": [
       {
+        "where": null,
         "alt": "video di una costruzione di una casa in legno prefabbricata",
         "url": ""
       }
@@ -3400,6 +3403,7 @@
     "attachments": [],
     "_images": [
       {
+        "where": null,
         "alt": "casa legno prefabbricata video",
         "url": ""
       }
@@ -3620,8 +3624,8 @@
     ],
     "_images": [
       {
-        "where": "Produzione Lomagna - LC_IMG_0729.jpg",
-        "alt": "Casa in legno costruzione lecco(Produzione Lomagna   LC)_IMG_0729.jpg",
+        "where": "Produzione Lomagna - LC",
+        "alt": "Casa-in-legno-costruzione-lecco",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/5fa161d10b4ba37aec0a38c1/56b230b3ce8bebf19b6ab4c3e02744c6/Galimberti-IMG_0729.jpg"
       }
     ]
@@ -3841,8 +3845,8 @@
     ],
     "_images": [
       {
-        "where": "Produzione - Lomagna - LC_IMG_5589.jpg",
-        "alt": "Casa in legno trasporto monza(Produzione   Lomagna   LC)_IMG_5589.jpg",
+        "where": "Produzione - Lomagna - LC",
+        "alt": "Casa-in-legno-trasporto-monza",
         "url": "https://galimberti.imgix.net/56b9b815b9656015e321ff08/3000x2000/96c40d3ecdd30836770540b59bb6aae8/Galimberti-IMG_5589.jpg"
       }
     ]
@@ -4062,8 +4066,8 @@
     ],
     "_images": [
       {
-        "where": "Correzzana - MB_IMG_1617.JPG",
-        "alt": "Casa in legno montaggio monza(Correzzana   MB)_IMG_1617.JPG",
+        "where": "Correzzana - MB",
+        "alt": "Casa-in-legno-montaggio-monza",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57e243ca1143989f22ef09b6/2bb90f279eb8f4ba2250559f0d320c7d/IMG_1617.JPG"
       }
     ]
@@ -4283,8 +4287,8 @@
     ],
     "_images": [
       {
-        "where": "MB_IMG_1592.JPG",
-        "alt": "Casa in legno montaggio parete monza(MB)_IMG_1592.JPG",
+        "where": "MB",
+        "alt": "Casa-in-legno-montaggio-parete-monza",
         "url": "https://galimberti.imgix.net/56b07e4f26b8d62379a1dd42/57e24bd76bcea6c7e94d485d/69f9b5d6d06b1e7d3045de47f37fc34e/IMG_1592.JPG"
       }
     ]
@@ -4504,8 +4508,8 @@
     ],
     "_images": [
       {
-        "where": "Lesmo - MB_",
-        "alt": "Case in legno interrati monza(Lesmo   MB)_(98).jpg",
+        "where": "Lesmo - MB",
+        "alt": "Case-in-legno-interrati-monza",
         "url": "https://galimberti.imgix.net/56e298ddec518bcff11003f8/3000x2000/19c3660e638f830568dc07dfbbbf6413/Galimberti-Posa_pareti_(98).jpg"
       }
     ]
