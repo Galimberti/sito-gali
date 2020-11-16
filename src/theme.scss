@@ -50,7 +50,7 @@ $lead-font-weight: 300;
 @import 'src/bootstrap/bootstrap-4.1.3';
 
 body {
-  max-width: 1700px;
+  max-width: 1980px;
   margin:auto;
   position:relative;
   height:100%;
@@ -184,7 +184,8 @@ html {
 }
 
 .cover-image {
- 		background-position: center;
+    background-position: center center;
+    background-size: cover;
     position:relative;
     min-height: 330px !important;
     padding-top: 4%;
