@@ -135,16 +135,16 @@ gulp.task("watch", ["build"], function() {
     // watch main file
     gulp.watch(config.main, function() {
         var task = pipes.buildMain();
-        util.log("updated", "'" + util.colors.red("main file") + "'");
+        util.log("updated", "" + util.colors.red("main file") + "");
         return task;
     });
 
     // watch plugins
     gulp.watch(config.plugins, function() {
         var task = pipes.buildPlugins();
-        util.log("updated", "'" + util.colors.red("plugins") + "'");
+        util.log("updated", "" + util.colors.red("plugins") + "");
         pipes.concatPlugins();
-        util.log("updated", "'" + util.colors.red("concatenated plugins file") + "'");
+        util.log("updated", "" + util.colors.red("concatenated plugins file") + "");
         return task;
     });
 });

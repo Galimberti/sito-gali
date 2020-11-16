@@ -20,7 +20,7 @@
         document.getElementById("navbar-cover").remove()
     });
     window.addEventListener("scroll", function() {
-        var scroll = $(window).scrollTop();
+        var scroll = window.scrollY;
         console.log("scroll", scroll);
         if (scroll > 15) unstyle(document.querySelector(".navbar.fixed-top"));
         else style(document.querySelector(".navbar.fixed-top"))

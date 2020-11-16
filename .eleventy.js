@@ -3,30 +3,29 @@ const pluginSass = require("eleventy-plugin-sass");
 
 module.exports = function(eleventyConfig) {
 
-  
+  eleventyConfig.addPlugin(pluginSass, {"remap":true});
+
   eleventyConfig.setEjsOptions({
     openDelimiter: "{{",
     closeDelimiter: "}}"
   });
   eleventyConfig.addPlugin(pluginPingendo);
 
-
-  // eleventyConfig.addPassthroughCopy("*.html");
+  eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.setDynamicPermalinks(true);
  
-  eleventyConfig.addPlugin(pluginSass, {"remap":true});
 
   return {
     templateFormats: [
       "ejs",
       "md",
       "html",
-      "js",
       "yml",
       "jpg",
-      "scss",
-      "css" // css is not yet a recognized template extension in Eleventy
+      "png",
+      "ttf",
+      "otf"
     ],
 
 
@@ -37,7 +36,6 @@ module.exports = function(eleventyConfig) {
     dataTemplateEngine: "ejs",
     dir: {
       input: "src",
-      includes: "_includes",
       output: "build"
     }
   };

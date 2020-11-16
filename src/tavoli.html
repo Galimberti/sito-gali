@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- CSS dependencies -->
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="theme.css" type="text/css">
+  <link rel="stylesheet" href="/theme.css" type="text/css">
   <!-- PAGE settings -->
-  <link rel="icon" href="assets/azienda/galimberti_favicon.png">
+  <link rel="icon" href="/assets/azienda/galimberti_favicon.png">
   <title>Tavoli e arredi</title>
   <meta name="description" content="Legno massello per arredi naturali e pregiati. Tavole uniche per dimensioni o disegni particolari vengono selezionate, lavorate e finite per esaltare le qualità del materiale.">
   <meta name="keywords" content="tavolame legname tavole tavoli sedie panchine sedute legno grezzo arredo massello">
@@ -30,12 +30,12 @@
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <!-- Navbar script -->
-  <script src="navbar.js"></script>
+  <script src="/js/navbar.js"></script>
 </head>
 
 <body class="text-center">
   <div pi-include="../_includes/_navbar.html"></div>
-  <div class="section d-flex align-items-center h-75 cover-image" id="cover" style="background-image: url(assets/azienda/tavoli_cover.jpg);">
+  <div class="section d-flex align-items-center h-75 cover-image" id="cover" style="background-image: url(/assets/azienda/tavoli_cover.jpg);">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -76,7 +76,7 @@
           <p class="d-none d-md-block mt-3">Sei interessato a qualche elemento in particolare?&nbsp; <br>Hai dei dubbi o vuoi sapere qualcosa in più sulle finiture?</p>
         </div>
         <div class="col-lg-2 col-md-4 col-8 mx-auto py-3">
-          <img class="img-fluid" src="assets/azienda/mattiamuzio.jpg" alt="ing. Mattia Muzio progettista"> </div>
+          <img class="img-fluid" src="/assets/azienda/mattiamuzio.jpg" alt="ing. Mattia Muzio progettista"> </div>
         <div class="col-lg-4 col-md-8 py-3">
           <h4 class="text-white">
             <i class="fa fa-arrow-circle-right fa-fw text-primary"></i>
@@ -98,7 +98,8 @@
       </div>
     </div>
   </div>
-  <div pi-include="../_includes/_trello-gallery.html'" ht-include-context="{lista:data.tavoli}"></div>
+  {{%- include('../_includes/_trello-gallery.html', {obj: tavoli}) %}}
+
   <div class="section bg-primary py-4 text-left mt-3" id="CTA_2">
     <div class="container">
       <div class="row">
@@ -110,7 +111,7 @@
           <p class="d-none d-md-block mt-3">Hai visto qualcosa di tuo interesse? <br>Vorresti fare delle domande per saperne di più?</p>
         </div>
         <div class="col-lg-2 col-md-4 py-3 mx-auto col-8">
-          <img class="img-fluid" src="assets/azienda/mattiamuzio.jpg" alt="ing. Mattia Muzio progettista"> </div>
+          <img class="img-fluid" src="/assets/azienda/mattiamuzio.jpg" alt="ing. Mattia Muzio progettista"> </div>
         <div class="col-lg-4 col-md-8 py-3">
           <h4 class="text-white">
             <i class="fa fa-arrow-circle-right fa-fw text-dark"></i>
@@ -133,12 +134,12 @@
     </div>
   </div>
   <div pi-include="../_includes/_footer.html"></div>
-  <div pi-include="../_includes/_modal-muzio.html'"></div>
+  <div pi-include="../_includes/_modal-muzio.html"></div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.8/umd/popper.js"></script>
-  <script src="bootstrap.min.js"></script>
-  <script src="trello-connect.js" type="text/javascript"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/trello-connect.js" type="text/javascript"></script>
 </body>
 
 </html>

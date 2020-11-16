@@ -305,7 +305,7 @@
 
                 // set placeholder on every element without background image
                 else if (tag !== _img && placeholder && (!element.css(_backgroundImage) || element.css(_backgroundImage) === 'none')) {
-                    element.css(_backgroundImage, "url('" + placeholder + "')");
+                    element.css(_backgroundImage, "url(" + placeholder + "')");
                 }
             }
 
@@ -478,7 +478,7 @@
                                .attr(_src, imageObj.attr(_src));
                     }
                     else {
-                        element.css(_backgroundImage, "url('" + imageObj.attr(_src) + "')");
+                        element.css(_backgroundImage, "url(" + imageObj.attr(_src) + "')");
                     }
 
                     // bring it back with some effect!

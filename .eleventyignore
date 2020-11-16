@@ -1,4 +1,3 @@
-.eleventy.js
+/.eleventy.js
 build
 node_modules
-**/*.js

@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- CSS dependencies -->
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="theme.css" type="text/css">
+  <link rel="stylesheet" href="/theme.css" type="text/css">
   <!-- PAGE settings -->
-  <link rel="icon" href="assets/azienda/galimberti_favicon.png">
+  <link rel="icon" href="/assets/azienda/galimberti_favicon.png">
   <title>Case in legno</title>
   <meta name="description" content="Produzione di case prefabbricate in legno, grezze, semifinite o chiavi in mano, incluso interrato. Lavoriamo prevalentemente tra Lombardia e Canton Ticino.">
   <meta name="keywords" content="case prefabbricate in legno prezzo fisso fondazioni interrati galimberti bioedilizia produzione passive sopralzi">
@@ -30,12 +30,12 @@
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <!-- Navbar script -->
-  <script src="navbar.js"></script>
+  <script src="/js/navbar.js"></script>
 </head>
 
 <body class="text-center">
   <div pi-include="../_includes/_navbar.html"></div>
-  <div class="section d-flex align-items-center text-center h-75 cover-image" id="cover" style="background-image: url(assets/azienda/case_cover.jpg);">
+  <div class="section d-flex align-items-center text-center h-75 cover-image" id="cover" style="background-image: url(/assets/azienda/case_cover.jpg);">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -65,7 +65,7 @@
             <i class="fa fa-graduation-cap fa-fw fa-lg text-primary"></i>&nbsp;Certificabili</h3>
           <p>I nostri involucri standard utilizzano materiali ecologici ed offrono&nbsp;prestazioni adatte ai diversi livelli di certificazione Casaclima, Minergie o Arca.</p>
           <div class="col-lg-12 d-none d-lg-block py-0">
-            <img class="d-block img-fluid w-50 mx-auto py-2 px-3" src="assets/azienda/certificazioni-icona-logo.png" alt="loghi certificazioni case in legno" width="150
+            <img class="d-block img-fluid w-50 mx-auto py-2 px-3" src="/assets/azienda/certificazioni-icona-logo.png" alt="loghi certificazioni case in legno" width="150
 100
 75
 100
@@ -88,7 +88,7 @@
           <p class="d-none d-md-block mt-3">Ti stai documentando sulle case in legno ma ti sono rimasti dei dubbi? <br>Sei interessato a referenze nella tua zona?</p>
         </div>
         <div class="col-lg-2 col-md-4 col-8 mx-auto py-3">
-          <img class="img-fluid" src="assets/azienda/michelevigano.jpg" alt="ing. Michele Vigano progettista"> </div>
+          <img class="img-fluid" src="/assets/azienda/michelevigano.jpg" alt="ing. Michele Vigano progettista"> </div>
         <div class="col-lg-4 col-md-8 py-3">
           <h4 class="text-white">
             <i class="fa fa-arrow-circle-right fa-fw text-primary"></i>
@@ -110,7 +110,8 @@
       </div>
     </div>
   </div>
-  <div pi-include="../_includes/_trello-gallery.html'" ht-include-context="{lista:data.caseinlegno}"></div>
+  {{%- include('../_includes/_trello-gallery.html', {obj: caseinlegno}) %}}
+
   <div class="section bg-primary text-left py-4 mt-3" id="CTA_2">
     <div class="container">
       <div class="row">
@@ -122,7 +123,7 @@
           <p class="d-none d-md-block mt-3">Vuoi costruire una casa in legno ma hai ancora dei dubbi? <br>Parlare con un progettista potrebbe aiutarti a decidere?</p>
         </div>
         <div class="col-lg-2 col-md-4 py-3 mx-auto col-8">
-          <img class="img-fluid" src="assets/azienda/michelevigano.jpg" alt="ing. Michele Vigano progettista"> </div>
+          <img class="img-fluid" src="/assets/azienda/michelevigano.jpg" alt="ing. Michele Vigano progettista"> </div>
         <div class="col-lg-4 col-md-8 py-3">
           <h4 class="text-white">
             <i class="fa fa-arrow-circle-right fa-fw text-dark"></i>
@@ -144,7 +145,7 @@
       </div>
     </div>
   </div>
-  <div class="filter-dark" style="background-image: url(assets/azienda/concorso_cover.jpg); background-position: center center;">
+  <div class="filter-dark" style="background-image: url(/assets/azienda/concorso_cover.jpg); background-position: center center;">
     <div class="container my-5">
       <div class="row">
         <div class="text-light text-left col-sm-9">
@@ -159,12 +160,12 @@
     </div>
   </div>
   <div pi-include="../_includes/_footer.html"></div>
-  <div pi-include="../_includes/_modal-vigano.html'"></div>
+  <div pi-include="../_includes/_modal-vigano.html"></div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.8/umd/popper.js"></script>
-  <script src="bootstrap.min.js"></script>
-  <script src="trello-connect.js" type="text/javascript"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/trello-connect.js" type="text/javascript"></script>
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",

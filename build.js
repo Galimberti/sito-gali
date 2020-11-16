@@ -35,7 +35,7 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
                 })
         })
 
-        fs.writeFile("data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});
+        fs.writeFile("src/_data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});
 
     })
 })
