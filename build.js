@@ -39,7 +39,17 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
                 })
         })
 
-        fs.writeFile("src/_data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});
+            // get="#{{person.id}}" data-toggle="modal">
+            // <img class="card-img-top img-fluid" src="{{ person.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') + '?auto=compress,format' }}" alt="Card image">
+            // <div class="card-block">
+            //   <h5 class="nome_contatti d-none d-md-block">{{person.name}}</h5>
+            //   <h6 class="nome_contatti d-md-none d-xs-block">{{person.name}}</h6>
+            //   <p class="ruolo_contatti d-none d-md-block">{{ person.desc.split("\n")[0]}}</p>
+    
+        if(l.name == "persone.html")
+            console.log( lc)
+        else
+            fs.writeFile("src/_data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});
 
     })
 })
