@@ -84,7 +84,10 @@
       </div>
     </div>
   </div>
+
   <div ht-include="'src/_trello-gallery.html'" ht-include-context="{lista:data.parquet}"></div>
+  <div ht-if="data.parquet_old" ht-include="'src/_trello-gallery-archive.html'" ht-include-context="{lista:data.parquet_old}"></div>
+
   <div class="section bg-primary text-left py-4 mt-3" id="CTA_2">
     <div class="container">
       <div class="row">
