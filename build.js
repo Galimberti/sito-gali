@@ -1,5 +1,7 @@
 const fs = require('fs');
 const http = require('https')
+const yaml = require('js-yaml');
+
 var listsUrl = "https://api.trello.com/1/boards/YvJJ1eb0/lists?key=de2a945cc023e9645ffe2d0a04fb32be&token=8c815fba08256984333f3c1309cf31153819ee92ccf7ea3adaabb761c532d859"
 var cardsUrl = 'https://api.trello.com/1/boards/YvJJ1eb0/cards?attachments=true&key=de2a945cc023e9645ffe2d0a04fb32be&token=8c815fba08256984333f3c1309cf31153819ee92ccf7ea3adaabb761c532d859'
 
@@ -46,8 +48,23 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
             //   <h6 class="nome_contatti d-md-none d-xs-block">{{person.name}}</h6>
             //   <p class="ruolo_contatti d-none d-md-block">{{ person.desc.split("\n")[0]}}</p>
     
-        if(l.name == "persone.html")
-            console.log( lc)
+        if(l.name == "persone.html"){
+
+            var dir = 'src/_persone/';
+            if (!fs.existsSync(dir))
+                fs.mkdirSync(dir);
+
+            lc.forEach((item,i) => {
+                var p = {}
+                p.tags = 'persone'
+                p.id = item.id
+                p.name = item.name
+                p.desc = item.desc
+                p.attachments = item.attachments
+                let yamlStr = yaml.safeDump(p);
+                fs.writeFileSync(dir+item.name.split(" ").join("-")+'.md',"---\n"+yamlStr+"\n---", 'utf8');
+            })
+        }
         else
             fs.writeFile("src/_data/" + l.name.replace(".html",".json"), JSON.stringify(lc ,null, 2), function(){});
 
