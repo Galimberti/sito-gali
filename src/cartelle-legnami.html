@@ -80,8 +80,11 @@
       </div>
     </div>
   </div>
-  
+
   {{%- include('../_includes/_trello-gallery.html', {obj: cartellelegnami}) %}}
+  <div pi-if="cartellelegnami_old">
+    {{%- include('../_includes/_trello-gallery-archive.html', {obj: cartellelegnami_old}) %}}
+  </div>
 
 
 

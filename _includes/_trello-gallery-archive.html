@@ -1,6 +1,10 @@
-<div class="bg-light section photos">
-  <div class="container pt-1" style="background-color:white">
 
+
+<button id="btn-load-more" style="margin-bottom:150px !important;" onclick="showMoreImages()" class="btn btn-primary btn-lg mx-auto my-4 d-block  text-white">Mostramene di piu'</button>
+
+<div id="div-load-more" class="bg-light section d-none photos">
+    
+  <div class="container pt-1" style="background-color:white">
 
     <div ht-repeat="(key, val) in data.lista" class="row" style="display: flex" >
 

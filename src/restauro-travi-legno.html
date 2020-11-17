@@ -127,8 +127,12 @@ Restauro travi legno strutturali">
       </div>
     </div>
   </div>
-  {{%- include('../_includes/_trello-gallery.html', {obj: restaurotravilegno}) %}}
 
+
+  {{%- include('../_includes/_trello-gallery.html', {obj: restaurotravilegno}) %}}
+  <div pi-if="restaurotravilegno_old">
+    {{%- include('../_includes/_trello-gallery-archive.html', {obj: restaurotravilegno_old}) %}}
+  </div>
 
   <div class="section bg-primary py-4 text-left mt-3" id="CTA_2">
     <div class="container">

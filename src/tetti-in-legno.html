@@ -80,7 +80,11 @@
       </div>
     </div>
   </div>
+
   {{%- include('../_includes/_trello-gallery.html', {obj: tettiinlegno}) %}}
+  <div pi-if="tettiinlegno_old">
+    {{%- include('../_includes/_trello-gallery-archive.html', {obj: tettiinlegno_old}) %}}
+  </div>
 
   <div class="section bg-primary py-4 text-left mt-3" id="CTA_2">
     <div class="container">

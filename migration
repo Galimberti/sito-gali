@@ -1,7 +1,7 @@
 sostit. in ogni file in ./src  e ./includes , _redirects, trello.json, sitemap
 
 href="index.html -> href="/index.html
-src="a -> src="/a
+src="/a -> src="/a
 href="a -> href="/a
 url(a -> url(/a
 
