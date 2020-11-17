@@ -86,12 +86,12 @@ html {
   color: theme-color("secondary");
 }
 
-#photos .container {
+.photos .container {
   max-width : 940px;
 }
 
 @media (max-width: 544px) {
-  #photos .container img {
+  .photos .container img {
     pointer-events: none;
   }
 }
@@ -274,11 +274,11 @@ nav .separator {
 	overflow:hidden;
 }
 
-#photos img:hover {
+.photos img:hover {
   // cursor: zoom-in;
 }
 
-#photos .title {
+.photos .title {
   font-size: 120%;
   font-weight: bold;
   // color: white !important;
