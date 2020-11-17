@@ -49,6 +49,7 @@ loadLists()
         })
       })
 
+
       if (l.name == 'persone.html') {
         var dir = 'src/_persone/'
         if (!fs.existsSync(dir)) fs.mkdirSync(dir)

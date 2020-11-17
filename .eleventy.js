@@ -12,6 +12,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginPingendo);
 
   eleventyConfig.addPassthroughCopy("src/js");
+
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.setDynamicPermalinks(true);
  

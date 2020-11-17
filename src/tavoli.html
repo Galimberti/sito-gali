@@ -99,10 +99,15 @@
     </div>
   </div>
   
-  <div ht-include="'src/_trello-gallery.html'" ht-include-context="{lista:data.tavoli}"></div>
-  <div pi-if="tavoli_old">
+
+  {{%- include('../_includes/_trello-gallery.html', {obj: tavoli}) %}}
+  <div pi-if="locals.tavoli_old">
     {{%- include('../_includes/_trello-gallery-archive.html', {obj: tavoli_old}) %}}
   </div>
+
+
+
+
   <div class="section bg-primary py-4 text-left mt-3" id="CTA_2">
     <div class="container">
       <div class="row">

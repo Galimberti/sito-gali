@@ -105,7 +105,7 @@
 
 
   {{%- include('../_includes/_trello-gallery.html', {obj: parquet}) %}}
-  <div pi-if="parquet_old">
+  <div pi-if="locals.parquet_old">
     {{%- include('../_includes/_trello-gallery-archive.html', {obj: parquet_old}) %}}
   </div>
 

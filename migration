@@ -8,21 +8,25 @@ url(a -> url(/a
 privacy.html -> /privacy/
 parquet.html -> /parquet/
 falegnamini.html -> /falegnamini/
-case_in_legno.html -> /case-in-legno/
-tetti_in_legno.html -> /tetti-in-legno/
-facciate_in_legno.html -> /facciate-in-legno/
-manti_lattoneria.html -> /manti-lattoneria/
+case-in-legno.html -> /case-in-legno/
+tetti-in-legno.html -> /tetti-in-legno/
+facciate-in-legno.html -> /facciate-in-legno/
+manti-lattoneria.html -> /manti-lattoneria/
+lavora-con-noi.html -> /lavoro-con-noi/
+restauro-travi-legno.html -> /restauro-travi-legno/
+
 superfogli.html /superfogli/
 tavole.html /tavole/
 blocchi.html /blocchi/
-restauro_travi_legno.html -> /restauro-travi-legno/
 decking.html -> /decking/
+cartelle-legnami.html -> /cartelle-legnami/
 cartelle_legnami.html -> /cartelle-legnami/
+
 tavoli.html -> /tavoli/
-chi_siamo.html -> /chi-siamo/
-lavora_con_noi.html -> /lavoro-con-noi/
+chi-siamo.html -> /chi-siamo/
 fornitori.html -> /fornitori/
 primolegno.html -> /primolegno/
+uptown.html -> /uptown/
 
 src="navbar.js" -> src="/js/navbar.js" 
 ht-include="'src/_footer.html'" ->   pi-include="../_includes/_footer.html"

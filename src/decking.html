@@ -121,7 +121,7 @@
   </div>
 
   {{%- include('../_includes/_trello-gallery.html', {obj: decking}) %}}
-  <div pi-if="decking_old">
+  <div pi-if="locals.decking_old">
     {{%- include('../_includes/_trello-gallery-archive.html', {obj: decking_old}) %}}
   </div>
 
