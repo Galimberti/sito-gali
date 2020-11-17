@@ -131,7 +131,7 @@ $(window).on("ready", function() {
         $copy.show();
         $model.after($copy);
 
-        history.pushState({}, "page 2", "index.html");
+        history.pushState({}, "page 2", "/index.html");
 
         $(window).on('popstate', function() {
           $(".modal").modal('hide');

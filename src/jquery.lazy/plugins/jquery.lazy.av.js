@@ -11,8 +11,8 @@
 ;(function($) {
     // loads audio and video tags including tracks by two ways, like:
     // <audio>
-    //   <data-src src="audio.ogg" type="video/ogg"></data-src>
-    //   <data-src src="audio.mp3" type="video/mp3"></data-src>
+    //   <data-src src="/audio.ogg" type="video/ogg"></data-src>
+    //   <data-src src="/audio.mp3" type="video/mp3"></data-src>
     // </audio>
     // <video data-poster="poster.jpg">
     //   <data-src src="video.ogv" type="video/ogv"></data-src>
@@ -24,7 +24,7 @@
     // </video>
     //
     // or:
-    // <audio data-src="audio.ogg|video/ogg,video.mp3|video/mp3"></video>
+    // <audio data-src="/audio.ogg|video/ogg,video.mp3|video/mp3"></video>
     // <video data-poster="poster.jpg" data-src="video.ogv|video/ogv,video.webm|video/webm,video.mp4|video/mp4">
     //   <data-track kind="captions" src="captions.vtt" srclang="en"></data-track>
     //   <data-track kind="descriptions" src="descriptions.vtt" srclang="en"></data-track>

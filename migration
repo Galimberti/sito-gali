@@ -1,0 +1,46 @@
+sostit. in ogni file in ./src  e ./includes , _redirects, trello.json, sitemap
+
+href="index.html -> href="/index.html
+src="a -> src="/a
+href="a -> href="/a
+url(a -> url(/a
+
+privacy.html -> /privacy/
+parquet.html -> /parquet/
+falegnamini.html -> /falegnamini/
+case_in_legno.html -> /case-in-legno/
+tetti_in_legno.html -> /tetti-in-legno/
+facciate_in_legno.html -> /facciate-in-legno/
+manti_lattoneria.html -> /manti-lattoneria/
+superfogli.html /superfogli/
+tavole.html /tavole/
+blocchi.html /blocchi/
+restauro_travi_legno.html -> /restauro-travi-legno/
+decking.html -> /decking/
+cartelle_legnami.html -> /cartelle-legnami/
+tavoli.html -> /tavoli/
+chi_siamo.html -> /chi-siamo/
+lavora_con_noi.html -> /lavoro-con-noi/
+fornitori.html -> /fornitori/
+primolegno.html -> /primolegno/
+
+src="navbar.js" -> src="/js/navbar.js" 
+ht-include="'src/_footer.html'" ->   pi-include="../_includes/_footer.html"
+ht-include="'src/_navblock.html'" -> pi-include="../_includes/_navblock.html"
+ht-include="'src/_navbar.html'" -> pi-include="../_includes/_navbar.html"
+src="bootstrap.min.js" -> src="/js/bootstrap.min.js"
+src="trello-connect.js" -> src="/js/trello-connect.js"
+href="theme.css" -> href="/theme.css"
+ht-include="'src/_modal-lucadamo.html'" ->  pi-include="../_includes/_modal-lucadamo.html"
+ht-include="'src/_modal-brivio.html'" ->  pi-include="../_includes/_modal-brivio.html"
+ht-include="'src/_modal-franzetti.html'" ->  pi-include="../_includes/_modal-franzetti.html"
+ht-include="'src/_modal-muzio.html'" ->  pi-include="../_includes/_modal-muzio.html"
+ht-include="'src/_modal-vigano.html'" ->  pi-include="../_includes/_modal-vigano.html"
+
+per hiring 
+
+  
+  <div pi-include="../../_includes/_footer.html"></div>
+  <div pi-include="../../_includes/_navblock.html"></div>
+  <div pi-include="../../_includes/_footer.html"></div>
+

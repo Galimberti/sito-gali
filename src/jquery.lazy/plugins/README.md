@@ -110,25 +110,25 @@ Use `ajax` as the loader name by default.
 But there are even some shorthand names for specific request types `GET`, `POST` and `PUT` too.
 ```HTML
 <!-- simple GET request -->
-<div data-loader="ajax" data-src="ajax.html"></div>
+<div data-loader="ajax" data-src="/ajax.html"></div>
 
 <!-- simple post request with configurable response type -->
-<div data-loader="ajax" data-src="ajax.html" data-method="post" data-type="html"></div>
+<div data-loader="ajax" data-src="/ajax.html" data-method="post" data-type="html"></div>
 
 <!-- GET request -->
-<div data-loader="get" data-src="ajax.html"></div>
+<div data-loader="get" data-src="/ajax.html"></div>
 
 <!-- POST request-->
-<div data-loader="post" data-src="ajax.html"></div>
+<div data-loader="post" data-src="/ajax.html"></div>
 
 <!-- PUT request-->
-<div data-loader="put" data-src="ajax.html"></div>
+<div data-loader="put" data-src="/ajax.html"></div>
 ```
 
 On `POST` and `PUT` requests, the callback `ajaxCreateData` will be executed before every AJAX call.
 If used, the callback function should return the value for the `data` parameter of jQuery's AJAX function.
 ```HTML
-<div data-loader="post" data-src="ajax.html" data-value="post-data"></div>
+<div data-loader="post" data-src="/ajax.html" data-value="post-data"></div>
 ```
 
 ```JS
