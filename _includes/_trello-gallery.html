@@ -4,9 +4,7 @@
 
 
 
-    {{%var key = -1%}}
     {{% for( val  of obj ) {  %}}
-    {{%key = key +1 %}}
 
 
     <div class="row" style="display: flex">
@@ -40,7 +38,6 @@
       <!-- 2 img -->
       {{% if( val._images && val._images.length == 2 ) {  %}}
 
-      <div ht-if="val._images && val._images.length == 2" class="row mx-1 item">
         <div class="col-lg-6  my-2 ">
           <img class="lazy d-block mx-auto img-fluid" alt="{{%-val._images[0].alt%}}"
             data-src="{{%-val._images[0].url%}}?w=940&amp;auto=compress,format&amp;mark=https://www.galimberti.eu/assets/azienda/galimberti_watermark_white.png&amp;markscale=10&amp;markpad=10"
