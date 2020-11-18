@@ -21,26 +21,46 @@ loadLists().then((x) => lists = x).then(loadCards).then((cards) => {
         lc.forEach((item,i) => {
 
                 item._images = []
-                var s = item.name.split("//")
-                s.forEach((v,i) => {
+                console.log("ll",item.attachments.length)
+                
+                item.attachments.forEach((v,i) => {
+                    console.log("V ", v)
                     item._images[i] = {} 
-                    var vs = v.split("(")
+                    var vs = v.name.split("(")
                     if (vs.length > 1) {
                         console.log("vs", vs)
                         item._images[i].where = vs[1].split(")")[0]
                         item._images[i].alt = vs[0] //v.replace(/\-/g, " ")
                     } else {
-                        item._images[i].where = null
-                        item._images[i].alt = v //v.replace(/\-/g, " ")
+                        item._images[i].where = ""
+                        item._images[i].alt = v.name //v.replace(/\-/g, " ")
                     }
 
-                    try {
-                        item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
-                    } catch(e) {
-                        item._images[i].url = ""
-                    }
-                    //val.images[0].alt}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') 
+                            item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
+                    // item._images[i].where = vs[1].split(")")[0]
+                    // item._images[i].alt = vs[0] //v.replace(/\-/g, " ")
                 })
+
+                // var s = item.name.split("//")
+                // s.forEach((v,i) => {
+                //     item._images[i] = {} 
+                //     var vs = v.split("(")
+                //     if (vs.length > 1) {
+                //         console.log("vs", vs)
+                //         item._images[i].where = vs[1].split(")")[0]
+                //         item._images[i].alt = vs[0] //v.replace(/\-/g, " ")
+                //     } else {
+                //         item._images[i].where = vs[i].split(")")[0]
+                //         item._images[i].alt = v //v.replace(/\-/g, " ")
+                //     }
+
+                //     try {
+                //         item._images[i].url = item.attachments[i].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net')
+                //     } catch(e) {
+                //         item._images[i].url = ""
+                //     }
+                //     //val.images[0].alt}}" data-src="{{val.attachments[0].url.replace('https://trello-attachments.s3.amazonaws.com', 'https://galimberti.imgix.net') 
+                // })
         })
 
         // https://trello-attachments.s3.amazonaws.com/56b07e4f26b8d62379a1dd42/5dcbbe49aae2ef72129dcb1a/73cf62fe23fa4ba882522ad4196c0413/_MG_5965-2.jpg
