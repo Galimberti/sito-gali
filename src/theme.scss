@@ -187,6 +187,7 @@ html {
     background-position: center center;
     background-size: cover;
     position:relative;
+    
     min-height: 330px !important;
     padding-top: 4%;
     height: 50% !important;
@@ -200,6 +201,13 @@ html {
       top:0px;      
       background: linear-gradient(-25deg, rgba(244, 126, 67, 0.8) 0%, rgba(24, 12, 6, 0.8) 100%);
     }
+
+    &.contain {
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
+
     &.transparent {
       > *:first-child:before {
         background: linear-gradient(-25deg, rgba(0, 0,0, 0.0) 0%, rgba(0, 0, 0, 0.3) 100%) !important;
