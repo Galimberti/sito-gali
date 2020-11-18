@@ -1,54 +1,22 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-
-
 media_folder: "src/assets/img" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img"
 collections:
-  - name: "tshirt" # Used in routes, e.g., /admin/collections/blog
-    label: "T-shirt" # Used in the UI
-    folder: "tshirt" # The path to the folder where the documents are stored
+  - name: "persone" # Used in routes, e.g., /admin/collections/blog
+    label: Persone # Used in the UI
+    folder: src/_persone" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "product"}
-      - {label: "Title", name: "title", widget: "string"}
       - {label: "Price", name: "price", widget: "number"}
-      - {label: "Discount", name: "discount", widget: "number", required: false}
-      - {label: "Highlight", name: "highlight", widget: "boolean", default: false, required: false}
-      - {label: "Image", name: "thumbnail", widget: "image"}
-      - {label: "Description", name: "description", widget: "text"}
-      - label: Tags
-        name: "tags"
-        widget: "select"
-        multiple: true
-        options: ["tshirt", "products"]
-
-  - name: "products" # Used in routes, e.g., /admin/collections/blog
-    label: "Product" # Used in the UI
-    folder: "products" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields for each document, usually in front matter
-      # - {label: "Layout", name: "layout", widget: "hidden", default: "product"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Price", name: "price", widget: "number"}
-      - {label: "Discount", name: "discount", widget: "number", required: false}
-      - {label: "Highlight", name: "highlight", widget: "boolean", default: false, required: false}
-      - {label: "Image", name: "thumbnail", widget: "image"}
-      - {label: "Description", name: "description", widget: "text"}
-      - label: "Country"
-        name: "country"
-        widget: "list"
-        default: ["it"]
-      - label: "Testimonials"
-        name: "testimonials"
+      - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Name", name: "name", widget: "text"}
+      - {label:  Tags ,name: "description", widget: "text"}
+      - label: "Attachments"
+        name: "attachments"
         collapsed: false
         widget: "list"
         fields:
-          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-          - {label: Author, name: author, widget: string }
-      - label: Tags
-        name: "tags"
-        widget: "select"
-        multiple: true
-        options: ["tshirt", "products"]
+          - {label: Url, name: url, widget: string, default: "-"}
