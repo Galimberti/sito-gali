@@ -141,7 +141,10 @@
       </div>
     </div>
   </div>
+  
   <div ht-include="'src/_trello-gallery.html'" ht-include-context="{lista:data.mantilattoneria}"></div>
+  <div ht-if="data.mantilattoneria_old" ht-include="'src/_trello-gallery-archive.html'" ht-include-context="{lista:data.mantilattoneria_old}"></div>
+
   <div class="section bg-primary py-4 text-left mt-3" id="CTA_2">
     <div class="container">
       <div class="row">
@@ -163,7 +166,8 @@
       </div>
     </div>
   </div>
-  <div ht-include="'src/_footer.html'"></div>
+  <div ht-include="'src/_navblock.html'"></div>
+<div ht-include="'src/_footer.html'"></div>
   <div ht-include="'src/_modal-franzetti.html'"></div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>

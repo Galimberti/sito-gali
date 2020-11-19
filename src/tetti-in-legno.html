@@ -9,9 +9,9 @@
   <link rel="stylesheet" href="theme.css" type="text/css">
   <!-- PAGE settings -->
   <link rel="icon" href="assets/azienda/galimberti_favicon.png">
-  <title>Tetti e solai in legno</title>
-  <meta name="description" content="Tetti e solai in legno lamellare e massiccio, con finiture di design personalizzato. Progettazione, produzione, trasporto e posa, organizzati da un unico fornitore.">
-  <meta name="keywords" content="tetti in legno solai coperture soppalchi sopralzi lamellare rovere castagno larice galimberti">
+  <title>Tetti in legno</title>
+  <meta name="description" content="Tetti in legno lamellare, massiccio, progettazione, produzione..">
+  <meta name="keywords" content="tetti in legno coperture soppalchi sopralzi lamellare rovere castagno larice progettazione">
   <meta name="author" content="Galimberti legno e bioedilizia">
   <!-- Twitter -->
   <meta name="twitter:site" content="@GalimbertiSRL">
@@ -81,6 +81,7 @@
     </div>
   </div>
   <div ht-include="'src/_trello-gallery.html'" ht-include-context="{lista:data.tettiinlegno}"></div>
+  <div ht-if="data.tettiinlegno_old" ht-include="'src/_trello-gallery-archive.html'" ht-include-context="{lista:data.tettiinlegno_old}"></div>
   <div class="section bg-primary py-4 text-left mt-3" id="CTA_2">
     <div class="container">
       <div class="row">
@@ -102,10 +103,8 @@
       </div>
     </div>
   </div>
-  
-
-
-  <div ht-include="'src/_footer.html'"></div>  
+  <div ht-include="'src/_navblock.html'"></div>
+  <div ht-include="'src/_footer.html'"></div>
   <div ht-include="'src/_modal-franzetti.html'"></div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
