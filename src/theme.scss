@@ -325,3 +325,8 @@ nav .separator {
   
 //   background: linear-gradient(-25deg, rgba(0, 0,0, 0.0) 0%, rgba(0, 0, 0, 0.3) 100%) !important
 // }
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; // remove the gap so it doesn't close
+}
