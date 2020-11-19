@@ -11,7 +11,8 @@ var updateNumbers = function() {
   cardNumber = $(".photos").find(".lazy").length
   var $all = $(".photos .row .id");
   $(".photos span.id").each(function() {
-    $(this).text(cardNumber - $all.index(this) + 1)
+    // $(this).text(cardNumber - $all.index(this) + 1) //reverse
+    $(this).text($all.index(this))
   })
 }
 
